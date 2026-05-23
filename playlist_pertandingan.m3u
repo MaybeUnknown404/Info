@@ -1,8 +1,8 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21463&type=drm&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4rBqqF6_4vtlsAoOQj6VYsSJh5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084139/10750c.jpg" ch-number="1", Bintang Abaw vs Joseph - Light Middleweight | UBL Nasional Season 1
-https://susu2.indi2.workers.dev/index.mpd?id=21463&type=dash&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21392&type=drm&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/RbQ0tWiXueedQLTG3c4uRSEODCI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080494/12934e.jpg" ch-number="1", Hans vs Bintang Yosia - Light Welterweight | UBL Nasional Season 1
+https://susu2.indi2.workers.dev/index.mpd?id=21392&type=dash&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6786&type=drm&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby
@@ -15,9 +15,9 @@ https://susu2.indi2.workers.dev/index.mpd?id=6786&type=dash&token=O6Ivsn7RdZIUl5
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21392&type=drm&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qfUSLq2n1DKliAU4j86OHJgZL3k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21392/ubl-nasional-season-1-151e36.jpg" ch-number="4", UBL Nasional Season 1
-https://susu2.indi2.workers.dev/index.mpd?id=21392&type=dash&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21463&type=drm&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4rBqqF6_4vtlsAoOQj6VYsSJh5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084139/10750c.jpg" ch-number="4", Bintang Abaw vs Joseph - Light Middleweight | UBL Nasional Season 1
+https://susu2.indi2.workers.dev/index.mpd?id=21463&type=dash&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6686&type=drm&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby
