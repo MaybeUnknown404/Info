@@ -71,7 +71,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=20885&type=dash&token=kYCzvtRk7Njyw
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6786&type=drm&token=kYCzvtRk7NjywSAI12oUfng0oAjwvwUC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PfA5JnhjTzxTg19huRjXUpWKpU8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080205/94781c.jpg" ch-number="15", [19:00 WIB] Final - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5R9Z8FWw8AKwYK4qXqM0nlRQvgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080205/92aeef.jpg" ch-number="15", [19:00 WIB] Final - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026
 https://susu2.indi2.workers.dev/index.mpd?id=6786&type=dash&token=kYCzvtRk7NjywSAI12oUfng0oAjwvwUC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
