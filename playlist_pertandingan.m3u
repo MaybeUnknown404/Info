@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18249&type=drm&token=kYCzvtRk7NjywSAI12oUfng0oAjwvwUC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4s-i6cVuyBu1lGUJQZFghcNpkK4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087285/bb9252.jpg" ch-number="1", Panitchapon Teeraratsakul (THA) vs Christo Popov (FRA) - Men's Singles Semifinal | PERODUA Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wrl6n9NVvcOFuLQgyuqxsQtaO58=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087286/774adc.jpg" ch-number="1", Line Hojmark Kjaersfeldt (DEN) vs Ratchanok Intanon (THA) - Women's Singles Semifinal | PERODUA Malaysia Masters 2026
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=kYCzvtRk7NjywSAI12oUfng0oAjwvwUC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11,7 +11,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=21099&type=dash&token=kYCzvtRk7Njyw
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19354&type=drm&token=kYCzvtRk7NjywSAI12oUfng0oAjwvwUC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gsZ0oWccT0C4PLuZkRQkcezUqwY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080193/a92f43.jpg" ch-number="3", [14:54 WIB] PERSIB vs PERSIJAP - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gsZ0oWccT0C4PLuZkRQkcezUqwY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080193/a92f43.jpg" ch-number="3", [14:55 WIB] PERSIB vs PERSIJAP - BRI Super League
 https://susu2.indi2.workers.dev/index.mpd?id=19354&type=dash&token=kYCzvtRk7NjywSAI12oUfng0oAjwvwUC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
