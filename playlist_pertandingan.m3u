@@ -15,24 +15,24 @@ https://susu2.indi2.workers.dev/index.mpd?id=19404&type=dash&token=s1vLOfwsxD4zf
 https://susu2.indi2.workers.dev/index.mpd?id=21392&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6685&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8VkwsY5tuuWQyFzJAY2iGoi-bc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084159/275c1e.jpg" ch-number="4", Promotion Playoff Final: Hull City vs Middlesbrough - EFL Championship
+https://susu2.indi2.workers.dev/index.mpd?id=6685&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=20887&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fmQHttdF5qKNeNZ3BGsDfJNaEpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087854/142302.jpg" ch-number="4", Ignacio Buse vs Tommy Paul - Final | ATP 500: bitpanda Hamburg Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fmQHttdF5qKNeNZ3BGsDfJNaEpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087854/142302.jpg" ch-number="5", Ignacio Buse vs Tommy Paul - Final | ATP 500: bitpanda Hamburg Open 2026
 https://susu2.indi2.workers.dev/index.mpd?id=20887&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=20884&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4OfMwgvqQi_U-KOWuHrMAN-cpUk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087856/b9a1b9.jpg" ch-number="5", Mariano Navone vs Learner Tien - Final | ATP 250: Gonet Geneva Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4OfMwgvqQi_U-KOWuHrMAN-cpUk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087856/b9a1b9.jpg" ch-number="6", Mariano Navone vs Learner Tien - Final | ATP 250: Gonet Geneva Open 2026
 https://susu2.indi2.workers.dev/index.mpd?id=20884&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19354&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zi1cFNY-afcDGadtSN7wuNsK59I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089366/36a3cf.jpg" ch-number="6", Live Delay : PERSIJA vs Semen Padang FC - BRI Super League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zi1cFNY-afcDGadtSN7wuNsK59I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089366/36a3cf.jpg" ch-number="7", Live Delay : PERSIJA vs Semen Padang FC - BRI Super League
 https://susu2.indi2.workers.dev/index.mpd?id=19354&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6685&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8VkwsY5tuuWQyFzJAY2iGoi-bc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084159/275c1e.jpg" ch-number="7", Promotion Playoff Final: Hull City vs Middlesbrough - EFL Championship
-https://susu2.indi2.workers.dev/index.mpd?id=6685&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6317&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
@@ -145,54 +145,54 @@ https://susu2.indi2.workers.dev/index.mpd?id=17875&type=dash&token=s1vLOfwsxD4zf
 https://susu2.indi2.workers.dev/index.mpd?id=19404&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=9183&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XqhftroLvRX7strB2RkPgdnvEjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080211/4e6646.jpg" ch-number="30", [21:30 WIB] Liverpool vs Brentford - Premier League
+https://susu2.indi2.workers.dev/index.mpd?id=9183&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=9182&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F_wPWx5IAvHY2Ze2YqjeEFitTnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080191/68ac8a.jpg" ch-number="30", [21:30 WIB] Crystal Palace vs Arsenal - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F_wPWx5IAvHY2Ze2YqjeEFitTnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080191/68ac8a.jpg" ch-number="31", [21:30 WIB] Crystal Palace vs Arsenal - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=9182&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=20242&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yWqf7zs82u5KS4na8WDDzhDOF74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080213/12e423.jpg" ch-number="32", [21:50 WIB] Nottingham Forest vs Bournemouth - Premier League
+https://susu2.indi2.workers.dev/index.mpd?id=20242&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21476&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fZq5Ph-H8EjWuZc-kpfUWSQb9mk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080509/789229.jpg" ch-number="33", [21:50 WIB] Tottenham vs Everton - Premier League
+https://susu2.indi2.workers.dev/index.mpd?id=21476&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18797&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/T32ueopmBXqgRYymcLVoxApXGsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080194/a9993c.jpg" ch-number="34", [21:50 WIB] Man City vs Aston Villa - Premier League
+https://susu2.indi2.workers.dev/index.mpd?id=18797&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19536&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jeMgWWVrjph4nS5jOsuqr-CijJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080199/2ade20.jpg" ch-number="31", [21:50 WIB] Brighton vs Man United - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jeMgWWVrjph4nS5jOsuqr-CijJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080199/2ade20.jpg" ch-number="35", [21:50 WIB] Brighton vs Man United - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=19536&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19375&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sGQQueqtTOesB_Q761fuR_4726c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080207/af7fbb.jpg" ch-number="32", [21:50 WIB] Burnley vs Wolves - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sGQQueqtTOesB_Q761fuR_4726c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080207/af7fbb.jpg" ch-number="36", [21:50 WIB] Burnley vs Wolves - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=19375&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=20231&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2p8c31_KWwFV7fDAGXb5D0GD9N4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080209/faf182.jpg" ch-number="33", [21:50 WIB] Fulham vs Newcastle - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2p8c31_KWwFV7fDAGXb5D0GD9N4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080209/faf182.jpg" ch-number="37", [21:50 WIB] Fulham vs Newcastle - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=20231&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21462&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QG6YM4rJHJT8H8MfUARe3V0fuwg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080215/3b9904.jpg" ch-number="34", [21:50 WIB] Sunderland vs Chelsea - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QG6YM4rJHJT8H8MfUARe3V0fuwg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080215/3b9904.jpg" ch-number="38", [21:50 WIB] Sunderland vs Chelsea - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=21462&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18797&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XqhftroLvRX7strB2RkPgdnvEjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080211/4e6646.jpg" ch-number="35", [21:50 WIB] Liverpool vs Brentford - Premier League
-https://susu2.indi2.workers.dev/index.mpd?id=18797&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21476&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fZq5Ph-H8EjWuZc-kpfUWSQb9mk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080509/789229.jpg" ch-number="36", [21:50 WIB] Tottenham vs Everton - Premier League
-https://susu2.indi2.workers.dev/index.mpd?id=21476&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=20242&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yWqf7zs82u5KS4na8WDDzhDOF74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080213/12e423.jpg" ch-number="37", [21:50 WIB] Nottingham Forest vs Bournemouth - Premier League
-https://susu2.indi2.workers.dev/index.mpd?id=20242&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18796&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Oz4aaPrEndgt8lhrZjYQs4ZHkj4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080505/e298d8.jpg" ch-number="38", [22:00 WIB] West Ham vs Leeds United - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Oz4aaPrEndgt8lhrZjYQs4ZHkj4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080505/e298d8.jpg" ch-number="39", [22:00 WIB] West Ham vs Leeds United - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=18796&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=9183&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/T32ueopmBXqgRYymcLVoxApXGsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080194/a9993c.jpg" ch-number="39", [22:00 WIB] Man City vs Aston Villa - Premier League
-https://susu2.indi2.workers.dev/index.mpd?id=9183&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19404&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
