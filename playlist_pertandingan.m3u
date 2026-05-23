@@ -26,7 +26,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=6685&type=dash&token=s1vLOfwsxD4zfY
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19404&type=drm&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sCUUuPf1r1ihT1Tb2Iczy0Hirks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080706/9745d4.jpg" ch-number="6", [22:45 WIB] Bologna vs Inter - Serie A
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/sCUUuPf1r1ihT1Tb2Iczy0Hirks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080706/9745d4.jpg" ch-number="6", Bologna vs Inter - Serie A
 https://susu2.indi2.workers.dev/index.mpd?id=19404&type=dash&token=s1vLOfwsxD4zfYARI6z15H4UVKe6SncA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
