@@ -31,7 +31,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=19354&type=dash&token=O6Ivsn7RdZIUl
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6685&type=drm&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8VkwsY5tuuWQyFzJAY2iGoi-bc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084159/275c1e.jpg" ch-number="7", [21:25 WIB] Promotion Playoff Final: Hull City vs Middlesbrough - EFL Championship
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8VkwsY5tuuWQyFzJAY2iGoi-bc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084159/275c1e.jpg" ch-number="7", Promotion Playoff Final: Hull City vs Middlesbrough - EFL Championship
 https://susu2.indi2.workers.dev/index.mpd?id=6685&type=dash&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -131,7 +131,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=21099&type=dash&token=O6Ivsn7RdZIUl
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18249&type=drm&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LA1UuyGx4Ox2mf3F2Fw0wLD1WFw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2026-semifinals-court-1-53a9a3.jpg" ch-number="27", [11:00 WIB] Perodua Malaysia Masters 2026 - Finals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LA1UuyGx4Ox2mf3F2Fw0wLD1WFw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2026-semifinals-court-1-53a9a3.jpg" ch-number="27", [11:00 WIB] Sayaka Hirota/Ayako Sakuramoto (JPN) vs Chen Fan Shu Tian/Luo Xu Min (CHN) - Women's Doubles Final | PERODUA Malaysia Masters 2026
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
