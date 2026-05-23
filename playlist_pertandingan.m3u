@@ -11,12 +11,12 @@ https://susu2.indi2.workers.dev/index.mpd?id=6786&type=dash&token=O6Ivsn7RdZIUl5
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18249&type=drm&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dSHs3WEn60KBNkDaoGztu9HLB2Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087290/a71a80.jpg" ch-number="3", Junaidi Arif/Yap Roy King (MAS) vs Daniel Lundgaard/Mads Vestergaard (DEN) - Men's Doubles Semifinal | PERODUA Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dHR8yV5ESOhI0okl6fsrZoBTSHc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2026-semifinals-court-1-87a61e.jpg" ch-number="3", Perodua Malaysia Masters 2026 - Semifinals (Court 1)
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21463&type=drm&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4rBqqF6_4vtlsAoOQj6VYsSJh5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084139/10750c.jpg" ch-number="4", Bintang Abaw vs Joseph - Light Middleweight | UBL Nasional Season 1
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HB6u1IkKab-cb8pyWW2eoNas2rI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084133/5a6d96.jpg" ch-number="4", Rifqi Bilaldi vs Jazzy - Light Heavyweight | UBL Nasional Season 1
 https://susu2.indi2.workers.dev/index.mpd?id=21463&type=dash&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
