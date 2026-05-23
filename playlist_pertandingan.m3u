@@ -56,7 +56,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=6317&type=dash&token=O6Ivsn7RdZIUl5
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19354&type=drm&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lN_aa8aWZiDW12Vp0_6-6ivbTkw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089367/12f392.jpg" ch-number="12", [23:30 WIB] Live Delay : Borneo FC Samarinda vs Malut United FC - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lN_aa8aWZiDW12Vp0_6-6ivbTkw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089367/12f392.jpg" ch-number="12", [23:35 WIB] Rerun : PERSIB vs PERSIJAP - BRI Super League
 https://susu2.indi2.workers.dev/index.mpd?id=19354&type=dash&token=O6Ivsn7RdZIUl5MRfcDoY8ZWaoLAiAby|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
