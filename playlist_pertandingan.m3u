@@ -165,12 +165,17 @@ https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=HWZwCEFCO3dlDL
 https://susu2.indi2.workers.dev/index.mpd?id=17875&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6299&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NtkdRDdayZWoIHDegRrYwDmZmyQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091547/43e196.jpg" ch-number="34", [02:00 WIB] Final: Crystal Palace vs Rayo Vallecano - UEFA Conference League
+https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21466&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8ZSHyEqJvYgCOM17RFb40bt8TAw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21466/triumph-fight-genesis-e5461b.jpg" ch-number="34", [17:00 WIB] Triumph Fight "Genesis"
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8ZSHyEqJvYgCOM17RFb40bt8TAw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21466/triumph-fight-genesis-e5461b.jpg" ch-number="35", [17:00 WIB] Triumph Fight "Genesis"
 https://susu2.indi2.workers.dev/index.mpd?id=21466&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21485&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" ch-number="35", [16:00 WIB] nex Road to Champion Vol. 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" ch-number="36", [16:00 WIB] nex Road to Champion Vol. 3
 https://susu2.indi2.workers.dev/index.mpd?id=21485&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
