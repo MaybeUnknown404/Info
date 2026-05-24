@@ -5,14 +5,14 @@
 https://susu2.indi2.workers.dev/index.mpd?id=21210&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6317&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1yBWkxNnkdaEI2gqYHj_b-kDf0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080707/3ea0a2.jpg" ch-number="2", Round 1 - Day 1 (Court 2) - Roland Garros 2026
-https://susu2.indi2.workers.dev/index.mpd?id=6317&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6299&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/RxVuFQ_bLM6LlLc3jo82TtFOrlA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083863/707c89.jpg" ch-number="2", Round 1 - Day 1 (Court 3) - Roland Garros 2026
+https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6299&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/RxVuFQ_bLM6LlLc3jo82TtFOrlA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083863/707c89.jpg" ch-number="3", Round 1 - Day 1 (Court 3) - Roland Garros 2026
-https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6317&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1yBWkxNnkdaEI2gqYHj_b-kDf0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080707/3ea0a2.jpg" ch-number="3", Round 1 - Day 1 (Court 2) - Roland Garros 2026
+https://susu2.indi2.workers.dev/index.mpd?id=6317&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17875&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
@@ -20,74 +20,74 @@ https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=HWZwCEFCO3dlDL
 https://susu2.indi2.workers.dev/index.mpd?id=17875&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6685&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Fl_xXOijdep4zw99FYFKqlf3jJs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078558/7db04f.jpg" ch-number="5", Ajax vs Utrecht - Eredivisie Play-Offs UEFA Europa Conference
-https://susu2.indi2.workers.dev/index.mpd?id=6685&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19404&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/anfllS_g8fJ-GIhA4TN_X11cPtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083523/cb1ac4.jpg" ch-number="6", Parma vs Sassuolo - Serie A
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/anfllS_g8fJ-GIhA4TN_X11cPtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083523/cb1ac4.jpg" ch-number="5", Parma vs Sassuolo - Serie A
 https://susu2.indi2.workers.dev/index.mpd?id=19404&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=9183&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XqhftroLvRX7strB2RkPgdnvEjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080211/4e6646.jpg" ch-number="7", [21:30 WIB] Liverpool vs Brentford - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XqhftroLvRX7strB2RkPgdnvEjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080211/4e6646.jpg" ch-number="6", [21:30 WIB] Liverpool vs Brentford - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=9183&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=9182&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F_wPWx5IAvHY2Ze2YqjeEFitTnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080191/68ac8a.jpg" ch-number="8", [21:30 WIB] Crystal Palace vs Arsenal - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F_wPWx5IAvHY2Ze2YqjeEFitTnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080191/68ac8a.jpg" ch-number="7", [21:30 WIB] Crystal Palace vs Arsenal - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=9182&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21462&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QG6YM4rJHJT8H8MfUARe3V0fuwg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080215/3b9904.jpg" ch-number="9", [21:50 WIB] Sunderland vs Chelsea - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QG6YM4rJHJT8H8MfUARe3V0fuwg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080215/3b9904.jpg" ch-number="8", [21:50 WIB] Sunderland vs Chelsea - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=21462&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19536&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jeMgWWVrjph4nS5jOsuqr-CijJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080199/2ade20.jpg" ch-number="10", [21:50 WIB] Brighton vs Man United - Premier League
-https://susu2.indi2.workers.dev/index.mpd?id=19536&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18796&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Oz4aaPrEndgt8lhrZjYQs4ZHkj4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080505/e298d8.jpg" ch-number="9", [21:50 WIB] West Ham vs Leeds United - Premier League
+https://susu2.indi2.workers.dev/index.mpd?id=18796&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21476&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fZq5Ph-H8EjWuZc-kpfUWSQb9mk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080509/789229.jpg" ch-number="11", [21:50 WIB] Tottenham vs Everton - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fZq5Ph-H8EjWuZc-kpfUWSQb9mk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080509/789229.jpg" ch-number="10", [21:50 WIB] Tottenham vs Everton - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=21476&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18797&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/T32ueopmBXqgRYymcLVoxApXGsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080194/a9993c.jpg" ch-number="12", [21:50 WIB] Man City vs Aston Villa - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/T32ueopmBXqgRYymcLVoxApXGsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080194/a9993c.jpg" ch-number="11", [21:50 WIB] Man City vs Aston Villa - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=18797&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18796&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Oz4aaPrEndgt8lhrZjYQs4ZHkj4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080505/e298d8.jpg" ch-number="13", [21:50 WIB] West Ham vs Leeds United - Premier League
-https://susu2.indi2.workers.dev/index.mpd?id=18796&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19536&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jeMgWWVrjph4nS5jOsuqr-CijJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080199/2ade20.jpg" ch-number="12", [21:50 WIB] Brighton vs Man United - Premier League
+https://susu2.indi2.workers.dev/index.mpd?id=19536&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19375&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sGQQueqtTOesB_Q761fuR_4726c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080207/af7fbb.jpg" ch-number="14", [21:50 WIB] Burnley vs Wolves - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sGQQueqtTOesB_Q761fuR_4726c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080207/af7fbb.jpg" ch-number="13", [21:50 WIB] Burnley vs Wolves - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=19375&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=20231&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2p8c31_KWwFV7fDAGXb5D0GD9N4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080209/faf182.jpg" ch-number="15", [21:50 WIB] Fulham vs Newcastle - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2p8c31_KWwFV7fDAGXb5D0GD9N4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080209/faf182.jpg" ch-number="14", [21:50 WIB] Fulham vs Newcastle - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=20231&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=20242&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yWqf7zs82u5KS4na8WDDzhDOF74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080213/12e423.jpg" ch-number="16", [21:50 WIB] Nottingham Forest vs Bournemouth - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yWqf7zs82u5KS4na8WDDzhDOF74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080213/12e423.jpg" ch-number="15", [21:50 WIB] Nottingham Forest vs Bournemouth - Premier League
 https://susu2.indi2.workers.dev/index.mpd?id=20242&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19404&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4cP-gRAYuyiAT4WHtQfSgHIa2TE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083524/c7d65f.jpg" ch-number="17", [22:45 WIB] Napoli vs Udinese - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4cP-gRAYuyiAT4WHtQfSgHIa2TE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083524/c7d65f.jpg" ch-number="16", [22:45 WIB] Napoli vs Udinese - Serie A
 https://susu2.indi2.workers.dev/index.mpd?id=19404&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17884&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pf7VF0q-PG1Uy3EnhL6hNm0Zwk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083526/8eea24.jpg" ch-number="18", [23:00 WIB] Race - FIA Formula 2 Championship Canada Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pf7VF0q-PG1Uy3EnhL6hNm0Zwk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083526/8eea24.jpg" ch-number="17", [23:00 WIB] Race - FIA Formula 2 Championship Canada Grand Prix 2026
 https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18189&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KzphPnD9zPuDDsboNffki2zqwRM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087316/790f5b.jpg" ch-number="18", [00:00 WIB] Round 4 - The CJ Cup Byron Nelson 2026
+https://susu2.indi2.workers.dev/index.mpd?id=18189&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=9182&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
@@ -95,24 +95,24 @@ https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=HWZwCEFCO3dlD
 https://susu2.indi2.workers.dev/index.mpd?id=9182&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18189&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KzphPnD9zPuDDsboNffki2zqwRM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087316/790f5b.jpg" ch-number="20", [00:00 WIB] Round 4 - The CJ Cup Byron Nelson 2026
-https://susu2.indi2.workers.dev/index.mpd?id=18189&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17875&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/p9lBU0q02ei4apWAvd3kgt-MElo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091272/4be0d8.jpg" ch-number="21", [01:15 WIB] Giovanni Mpetshi Perricard vs Novak Djokovic - Men's Singles | Roland Garros 2026: Round 1 - Night 1 (Court 1)
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/p9lBU0q02ei4apWAvd3kgt-MElo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091272/4be0d8.jpg" ch-number="20", [01:15 WIB] Giovanni Mpetshi Perricard vs Novak Djokovic - Men's Singles | Roland Garros 2026: Round 1 - Night 1 (Court 1)
 https://susu2.indi2.workers.dev/index.mpd?id=17875&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21399&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IBo-Cox3k3Lt3oJSnQkY0PehxjU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083973/aded32.jpg" ch-number="22", [01:45 WIB] Lecce vs Genoa - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IBo-Cox3k3Lt3oJSnQkY0PehxjU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083973/aded32.jpg" ch-number="21", [01:45 WIB] Lecce vs Genoa - Serie A
 https://susu2.indi2.workers.dev/index.mpd?id=21399&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21398&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mM22Oifnmdy7xRzs49YyprFnGQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083974/04fb8b.jpg" ch-number="23", [01:45 WIB] Verona vs Roma - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mM22Oifnmdy7xRzs49YyprFnGQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083974/04fb8b.jpg" ch-number="22", [01:45 WIB] Verona vs Roma - Serie A
 https://susu2.indi2.workers.dev/index.mpd?id=21398&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19404&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/e18G8ed7jah3vAJ6YET78uZSlbY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083775/4fff41.jpg" ch-number="23", [01:45 WIB] Torino vs Juventus - Serie A
+https://susu2.indi2.workers.dev/index.mpd?id=19404&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17939&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
@@ -125,37 +125,32 @@ https://susu2.indi2.workers.dev/index.mpd?id=17939&type=dash&token=HWZwCEFCO3dlD
 https://susu2.indi2.workers.dev/index.mpd?id=17938&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19404&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/e18G8ed7jah3vAJ6YET78uZSlbY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083775/4fff41.jpg" ch-number="26", [01:45 WIB] Torino vs Juventus - Serie A
-https://susu2.indi2.workers.dev/index.mpd?id=19404&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17884&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KPOVOyIv7Dbmx0BtdXWH77n1vyM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083862/9e8ad5.jpg" ch-number="27", [02:55 WIB] Race - Formula 1 Lenovo Grand Prix du Canada 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KPOVOyIv7Dbmx0BtdXWH77n1vyM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083862/9e8ad5.jpg" ch-number="26", [02:55 WIB] Race - Formula 1 Lenovo Grand Prix du Canada 2026
 https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6299&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YlsVP_xjMixg8iA3d32M7VLe17c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089644/ef1f82.jpg" ch-number="28", [15:55 WIB] Round 1 - Day 2 (Court 3) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YlsVP_xjMixg8iA3d32M7VLe17c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089644/ef1f82.jpg" ch-number="27", [15:55 WIB] Round 1 - Day 2 (Court 3) - Roland Garros 2026
 https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6317&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Jg0DE5kkU4LCdvM1q0b6-8fHPHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089643/cd7479.jpg" ch-number="29", [15:55 WIB] Round 1 - Day 2 (Court 2) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Jg0DE5kkU4LCdvM1q0b6-8fHPHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089643/cd7479.jpg" ch-number="28", [15:55 WIB] Round 1 - Day 2 (Court 2) - Roland Garros 2026
 https://susu2.indi2.workers.dev/index.mpd?id=6317&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17875&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AtonBqXVY38IM4BReRu58qGzgEg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089645/854250.jpg" ch-number="30", [16:00 WIB] Round 1 - Day 2 (Court 1) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AtonBqXVY38IM4BReRu58qGzgEg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089645/854250.jpg" ch-number="29", [16:00 WIB] Round 1 - Day 2 (Court 1) - Roland Garros 2026
 https://susu2.indi2.workers.dev/index.mpd?id=17875&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21466&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8ZSHyEqJvYgCOM17RFb40bt8TAw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21466/triumph-fight-genesis-e5461b.jpg" ch-number="31", [17:00 WIB] Triumph Fight "Genesis"
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8ZSHyEqJvYgCOM17RFb40bt8TAw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21466/triumph-fight-genesis-e5461b.jpg" ch-number="30", [17:00 WIB] Triumph Fight "Genesis"
 https://susu2.indi2.workers.dev/index.mpd?id=21466&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21485&type=drm&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" ch-number="32", [16:00 WIB] nex Road to Champion Vol. 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" ch-number="31", [16:00 WIB] nex Road to Champion Vol. 3
 https://susu2.indi2.workers.dev/index.mpd?id=21485&type=dash&token=HWZwCEFCO3dlDLgNIdNwiTa3CrrjK3B1|User-Agent=VidioPlayer/6.31.6
 
