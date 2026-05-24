@@ -11,7 +11,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=21210&type=dash&token=cDqcoG2K5GDlW
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18249&type=drm&token=cDqcoG2K5GDlWEjAIUWSyuMKdQV0D5Bj
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TJbx3I8YPye15X_T3LTaWWDOkYA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5090790/c10a09.jpg" ch-number="3", Sayaka Hirota/Ayako Sakuramoto (JPN) vs Chen Fan Shu Tian/Luo Xu Min (CHN) - Women's Doubles Final | PERODUA Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/792EylIzylMHzb84lYh84E1e_QA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5090791/aa45dd.jpg" ch-number="3", Li Shi Feng (CHN) vs Panitchaphon Teeraratsakul (THA) - Men's Singles Final | PERODUA Malaysia Masters 2026
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=cDqcoG2K5GDlWEjAIUWSyuMKdQV0D5Bj|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
