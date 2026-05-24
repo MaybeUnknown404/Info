@@ -20,14 +20,14 @@ https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=mWrADCW5rE1Yw
 https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=mWrADCW5rE1Yworo7rD6AqJA1aFsGbXs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6317&type=drm&token=mWrADCW5rE1Yworo7rD6AqJA1aFsGbXs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1yBWkxNnkdaEI2gqYHj_b-kDf0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080707/3ea0a2.jpg" ch-number="5", [15:55 WIB] Round 1 - Day 1 (Court 2) - Roland Garros 2026
-https://susu2.indi2.workers.dev/index.mpd?id=6317&type=dash&token=mWrADCW5rE1Yworo7rD6AqJA1aFsGbXs|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17875&type=drm&token=mWrADCW5rE1Yworo7rD6AqJA1aFsGbXs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/paHla7FpxWwXjeYP-1Xcae5MRhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089640/097442.jpg" ch-number="5", [15:55 WIB] Round 1 - Day 1 (Court 1) - Roland Garros 2026
+https://susu2.indi2.workers.dev/index.mpd?id=17875&type=dash&token=mWrADCW5rE1Yworo7rD6AqJA1aFsGbXs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17875&type=drm&token=mWrADCW5rE1Yworo7rD6AqJA1aFsGbXs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/paHla7FpxWwXjeYP-1Xcae5MRhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089640/097442.jpg" ch-number="6", [16:00 WIB] Round 1 - Day 1 (Court 1) - Roland Garros 2026
-https://susu2.indi2.workers.dev/index.mpd?id=17875&type=dash&token=mWrADCW5rE1Yworo7rD6AqJA1aFsGbXs|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6317&type=drm&token=mWrADCW5rE1Yworo7rD6AqJA1aFsGbXs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1yBWkxNnkdaEI2gqYHj_b-kDf0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080707/3ea0a2.jpg" ch-number="6", [15:55 WIB] Round 1 - Day 1 (Court 2) - Roland Garros 2026
+https://susu2.indi2.workers.dev/index.mpd?id=6317&type=dash&token=mWrADCW5rE1Yworo7rD6AqJA1aFsGbXs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=19404&type=drm&token=mWrADCW5rE1Yworo7rD6AqJA1aFsGbXs
