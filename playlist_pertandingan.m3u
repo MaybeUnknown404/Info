@@ -1,56 +1,56 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21210&type=drm&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21210&type=drm&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_XebhxWatYjonrHBnMwT4nTC7ZU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-34b341.jpg" ch-number="1", Campus League 2026 - Basketball
-https://susu2.indi2.workers.dev/index.mpd?id=21210&type=dash&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi|User-Agent=VidioPlayer/6.31.6
+https://susu2.indi2.workers.dev/index.mpd?id=21210&type=dash&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6299&type=drm&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6299&type=drm&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YlsVP_xjMixg8iA3d32M7VLe17c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089644/ef1f82.jpg" ch-number="2", [15:55 WIB] Round 1 - Day 2 (Court 3) - Roland Garros 2026
-https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi|User-Agent=VidioPlayer/6.31.6
+https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6317&type=drm&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6317&type=drm&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Jg0DE5kkU4LCdvM1q0b6-8fHPHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089643/cd7479.jpg" ch-number="3", [15:55 WIB] Round 1 - Day 2 (Court 2) - Roland Garros 2026
-https://susu2.indi2.workers.dev/index.mpd?id=6317&type=dash&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi|User-Agent=VidioPlayer/6.31.6
+https://susu2.indi2.workers.dev/index.mpd?id=6317&type=dash&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17875&type=drm&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17875&type=drm&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AtonBqXVY38IM4BReRu58qGzgEg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089645/854250.jpg" ch-number="4", [16:00 WIB] Round 1 - Day 2 (Court 1) - Roland Garros 2026
-https://susu2.indi2.workers.dev/index.mpd?id=17875&type=dash&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi|User-Agent=VidioPlayer/6.31.6
+https://susu2.indi2.workers.dev/index.mpd?id=17875&type=dash&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17875&type=drm&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17875&type=drm&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/afSIvKMQeIFbtmWwhgQKu_kJ02c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091443/999b52.jpg" ch-number="5", [01:15 WIB] Round 1 - Night 2 (Court 1) - Roland Garros 2026
-https://susu2.indi2.workers.dev/index.mpd?id=17875&type=dash&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi|User-Agent=VidioPlayer/6.31.6
+https://susu2.indi2.workers.dev/index.mpd?id=17875&type=dash&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6299&type=drm&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6299&type=drm&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wa3_AgrKN8huIGDj0Fl8Y5ebA6o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091446/194d4e.jpg" ch-number="6", [15:55 WIB] Round 1 - Day 3 (Court 3) - Roland Garros 2026
-https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi|User-Agent=VidioPlayer/6.31.6
+https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6317&type=drm&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6317&type=drm&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FyJPRXeAamMmsSRcSq9bsBwkJzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091445/974096.jpg" ch-number="7", [15:55 WIB] Round 1 - Day 3 (Court 2) - Roland Garros 2026
-https://susu2.indi2.workers.dev/index.mpd?id=6317&type=dash&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi|User-Agent=VidioPlayer/6.31.6
+https://susu2.indi2.workers.dev/index.mpd?id=6317&type=dash&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17875&type=drm&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=17875&type=drm&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iH36SJCchoOsoL4ZPQ_1GVL_tjQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091444/fe3328.jpg" ch-number="8", [16:00 WIB] Round 1 - Day 3 (Court 1) - Roland Garros 2026
-https://susu2.indi2.workers.dev/index.mpd?id=17875&type=dash&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi|User-Agent=VidioPlayer/6.31.6
+https://susu2.indi2.workers.dev/index.mpd?id=17875&type=dash&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6299&type=drm&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=6299&type=drm&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NtkdRDdayZWoIHDegRrYwDmZmyQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091547/43e196.jpg" ch-number="9", [02:00 WIB] Final: Crystal Palace vs Rayo Vallecano - UEFA Conference League
-https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi|User-Agent=VidioPlayer/6.31.6
+https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21466&type=drm&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21466&type=drm&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8ZSHyEqJvYgCOM17RFb40bt8TAw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21466/triumph-fight-genesis-e5461b.jpg" ch-number="10", [17:00 WIB] Triumph Fight "Genesis"
-https://susu2.indi2.workers.dev/index.mpd?id=21466&type=dash&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi|User-Agent=VidioPlayer/6.31.6
+https://susu2.indi2.workers.dev/index.mpd?id=21466&type=dash&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21485&type=drm&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21485&type=drm&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" ch-number="11", [16:00 WIB] nex Road to Champion Vol. 3
-https://susu2.indi2.workers.dev/index.mpd?id=21485&type=dash&token=2JR0vmXl10EwaICN7cZOL9ZGN9NUHbYi|User-Agent=VidioPlayer/6.31.6
+https://susu2.indi2.workers.dev/index.mpd?id=21485&type=dash&token=7SFUidhJfQE1sKgUKvgBOcgbLV5hZ4GC|User-Agent=VidioPlayer/6.31.6
 
