@@ -11,7 +11,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=ROlHBuHzQJtg4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18252&type=drm&token=ROlHBuHzQJtg4ccLVepunb4Ubj0yBRoZ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZlSsJcUuew9s39zIvVrKnUtdaX4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-e966b7.jpg" ch-number="3", KFF Singapore Badminton Open 2026 - Round of 32 (Court 3)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/hPI55Qfx7NIdkkfiwF4Z5rvxX88=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094944/658641.jpg" ch-number="3", Leong Jun Hao (MAS) vs Lee Chia Hao (TPE) - Men's Singles Round of 32 | KFF Singapore Open 2026
 https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=ROlHBuHzQJtg4ccLVepunb4Ubj0yBRoZ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
