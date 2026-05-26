@@ -6,7 +6,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=21210&type=dash&token=rnHt7DXg0p8QJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=18250&type=drm&token=rnHt7DXg0p8QJ0re2eUM4vSQ5YehivXq
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gBNcIhjSN8jvvp-57PoJvQUfXeE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094933/00dd11.jpg" ch-number="2", Liu Kuang Heng/Hsu Yin-Hui (TPE) vs Cheng Xing/Zhang Chi (CHN) - Mixed Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9jIaoaJsAmyPwqP71CkRWTS-ePE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094934/6fa7a4.jpg" ch-number="2", Shi Yu Qi (CHN) vs Kenta Nishimoto (JPN) - Men's Singles Round of 32 | KFF Singapore Open 2026
 https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=rnHt7DXg0p8QJ0re2eUM4vSQ5YehivXq|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -218,8 +218,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21490&type=drm&token=rnHt7DXg0p8QJ0re2eUM4vSQ5YehivXq
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vgfz5uJ3EMnDHhUVrHaoaqae68w=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21490/tvod-byon-madness-4-f0faee.jpg" ch-number="38", [15:00 WIB] BYON Madness 4
+#https://susu2.indi2.workers.dev/index.mpd?id=21490&type=dash&token=rnHt7DXg0p8QJ0re2eUM4vSQ5YehivXq|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.mpd?id=21485&type=drm&token=rnHt7DXg0p8QJ0re2eUM4vSQ5YehivXq
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" ch-number="38", [16:00 WIB] nex Road to Champion Vol. 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" ch-number="39", [16:00 WIB] nex Road to Champion Vol. 3
 #https://susu2.indi2.workers.dev/index.mpd?id=21485&type=dash&token=rnHt7DXg0p8QJ0re2eUM4vSQ5YehivXq|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
