@@ -5,14 +5,14 @@
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=vxBqfXpUqGVVkNR4gvMAjtmJO295Niov|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=vxBqfXpUqGVVkNR4gvMAjtmJO295Niov
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vmWgaAA5JhYWvi2haGtAo7fsR1M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-753240.jpg" ch-number="2", Kevin Lee/Eliana Zhang (CAN) vs Ruttanapak Oupthong/Jhenicha Sudjaipraparat (THA) - Mixed Doubles Round of 32 | KFF Singapore Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=vxBqfXpUqGVVkNR4gvMAjtmJO295Niov|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=vxBqfXpUqGVVkNR4gvMAjtmJO295Niov
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/FrdMfCjKsJtpkeKgwbFdKzPByYc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096438/755bc9.jpg" ch-number="2", Yeung Nga Ting/Yeung Pui Lam (HKG) vs Jia Yi Fan/Zhang Shu Xian (CHN) - Womens Doubles Round of 32 | KFF Singapore Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=vxBqfXpUqGVVkNR4gvMAjtmJO295Niov|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=vxBqfXpUqGVVkNR4gvMAjtmJO295Niov
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/FrdMfCjKsJtpkeKgwbFdKzPByYc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096438/755bc9.jpg" ch-number="3", Yeung Nga Ting/Yeung Pui Lam (HKG) vs Jia Yi Fan/Zhang Shu Xian (CHN) - Womens Doubles Round of 32 | KFF Singapore Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=vxBqfXpUqGVVkNR4gvMAjtmJO295Niov|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=vxBqfXpUqGVVkNR4gvMAjtmJO295Niov
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vmWgaAA5JhYWvi2haGtAo7fsR1M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-753240.jpg" ch-number="3", Kevin Lee/Eliana Zhang (CAN) vs Ruttanapak Oupthong/Jhenicha Sudjaipraparat (THA) - Mixed Doubles Round of 32 | KFF Singapore Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=vxBqfXpUqGVVkNR4gvMAjtmJO295Niov|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=vxBqfXpUqGVVkNR4gvMAjtmJO295Niov
@@ -52,7 +52,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=vxBqfXpUqGVVkNR4gvMAjtmJO295Niov
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vmWgaAA5JhYWvi2haGtAo7fsR1M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-753240.jpg" ch-number="10", [16:30 WIB] - Michelle Li (CAN) vs Line Hojmark Kjaersfeldt (DEN) - Womens Singles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vmWgaAA5JhYWvi2haGtAo7fsR1M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-753240.jpg" ch-number="10", [17:15 WIB] - Michelle Li (CAN) vs Line Hojmark Kjaersfeldt (DEN) - Womens Singles Round of 32 | KFF Singapore Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=vxBqfXpUqGVVkNR4gvMAjtmJO295Niov|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
