@@ -11,7 +11,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=K0iBvsN1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=K0iBvsN1hL1kj1xGDYWPUr1QH5YS9KHa
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vmWgaAA5JhYWvi2haGtAo7fsR1M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-753240.jpg" ch-number="3", Marvin Seidel/Thuc Phuong Nguyen (GER) vs Pakkapon Teeraratsakul/Sapsiree Taerattanachai (THA) - Mixed Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vmWgaAA5JhYWvi2haGtAo7fsR1M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-753240.jpg" ch-number="3", Bengisu Ercetin/Nazlican Inci (TUR) vs Chong Jie Yu/Vanessa Ng (MAS) - Womens Doubles Round of 32 | KFF Singapore Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=K0iBvsN1hL1kj1xGDYWPUr1QH5YS9KHa|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
