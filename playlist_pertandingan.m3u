@@ -5,14 +5,15 @@
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=dash&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-Q2Z5lwWi55xmDzdAsOdm8thDlU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095117/229642.jpg" ch-number="2", Tomas Machac vs Alexander Zverev - Mens Singles | Roland Garros 2026: Round 2 - Night 4 (Court 1)
-https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NtkdRDdayZWoIHDegRrYwDmZmyQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091547/43e196.jpg" ch-number="2", [01:55 WIB] - Final: Crystal Palace vs Rayo Vallecano - UEFA Conference League
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NtkdRDdayZWoIHDegRrYwDmZmyQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091547/43e196.jpg" ch-number="3", [01:55 WIB] - Final: Crystal Palace vs Rayo Vallecano - UEFA Conference League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-Q2Z5lwWi55xmDzdAsOdm8thDlU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095117/229642.jpg" ch-number="3", [02:00 WIB] - Tomas Machac vs Alexander Zverev - Mens Singles | Roland Garros 2026: Round 2 - Night 4 (Court 1)
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -64,15 +65,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/klB7t1Ko36i70NueIFJEhztVXFg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/kff-singapore-badminton-open-2026-round-of-16-court-2-c8a16b.jpg" ch-number="12", [17:00 WIB] - Shi Yu Qi (CHN) vs Alwi Farhan (INA) - Mens Singles Round of 16 | KFF Singapore Badminton Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pGl3aOMGKX4j56fjClZkQehpB6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096507/2d939d.jpg" ch-number="12", [17:00 WIB] - Road to UFC Season 5 - Day 1
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pGl3aOMGKX4j56fjClZkQehpB6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096507/2d939d.jpg" ch-number="13", [17:00 WIB] - Road to UFC Season 5 - Day 1
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/klB7t1Ko36i70NueIFJEhztVXFg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/kff-singapore-badminton-open-2026-round-of-16-court-2-c8a16b.jpg" ch-number="13", [17:00 WIB] - Shi Yu Qi (CHN) vs Alwi Farhan (INA) - Mens Singles Round of 16 | KFF Singapore Badminton Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=Q9J0y5XE0L59A7P0CzYjJsXYVO9mWeLN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
