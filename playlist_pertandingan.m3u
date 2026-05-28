@@ -16,7 +16,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=fxCj5n3z
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=fxCj5n3zdWwA2JEDPRNFUkopuMOgKagL
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Ck9NeDcxzhtfO8-a6pPJXpa0o0A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5098832/ab2914.jpg" ch-number="4", Ririna Hiramoto/Kokona Ishikawa (JPN) vs Arisa Irigashi/Chiharu Shida (JPN) - Womens Doubles Round of 16 | KFF Singapore Badminton Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/e5-m_8LHiCiy6cZEmSvNpvjhFCA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5098833/17b31a.jpg" ch-number="4", Weng Hong Yang (CHN) vs Alex Lanier (FRA) - Mens Singles Round of 16 | KFF Singapore Badminton Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=fxCj5n3zdWwA2JEDPRNFUkopuMOgKagL|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
