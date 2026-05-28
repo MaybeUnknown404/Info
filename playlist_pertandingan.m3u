@@ -16,9 +16,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=DyAdkThq
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=drm&token=DyAdkThqoy98rOLm1bQtvBuJCuUOsziE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2qVGPWK0aKGSEDclrl_e1-4GRNQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092048/3c0fa7.jpg" ch-number="4", [03:00 WIB] - Round 1 - Charles Schwab Challenge 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=dash&token=DyAdkThqoy98rOLm1bQtvBuJCuUOsziE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2qVGPWK0aKGSEDclrl_e1-4GRNQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092048/3c0fa7.jpg" ch-number="4", Round 1 - Charles Schwab Challenge 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=dash&token=DyAdkThqoy98rOLm1bQtvBuJCuUOsziE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=DyAdkThqoy98rOLm1bQtvBuJCuUOsziE
