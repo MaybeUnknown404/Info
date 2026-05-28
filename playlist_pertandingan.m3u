@@ -6,7 +6,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=4nJlQWEh
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/klB7t1Ko36i70NueIFJEhztVXFg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/kff-singapore-badminton-open-2026-round-of-16-court-2-c8a16b.jpg" ch-number="2", Line Christophersen (DEN) vs Wang Zhi Yi (CHN) - Womens Singles Round of 16 | KFF Singapore Badminton Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/klB7t1Ko36i70NueIFJEhztVXFg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/kff-singapore-badminton-open-2026-round-of-16-court-2-c8a16b.jpg" ch-number="2", Dhruv Kapila/Tanisha Crasto (IND) vs Yuta Watanabe/Maya Taguchi (JPN) - Mixed Doubles Round of 16 | KFF Singapore Badminton Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -16,7 +16,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=4nJlQWEh
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zwPD5mIuSONj2J5fDWHypj0Wg_w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5098827/a886c0.jpg" ch-number="4", Natsuki Nidaira (JPN) vs Ratchanok Intanon (THA) - Womens Singles Round of 16 | KFF Singapore Badminton Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/PG9ATSyjVPfHXGZH6_cMaoyZ8oQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5098828/855d9e.jpg" ch-number="4", Lin Hsiang Ti (TPE) vs Pornpawee Chochuwong (THA) - Womens Singles Round of 16 | KFF Singapore Badminton Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -368,44 +368,50 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21467&type=drm&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fzGEuE7g4yEd8jAx7i9f56l6dAs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21467/triumph-fight-genesis-d03568.jpg" ch-number="63", [17:00 WIB] - Moh Randi Pratama vs Luvi Nugroho - Flyweight | Triumph Fight Genesis
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21467&type=dash&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JJJofI1qjqfPoLTENSwzZebwVtk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096574/f869d4.jpg" ch-number="63", [17:50 WIB] - WorldSPB Race 2 - WorldSBK Championship 2026 Round 6 Aragon Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JJJofI1qjqfPoLTENSwzZebwVtk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096574/f869d4.jpg" ch-number="64", [17:50 WIB] - WorldSPB Race 2 - WorldSBK Championship 2026 Round 6 Aragon Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FvdFxHWT-A0Pqjy_hTrLUlgn2x8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101119/5a0ba6.jpg" ch-number="64", [18:15 WIB] - MotoGP Race: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FvdFxHWT-A0Pqjy_hTrLUlgn2x8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101119/5a0ba6.jpg" ch-number="65", [18:15 WIB] - MotoGP Race: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pi4-soYZQQuw4tuEBN9aVstAYxE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096575/608a96.jpg" ch-number="65", [19:00 WIB] - WorldSSP Race 2 - WorldSBK Championship 2026 Round 6 Aragon Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pi4-soYZQQuw4tuEBN9aVstAYxE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096575/608a96.jpg" ch-number="66", [19:00 WIB] - WorldSSP Race 2 - WorldSBK Championship 2026 Round 6 Aragon Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21537&type=drm&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/T-AhQ9h5d5ScbsnOjtDjN5CeW_s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095085/5e040e.jpg" ch-number="66", [20:00 WIB] - Race: F1H2O 2026 - Grand Prix of Cagliari, Italy
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/T-AhQ9h5d5ScbsnOjtDjN5CeW_s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095085/5e040e.jpg" ch-number="67", [20:00 WIB] - Race: F1H2O 2026 - Grand Prix of Cagliari, Italy
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21537&type=dash&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/E5PmQxc9iwYqALIrdo1XgCtm4es=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096576/d1ec50.jpg" ch-number="67", [20:20 WIB] - WorldSBK Race 2 - WorldSBK Championship 2026 Round 6 Aragon Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/E5PmQxc9iwYqALIrdo1XgCtm4es=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096576/d1ec50.jpg" ch-number="68", [20:20 WIB] - WorldSBK Race 2 - WorldSBK Championship 2026 Round 6 Aragon Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21490&type=drm&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/959laOUQhqSJNgyNU79VEOoiBho=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21490/byon-madness-vol-4-2026-bb64a5.jpg" ch-number="68", [15:00 WIB] - BYON Madness 4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/959laOUQhqSJNgyNU79VEOoiBho=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21490/byon-madness-vol-4-2026-bb64a5.jpg" ch-number="69", [15:00 WIB] - BYON Madness 4
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21490&type=dash&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21485&type=drm&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" ch-number="69", [16:00 WIB] - nex Road to Champion Vol. 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" ch-number="70", [16:00 WIB] - nex Road to Champion Vol. 3
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21485&type=dash&token=4nJlQWEhpi607SBuepS3438Rpc9W4xc6|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
