@@ -41,9 +41,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=OOKfCNyQ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=16890&type=drm&token=OOKfCNyQTvhNs6IsVb7vIjav5UGzyLrY
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OSqPEYiOv62kWQ8kq-msbuAqAjk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096510/bc28ea.jpg" ch-number="9", [18:30 WIB] - ONE Friday Fights 156
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=16890&type=dash&token=OOKfCNyQTvhNs6IsVb7vIjav5UGzyLrY|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OSqPEYiOv62kWQ8kq-msbuAqAjk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096510/bc28ea.jpg" ch-number="9", ONE Friday Fights 156
+https://ndelok.arivpanel.workers.dev/index.mpd?id=16890&type=dash&token=OOKfCNyQTvhNs6IsVb7vIjav5UGzyLrY|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=OOKfCNyQTvhNs6IsVb7vIjav5UGzyLrY
