@@ -36,9 +36,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=OOKfCNyQ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=OOKfCNyQTvhNs6IsVb7vIjav5UGzyLrY
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5d3QZvdK4e9hlRshG5RFBPwDaw4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096562/09e0cc.jpg" ch-number="8", [18:10 WIB] - Moto3 Practice: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=OOKfCNyQTvhNs6IsVb7vIjav5UGzyLrY|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5d3QZvdK4e9hlRshG5RFBPwDaw4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096562/09e0cc.jpg" ch-number="8", Moto3 Practice: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=OOKfCNyQTvhNs6IsVb7vIjav5UGzyLrY|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=16890&type=drm&token=OOKfCNyQTvhNs6IsVb7vIjav5UGzyLrY
