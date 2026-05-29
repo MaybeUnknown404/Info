@@ -1,13 +1,13 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=EkKALSqwhqU6tUxq2BVtUO7RdzJXWHPD
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lezHH3UTjHWCJ2HoOLgXJoDNN5M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105144/a3ed40.jpg" ch-number="1", Alwi Farhan (INA) vs Kodai Naraoka (JPN) - Mens Singles Quarterfinals | KFF Singapore Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=EkKALSqwhqU6tUxq2BVtUO7RdzJXWHPD|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=EkKALSqwhqU6tUxq2BVtUO7RdzJXWHPD
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8PTTJ2c0X5LkFCfOs0o3jDqKbv8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/kff-singapore-badminton-open-2026-quarterfinals-court-2-fb5f45.jpg" ch-number="1", Anders Antonsen (DEN) vs Alex Lanier (FRA) - Mens Singles Quarterfinals | KFF Singapore Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=EkKALSqwhqU6tUxq2BVtUO7RdzJXWHPD|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=EkKALSqwhqU6tUxq2BVtUO7RdzJXWHPD
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8PTTJ2c0X5LkFCfOs0o3jDqKbv8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/kff-singapore-badminton-open-2026-quarterfinals-court-2-fb5f45.jpg" ch-number="2", Anders Antonsen (DEN) vs Alex Lanier (FRA) - Mens Singles Quarterfinals | KFF Singapore Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=EkKALSqwhqU6tUxq2BVtUO7RdzJXWHPD|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=EkKALSqwhqU6tUxq2BVtUO7RdzJXWHPD
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/7x6bR2Q36xkbskOFQu5D-SpPRf0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105145/20ed97.jpg" ch-number="2", Loh Kean Yew (SGP) vs Chi Yu Jen (TPE) - Mens Singles Quarterfinals | KFF Singapore Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=EkKALSqwhqU6tUxq2BVtUO7RdzJXWHPD|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=EkKALSqwhqU6tUxq2BVtUO7RdzJXWHPD
