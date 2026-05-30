@@ -25,14 +25,14 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=dash&token=Z0gfpy4eG
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9fAcGIB_tVyYiP9aLqNCHIANKP4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108721/a54b13.jpg" ch-number="6", Round 3 - Day 7 (Court 1) - Roland Garros 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bSXzmggvbULsyULGui1by4Mma_0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101987/5efed4.jpg" ch-number="6", Round 3 - Day 7 (Court 3) - Roland Garros 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bSXzmggvbULsyULGui1by4Mma_0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101987/5efed4.jpg" ch-number="7", Round 3 - Day 7 (Court 3) - Roland Garros 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9fAcGIB_tVyYiP9aLqNCHIANKP4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108721/a54b13.jpg" ch-number="7", Round 3 - Day 7 (Court 1) - Roland Garros 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
@@ -45,57 +45,57 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=Z0gfpy4e
 https://ndelok.arivpanel.workers.dev/index.mpd?id=19388&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GPKAg66cT3Ensw3kPngZP5ukDL8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108353/05379e.jpg" ch-number="10", [19:29 WIB] - Fajar Alfian/Muhammad Shohibul Fikri (INA) vs Liang Wei Keng/Wang Chang (CHN) - Mens Doubles Semifinals | KFF Singapore Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lqPyXlR1eUrgbh0ldUaLKzsa8IQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101112/209b52.jpg" ch-number="10", [19:30 WIB] - MotoGP Tissot SPRINT: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lqPyXlR1eUrgbh0ldUaLKzsa8IQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101112/209b52.jpg" ch-number="11", [19:30 WIB] - MotoGP Tissot SPRINT: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/x7hRQ1VgaDEYc1rex3zimlxFK2w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096572/3a4cf6.jpg" ch-number="11", [19:40 WIB] - WorldSPB Race 1 - WorldSBK Championship 2026 Round 6 Aragon Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/x7hRQ1VgaDEYc1rex3zimlxFK2w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096572/3a4cf6.jpg" ch-number="12", [19:40 WIB] - WorldSPB Race 1 - WorldSBK Championship 2026 Round 6 Aragon Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21537&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Tg6naIgWQgW7EsL9lc1X0MYJM1c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092052/84111e.jpg" ch-number="12", [20:00 WIB] - Sprint Race: F1H2O 2026 - Grand Prix of Cagliari, Italy
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Tg6naIgWQgW7EsL9lc1X0MYJM1c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092052/84111e.jpg" ch-number="13", [20:00 WIB] - Sprint Race: F1H2O 2026 - Grand Prix of Cagliari, Italy
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21537&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/onircXvTeN-HeX-FtI8t3sj3iHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095081/0b87ea.jpg" ch-number="13", [20:15 WIB] - Sergei Pavlovich vs Tallison Teixeira - Heavyweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/onircXvTeN-HeX-FtI8t3sj3iHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095081/0b87ea.jpg" ch-number="14", [20:15 WIB] - Sergei Pavlovich vs Tallison Teixeira - Heavyweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c25SBTMiiLkef8vq17nnWcbatH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092053/6893e4.jpg" ch-number="14", [20:30 WIB] - The UCL Finals Preview Show 2025/26
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c25SBTMiiLkef8vq17nnWcbatH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092053/6893e4.jpg" ch-number="15", [20:30 WIB] - The UCL Finals Preview Show 2025/26
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7awVyh6pQu97q1uE_u69SttE0Sg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101989/7ce500.jpg" ch-number="15", [21:00 WIB] - Round 3 - Day 7 (Court 2) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7awVyh6pQu97q1uE_u69SttE0Sg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101989/7ce500.jpg" ch-number="16", [21:00 WIB] - Round 3 - Day 7 (Court 2) - Roland Garros 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Z2oiKjMD2hUkMRPGzenM0clThU4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095082/d161e1.jpg" ch-number="16", [21:00 WIB] - Zhang Mingyang vs Alonzo Menifield - Light Heavyweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Z2oiKjMD2hUkMRPGzenM0clThU4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095082/d161e1.jpg" ch-number="17", [21:00 WIB] - Zhang Mingyang vs Alonzo Menifield - Light Heavyweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6Qn-QKUCmeolEllkNo5RSMuNilA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108720/745ba9.jpg" ch-number="17", [21:00 WIB] - Coco Gauff vs Anastasia Potapova - Womens Singles | Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6Qn-QKUCmeolEllkNo5RSMuNilA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108720/745ba9.jpg" ch-number="18", [21:00 WIB] - Coco Gauff vs Anastasia Potapova - Womens Singles | Roland Garros 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GPKAg66cT3Ensw3kPngZP5ukDL8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108353/05379e.jpg" ch-number="18", [21:00 WIB] - Fajar Alfian/Muhammad Shohibul Fikri (INA) vs Liang Wei Keng/Wang Chang (CHN) - Mens Doubles Semifinals | KFF Singapore Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=Z0gfpy4eGxXSWJ3p4GwRXCr5IkEZtJTB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
