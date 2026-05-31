@@ -6,7 +6,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=SEgDM26u
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=SEgDM26ubYKPlb5POkaobn7vQPZoxGZ8
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8gzUpVV2dQBZuulICtgpIfhJjmk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108777/1174a0.jpg" ch-number="2", Universitas Bina Nusantara vs Universitas Pelita Harapan (Finals | Putra) - CL Basketball 2026 - Regional Jakarta
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Ghy4cq4EE3cOQOa9miF9nl8EZBY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-6278b5.jpg" ch-number="2", Campus League 2026 - Basketball
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=SEgDM26ubYKPlb5POkaobn7vQPZoxGZ8|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -51,15 +51,13 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=SEgDM26u
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21537&type=drm&token=SEgDM26ubYKPlb5POkaobn7vQPZoxGZ8
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/T-AhQ9h5d5ScbsnOjtDjN5CeW_s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095085/5e040e.jpg" ch-number="11", [20:00 WIB] - Race: F1H2O 2026 - Grand Prix of Cagliari, Italy
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21537&type=dash&token=SEgDM26ubYKPlb5POkaobn7vQPZoxGZ8|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/T-AhQ9h5d5ScbsnOjtDjN5CeW_s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095085/5e040e.jpg" ch-number="11", Race: F1H2O 2026 - Grand Prix of Cagliari, Italy
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21537&type=dash&token=SEgDM26ubYKPlb5POkaobn7vQPZoxGZ8|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=SEgDM26ubYKPlb5POkaobn7vQPZoxGZ8
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ceuvMxMs2Cc--9bBpZ4-_JDdd74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105747/b1ef6f.jpg" ch-number="12", [20:00 WIB] - China vs Saudi Arabia - Maurice Revello
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=SEgDM26ubYKPlb5POkaobn7vQPZoxGZ8|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ceuvMxMs2Cc--9bBpZ4-_JDdd74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105747/b1ef6f.jpg" ch-number="12", China vs Saudi Arabia - Maurice Revello
+https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=SEgDM26ubYKPlb5POkaobn7vQPZoxGZ8|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=SEgDM26ubYKPlb5POkaobn7vQPZoxGZ8
