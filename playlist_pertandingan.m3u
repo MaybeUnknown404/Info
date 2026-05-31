@@ -11,12 +11,12 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=qr9BFb5M
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21474&type=drm&token=qr9BFb5MAuoCC8IsHWlXTtbdzTuVA2iC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EY-0wF2KHJRiXgK47HxRFoBN--U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21474/tvod-hss-rookie-fight-e1b8c8.jpg" ch-number="3", HSS Rookie Fight
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/mbAUPBBTJt7AVoYhAdpG4Z97zpg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105268/cb333c.jpg" ch-number="3", Daffa Iskandar vs M. Abdullah | HSS Rookie Fight
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21474&type=dash&token=qr9BFb5MAuoCC8IsHWlXTtbdzTuVA2iC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21467&type=drm&token=qr9BFb5MAuoCC8IsHWlXTtbdzTuVA2iC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bWVg6PN3P_b0s7Yt17vv8ht2VTM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101135/caf0c0.jpg" ch-number="4", Herson Djara vs Ghana Mikael - Bantamweight | Triumph Fight Genesis
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GdbB38a3K4N_PjuCuTsQ8gDCxwk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101135/c738b4.jpg" ch-number="4", Herson Djara vs Ghana Mikael - Bantamweight | Triumph Fight Genesis
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21467&type=dash&token=qr9BFb5MAuoCC8IsHWlXTtbdzTuVA2iC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
