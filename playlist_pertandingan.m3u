@@ -5,19 +5,20 @@
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=dash&token=uNWG0wA2SqMaBScf9HZdah8zS1nPbbqx|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=uNWG0wA2SqMaBScf9HZdah8zS1nPbbqx
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9YsBbp33wBy02vGXomqJJRzaM2c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115042/0a5e38.jpg" ch-number="2", Jakub Mensik vs Joao Fonseca - Mens Singles Quarterfinals | Roland Garros 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=uNWG0wA2SqMaBScf9HZdah8zS1nPbbqx|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=uNWG0wA2SqMaBScf9HZdah8zS1nPbbqx
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UAXaQvrMFEpGUQvrhUUePff9qIY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5111911/68b2fa.jpg" ch-number="3", Italy Major Premier Padel - Day 1
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UAXaQvrMFEpGUQvrhUUePff9qIY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5111911/68b2fa.jpg" ch-number="2", Italy Major Premier Padel - Day 1
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=uNWG0wA2SqMaBScf9HZdah8zS1nPbbqx|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=uNWG0wA2SqMaBScf9HZdah8zS1nPbbqx
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zT0s-qMsyR0APFPqKDPgUEPyJM0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5110886/57d32a.jpg" ch-number="4", [23:30 WIB] - Saudi Arabia vs Colombia - Maurice Revello
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zT0s-qMsyR0APFPqKDPgUEPyJM0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5110886/57d32a.jpg" ch-number="3", [23:30 WIB] - Saudi Arabia vs Colombia - Maurice Revello
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=uNWG0wA2SqMaBScf9HZdah8zS1nPbbqx|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=uNWG0wA2SqMaBScf9HZdah8zS1nPbbqx
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9YsBbp33wBy02vGXomqJJRzaM2c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115042/0a5e38.jpg" ch-number="4", [01:15 WIB] - Jakub Mensik vs Joao Fonseca - Mens Singles Quarterfinals | Roland Garros 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=uNWG0wA2SqMaBScf9HZdah8zS1nPbbqx|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
