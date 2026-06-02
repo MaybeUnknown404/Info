@@ -1,19 +1,20 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UAXaQvrMFEpGUQvrhUUePff9qIY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5111911/68b2fa.jpg" ch-number="1", Italy Major Premier Padel - Day 1
-https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=drm&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hrPUqWU9TuU7rgv3nJlkWVvkaxQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113114/48fffa.jpg" ch-number="2", [15:30 WIB] - Thailand vs Brunei Darussalam - ASEAN U19 Boys Bank Sumut Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hrPUqWU9TuU7rgv3nJlkWVvkaxQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113114/48fffa.jpg" ch-number="1", [15:30 WIB] - Thailand vs Brunei Darussalam - ASEAN U19 Boys Bank Sumut Championship
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=dash&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PWaRkZTThghlcchKZPt5c73r5GI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115059/51ec73.jpg" ch-number="3", [15:45 WIB] - Mens and Womens Singles Quarterfinals - Day 10 (Court 1) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PWaRkZTThghlcchKZPt5c73r5GI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115059/51ec73.jpg" ch-number="2", [15:45 WIB] - Mens and Womens Singles Quarterfinals - Day 10 (Court 1) - Roland Garros 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Me1G9bXW4jNA0-iZqh5J9tuIKsQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115080/56ebc7.jpg" ch-number="3", [15:55 WIB] - Day 10 (Court 3) - Roland Garros 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -23,39 +24,39 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Me1G9bXW4jNA0-iZqh5J9tuIKsQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115080/56ebc7.jpg" ch-number="5", [15:55 WIB] - Day 10 (Court 3) - Roland Garros 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YxpUXgSncMkvK8C9P7mHl1bQehY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115001/b3ce85.jpg" ch-number="6", [16:00 WIB] - Miraa Andreeva vs Sorana Cirstea - Womens Singles Quarterfinals | Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YxpUXgSncMkvK8C9P7mHl1bQehY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115001/b3ce85.jpg" ch-number="5", [16:00 WIB] - Miraa Andreeva vs Sorana Cirstea - Womens Singles Quarterfinals | Roland Garros 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/f4z7dsuRItkSnrca0X2POKo9aQg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115002/d42ad2.jpg" ch-number="7", [18:30 WIB] - Elina Svitolina vs Marta Kostyuk - Womens Singles Quarterfinals | Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/f4z7dsuRItkSnrca0X2POKo9aQg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115002/d42ad2.jpg" ch-number="6", [18:30 WIB] - Elina Svitolina vs Marta Kostyuk - Womens Singles Quarterfinals | Roland Garros 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=drm&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/loLiQFtE3LsLFUIhxdn00d9040M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113115/088fef.jpg" ch-number="8", [19:30 WIB] - Malaysia vs Singapore - ASEAN U19 Boys Bank Sumut Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/loLiQFtE3LsLFUIhxdn00d9040M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113115/088fef.jpg" ch-number="7", [19:30 WIB] - Malaysia vs Singapore - ASEAN U19 Boys Bank Sumut Championship
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=dash&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BNW1TwnEwkEAG-VxzlVZzezNEXI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5110887/59ae75.jpg" ch-number="9", [20:00 WIB] - China vs DR Congo - Maurice Revello
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BNW1TwnEwkEAG-VxzlVZzezNEXI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5110887/59ae75.jpg" ch-number="8", [20:00 WIB] - China vs DR Congo - Maurice Revello
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zIqLRAB8CHjxLB-UzhaEOjOuDos=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115003/9f9ead.jpg" ch-number="10", [21:00 WIB] - Rafael Jodar vs Alexander Zverev - Mens Singles Quarterfinals | Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zIqLRAB8CHjxLB-UzhaEOjOuDos=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115003/9f9ead.jpg" ch-number="9", [21:00 WIB] - Rafael Jodar vs Alexander Zverev - Mens Singles Quarterfinals | Roland Garros 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UAXaQvrMFEpGUQvrhUUePff9qIY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5111911/68b2fa.jpg" ch-number="10", [22:30 WIB] - Italy Major Premier Padel - Day 1
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=vLdm8dD29i3qH3iQewdOvv6S3pTuRxaR|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
