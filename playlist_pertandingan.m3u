@@ -6,9 +6,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=dash&token=hY1AYA3Q
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=drm&token=hY1AYA3QeI3nRXs7t5fKBq9KdCiaY5pp
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oN1WaW7LoHvs-olvxgG6VuDspy8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119856/c0217d.jpg" ch-number="2", [15:55 WIB] - Quentin Halys/Pierre-Hugues Herbert vs Harri Heliovaara/Henry Patten - Mens Doubles Semifinals | Roland Garros 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=dash&token=hY1AYA3QeI3nRXs7t5fKBq9KdCiaY5pp|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/oN1WaW7LoHvs-olvxgG6VuDspy8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119856/c0217d.jpg" ch-number="2", Quentin Halys/Pierre-Hugues Herbert vs Harri Heliovaara/Henry Patten - Mens Doubles Semifinals | Roland Garros 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=dash&token=hY1AYA3QeI3nRXs7t5fKBq9KdCiaY5pp|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=hY1AYA3QeI3nRXs7t5fKBq9KdCiaY5pp
