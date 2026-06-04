@@ -16,9 +16,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=dash&token=KgmeOxCa7
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=KgmeOxCa7rdHYqXJo19Ktv3Jw12jiFt5
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xcm3kSOnRGvqysv0w2Pz8O63-Jw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119894/0cafd8.jpg" ch-number="4", [19:45 WIB] - Marta Kostyuk vs Mirra Andreeva - Womens Singles Semifinals | Roland Garros 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=KgmeOxCa7rdHYqXJo19Ktv3Jw12jiFt5|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xcm3kSOnRGvqysv0w2Pz8O63-Jw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119894/0cafd8.jpg" ch-number="4", Marta Kostyuk vs Mirra Andreeva - Womens Singles Semifinals | Roland Garros 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=KgmeOxCa7rdHYqXJo19Ktv3Jw12jiFt5|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17884&type=drm&token=KgmeOxCa7rdHYqXJo19Ktv3Jw12jiFt5
