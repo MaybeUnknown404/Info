@@ -6,9 +6,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=cibxUQCW
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=drm&token=cibxUQCWcm7BlBVhjCKocZxP3UjjZ7gj
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kslSSSQiU461T8cCCzX7ndLHmWg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120739/c1b70b.jpg" ch-number="2", [06:00 WIB] - Women: Netherlands vs Italy - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=cibxUQCWcm7BlBVhjCKocZxP3UjjZ7gj|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kslSSSQiU461T8cCCzX7ndLHmWg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120739/c1b70b.jpg" ch-number="2", Women: Netherlands vs Italy - Volleyball Nations League
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=cibxUQCWcm7BlBVhjCKocZxP3UjjZ7gj|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=cibxUQCWcm7BlBVhjCKocZxP3UjjZ7gj
