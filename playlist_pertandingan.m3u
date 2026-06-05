@@ -36,9 +36,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=p4hg8mn5
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=p4hg8mn5RnXrcS1RH3mYRhd4BToJXcx3
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4sWyB5u3fpm8QYvxWZgC8cd9HEA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120728/965475.jpg" ch-number="8", [19:15 WIB] - Jakub Mensik vs Alexander Zverev - Mens Singles Semifinals | Roland Garros 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=p4hg8mn5RnXrcS1RH3mYRhd4BToJXcx3|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4sWyB5u3fpm8QYvxWZgC8cd9HEA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120728/965475.jpg" ch-number="8", Jakub Mensik vs Alexander Zverev - Mens Singles Semifinals | Roland Garros 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=p4hg8mn5RnXrcS1RH3mYRhd4BToJXcx3|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=drm&token=p4hg8mn5RnXrcS1RH3mYRhd4BToJXcx3
