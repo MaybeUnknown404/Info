@@ -36,9 +36,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=dash&token=p4hg8mn5R
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17884&type=drm&token=p4hg8mn5RnXrcS1RH3mYRhd4BToJXcx3
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6dnZsk11C5H318DznictZHu9gnE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115075/0d3c73.jpg" ch-number="8", [21:55 WIB] - Practice 2 - Formula 1 Louis Vuitton Grand Prix de Monaco 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17884&type=dash&token=p4hg8mn5RnXrcS1RH3mYRhd4BToJXcx3|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6dnZsk11C5H318DznictZHu9gnE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115075/0d3c73.jpg" ch-number="8", Practice 2 - Formula 1 Louis Vuitton Grand Prix de Monaco 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=17884&type=dash&token=p4hg8mn5RnXrcS1RH3mYRhd4BToJXcx3|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=drm&token=p4hg8mn5RnXrcS1RH3mYRhd4BToJXcx3
