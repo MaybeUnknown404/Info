@@ -1,29 +1,28 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bugzQLx1gLq17jz0fAxSyIMZtJo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120736/47944f.jpg" ch-number="1", Women: France vs United States - Volleyball Nations League
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21099&type=drm&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/LfBMhNb1ACL9LqnmJcR8-7wtXSg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123630/76ae6e.jpg" ch-number="1", Putri Tangsel City vs Cipta Cendikia - Hydroplus Soccer League U-15
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/LfBMhNb1ACL9LqnmJcR8-7wtXSg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123630/76ae6e.jpg" ch-number="2", Putri Tangsel City vs Cipta Cendikia - Hydroplus Soccer League U-15
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21099&type=dash&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iE3UJzJyTJ2Y3t6P-fnzF69KoRY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119975/20f0f4.jpg" ch-number="2", U.S. Womens Open presented by Ally 2026 - Round 2
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iE3UJzJyTJ2Y3t6P-fnzF69KoRY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119975/20f0f4.jpg" ch-number="3", U.S. Womens Open presented by Ally 2026 - Round 2
 https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=drm&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kslSSSQiU461T8cCCzX7ndLHmWg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120739/c1b70b.jpg" ch-number="3", Women: Netherlands vs Italy - Volleyball Nations League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kslSSSQiU461T8cCCzX7ndLHmWg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120739/c1b70b.jpg" ch-number="4", Women: Netherlands vs Italy - Volleyball Nations League
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bugzQLx1gLq17jz0fAxSyIMZtJo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120736/47944f.jpg" ch-number="4", Women: France vs United States - Volleyball Nations League
-https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/e2H9ewQUKgQD26Dg95YoB44oftg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119898/a2aeba.jpg" ch-number="5", [08:00 WIB] - Vietnam vs Lebanon - AVC Womens Volleyball Nations Cup
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/e2H9ewQUKgQD26Dg95YoB44oftg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119898/a2aeba.jpg" ch-number="5", Vietnam vs Lebanon - AVC Womens Volleyball Nations Cup
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=Q2kr28A5nsTfUJmPYREt5OnKROkaZh6P
