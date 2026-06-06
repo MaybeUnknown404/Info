@@ -6,9 +6,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21490&type=dash&token=RgemdNAe
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=RgemdNAedC1zzMmPEtAgUZUjpYxDTKyh
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YpYSDNvegNBVr1xv5wdUgOYBCKg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119694/77fd0d.jpg" ch-number="2", [23:25 WIB] - Portugal vs Ivory Coast - Maurice Revello
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=RgemdNAedC1zzMmPEtAgUZUjpYxDTKyh|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YpYSDNvegNBVr1xv5wdUgOYBCKg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119694/77fd0d.jpg" ch-number="2", Portugal vs Ivory Coast - Maurice Revello
+https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=RgemdNAedC1zzMmPEtAgUZUjpYxDTKyh|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=drm&token=RgemdNAedC1zzMmPEtAgUZUjpYxDTKyh
