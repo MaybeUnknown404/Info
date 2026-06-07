@@ -1,196 +1,195 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gdoZq20vZ8kAQIcW_Zb3awRRLgc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124668/aeb1ad.jpg" ch-number="1", Universitas Pelita Harapan vs Institut Teknologi Harapan Bangsa (Grup A | Putra) - CL Basketball 2026 - The Nationals
-https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yLQBtJnFzByk6opRXfll6wrMbbQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123863/0b5a3f.jpg" ch-number="2", Women: China vs Poland - Volleyball Nations League
-https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EPWH1AOZa6zUoxtc4m9UAGI08YY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120763/24c02e.jpg" ch-number="3", MotoGP Race: Grand Prix of Hungary - MotoGP 2026 Round 8
-https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/glJK7NLk7dq7ECkjikafYz57V1s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120769/214258.jpg" ch-number="4", [19:00 WIB] - Indonesia vs Vietnam - ASEAN U19 Boys Bank Sumut Championship
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/glJK7NLk7dq7ECkjikafYz57V1s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120769/214258.jpg" ch-number="4", Indonesia vs Vietnam - ASEAN U19 Boys Bank Sumut Championship
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EJqOSoFEFE1FbOoG8ri5veWUl0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120768/911e64.jpg" ch-number="5", [19:30 WIB] - Timor-Leste vs Myanmar - ASEAN U19 Boys Bank Sumut Championship
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/x_JOwgEOtHYbHMBvS6ljsvo4aOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123869/456171.jpg" ch-number="6", [19:45 WIB] - Flavio Cobolli vs Alexander Zverev - Mens Singles Final | Roland Garros 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/djLTc8kDTrFnniyNBSmGRgz0Ciw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120764/888604.jpg" ch-number="7", [19:55 WIB] - DR Congo vs Colombia - Maurice Revello
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17884&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17884&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/atCchGPVmGX1cQ0Ym7-F3JrCiMU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120759/4dc2ee.jpg" ch-number="8", [19:55 WIB] - Race - Formula 1 Louis Vuitton Grand Prix de Monaco 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17884&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=17884&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mwH7SqTRVv3MwDcE1vLi57_obWA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120770/5e4337.jpg" ch-number="9", [19:55 WIB] - Uzbekistan vs Korea - AVC Womens Volleyball Nations Cup
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/J2kOiiHT4zowhrCTyan23sCo19Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124673/4aeb93.jpg" ch-number="10", [20:45 WIB] - Women: Dominican Republic vs Netherlands - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PPxBWA3sfxXmxq0oi80_twiG8Oc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123866/97785c.jpg" ch-number="11", [22:00 WIB] - Women: Ukraine vs France - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VZUaaQZbURATrhFpSKkD8WUiIFI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124655/d12ec2.jpg" ch-number="12", [23:25 WIB] - China vs Tunisia - Maurice Revello
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bHC2Sr-L9ty7apI6-pe_zici6Ho=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124097/6f7568.jpg" ch-number="13", [23:30 WIB] - Round 4 - the Memorial Tournament presented by Workday 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rfig_f_a3nt5kZsJhPt9EQgEPJw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113113/9b000f.jpg" ch-number="14", [23:30 WIB] - Italy Major Premier Padel - Finals
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=206&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=206&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zti_Bc_p9y67iQvL-e3yYbIBEV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125371/b58bc3.jpg" ch-number="15", [00:30 WIB] - Women: Brazil vs Italy - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=206&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=206&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0zK-KvDVjbsVTbUVrF7IR4E7P7k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124670/26ca7c.jpg" ch-number="16", [01:30 WIB] - Women: United States vs Germany - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/u0qHDc9llXzsGw_Mhc33i9MfKdM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124657/9938f5.jpg" ch-number="17", [02:00 WIB] - U.S. Womens Open presented by Ally 2026 - Round 4
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XSNNvSwEuXJ_FTRbrpYtRxTOv0E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124674/97cc39.jpg" ch-number="18", [03:45 WIB] - Women: Bulgaria vs Turkey - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6NskBUR8ZXpTW85L7CxS_lT6Wl4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124671/5f58e9.jpg" ch-number="19", [05:00 WIB] - Women: Canada vs Japan - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VFTo9B-ydA0HZEdb8i3uNR0s9DM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125050/f00c85.jpg" ch-number="20", [07:30 WIB] - Lebanon vs Hong Kong - AVC Womens Volleyball Nations Cup
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/U-CHIpug889Qsh7ljlt5xkxT4sg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125051/be5a79.jpg" ch-number="21", [10:30 WIB] - Kazakhstan vs Iran - AVC Womens Volleyball Nations Cup
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZJFYf5juagvnxJHauhdjymQHrC0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125052/9adc93.jpg" ch-number="22", [13:30 WIB] - Philippines vs Kyrgyzstan - AVC Womens Volleyball Nations Cup
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TEtpldqRX14gD595x8tn2wUHmt8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124658/f8b3cc.jpg" ch-number="23", [14:00 WIB] - Valencia P1 Premier Padel - Day 1
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oHYK2sHBuhNmPLz6nWi-pl7O0mQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125053/9ba13e.jpg" ch-number="24", [16:30 WIB] - Vietnam vs Indonesia - AVC Womens Volleyball Nations Cup
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NZdSQMjljWRhlcU0Kl1U4BJD6sQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123859/2c5e8e.jpg" ch-number="25", [19:30 WIB] - Thailand vs Malaysia - ASEAN U19 Boys Bank Sumut Championship
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ECpUZtAF_CODiRnn7yNAiHJ9F_Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125054/cc4278.jpg" ch-number="26", [19:50 WIB] - Chinese Taipei vs Australia - AVC Womens Volleyball Nations Cup
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bfBnEjKzYuT-XAPi8JJ4fbnHKnQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123856/b30963.jpg" ch-number="27", [20:00 WIB] - Singapore vs Brunei Darussalam - ASEAN U19 Boys Bank Sumut Championship
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HqqGzPsjVdKsQK_I5t7kcMYb8Bw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124660/6581aa.jpg" ch-number="28", [20:00 WIB] - Ivory Coast vs Canada - Maurice Revello
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VpWBFL45tqy13SuXvvW8ZfYm41A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124661/d53e97.jpg" ch-number="29", [23:30 WIB] - Venezuela vs Portugal - Maurice Revello
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21602&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21602&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hdVTJu-Hzn2V1lhyOm6QK59lzcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120020/9afc95.jpg" ch-number="30", [15:00 WIB] - Indonesia vs Cambodia - FIFA Womens Matchday
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21602&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21602&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/H28KnqgulTa_5lTqBBxWRLZlbpA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124659/f32fee.jpg" ch-number="31", [15:00 WIB] - Valencia P1 Premier Padel - Day 2
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KNmqM_G82oh0idsrbSGFvEJqKDM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125055/93e55e.jpg" ch-number="32", [19:30 WIB] - Australia vs Cambodia - ASEAN U19 Boys Bank Sumut Championship
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21610&type=drm&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21610&type=drm&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/J7-G0xiALxEzPBMHVmEyJvQA7ag=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120018/c9518c.jpg" ch-number="33", [20:00 WIB] - Indonesia vs Mozambique - FIFA Matchday
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21610&type=dash&token=XVFKTs2LlbzNWczy8TgQTvEUSYTTlFKX|User-Agent=VidioPlayer/6.31.6
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21610&type=dash&token=ior4sMqXos3x7mUaK4avpN3mXZQLLmYP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
