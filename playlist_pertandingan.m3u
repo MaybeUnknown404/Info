@@ -11,9 +11,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=boW0A3BJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=boW0A3BJcvnNdht1qCX6TtwNp64OWCU3
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VZUaaQZbURATrhFpSKkD8WUiIFI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124655/d12ec2.jpg" ch-number="3", [23:25 WIB] - China vs Tunisia - Maurice Revello
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=boW0A3BJcvnNdht1qCX6TtwNp64OWCU3|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VZUaaQZbURATrhFpSKkD8WUiIFI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124655/d12ec2.jpg" ch-number="3", China vs Tunisia - Maurice Revello
+https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=boW0A3BJcvnNdht1qCX6TtwNp64OWCU3|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6317&type=drm&token=boW0A3BJcvnNdht1qCX6TtwNp64OWCU3
