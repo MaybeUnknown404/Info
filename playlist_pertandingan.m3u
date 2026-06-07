@@ -5,15 +5,14 @@
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k88tmRTyMnPxxH-JAX-U32C8s3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120754/e9520a.jpg" ch-number="2", [10:30 WIB] - Chinese Taipei vs Kyrgyzstan - AVC Womens Volleyball Nations Cup
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=drm&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dsNpr891umXmG-C6MDrsYlL_rGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123861/fd5ad8.jpg" ch-number="2", Women: Thailand vs Czechia - Volleyball Nations League
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=dash&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=drm&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dsNpr891umXmG-C6MDrsYlL_rGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123861/fd5ad8.jpg" ch-number="3", [10:30 WIB] - Women: Thailand vs Czechia - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=dash&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k88tmRTyMnPxxH-JAX-U32C8s3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120754/e9520a.jpg" ch-number="3", [10:30 WIB] - Chinese Taipei vs Kyrgyzstan - AVC Womens Volleyball Nations Cup
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -23,15 +22,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XTqq2YMw9kDQTwtQw8oV7nHlZdQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120755/c89893.jpg" ch-number="5", [14:00 WIB] - Philippines vs Australia - AVC Womens Volleyball Nations Cup
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=drm&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8qM1r2WCR22o0HaQ-sOUNNoEtGE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123862/37fb3f.jpg" ch-number="5", [13:45 WIB] - Women: Belgium vs Serbia - Volleyball Nations League
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=dash&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=drm&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8qM1r2WCR22o0HaQ-sOUNNoEtGE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123862/37fb3f.jpg" ch-number="6", [14:00 WIB] - Women: Belgium vs Serbia - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=dash&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XTqq2YMw9kDQTwtQw8oV7nHlZdQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120755/c89893.jpg" ch-number="6", [14:00 WIB] - Philippines vs Australia - AVC Womens Volleyball Nations Cup
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -72,7 +71,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=drm&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yLQBtJnFzByk6opRXfll6wrMbbQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123863/0b5a3f.jpg" ch-number="13", [18:00 WIB] - Women: China vs Poland - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yLQBtJnFzByk6opRXfll6wrMbbQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123863/0b5a3f.jpg" ch-number="13", [17:45 WIB] - Women: China vs Poland - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=dash&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -120,7 +119,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=drm&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/J2kOiiHT4zowhrCTyan23sCo19Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124673/4aeb93.jpg" ch-number="21", [21:00 WIB] - Women: Dominican Republic vs Netherlands - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/J2kOiiHT4zowhrCTyan23sCo19Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124673/4aeb93.jpg" ch-number="21", [20:45 WIB] - Women: Dominican Republic vs Netherlands - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -162,7 +161,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=drm&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XSNNvSwEuXJ_FTRbrpYtRxTOv0E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124674/97cc39.jpg" ch-number="28", [04:00 WIB] - Women: Bulgaria vs Turkey - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XSNNvSwEuXJ_FTRbrpYtRxTOv0E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124674/97cc39.jpg" ch-number="28", [03:45 WIB] - Women: Bulgaria vs Turkey - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=CXsx8JB1aVgisV1uA0Rg2UYbzeD7R8q9|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
