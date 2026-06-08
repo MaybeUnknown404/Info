@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=AKUVdForD8j0GT8kTlI9v2DLSMoCLJ08
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GhY3yKMSGY6jDA1SgVwpO0_zY7o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127234/1a963c.jpg" ch-number="1", Garret Tan (USA) vs Ming Hong Lim (MAS) - Mens Singles Qualification | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HSujOLZQE9HMq0o9vm5V_BWzQL4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127235/74fb8f.jpg" ch-number="1", Priska Kustiadi/Maureen Clarissa Wijaya (AUS) vs Helen Chan/Shixin Han (AUS) - Womens Doubles Qualification | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=AKUVdForD8j0GT8kTlI9v2DLSMoCLJ08|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11,7 +11,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=AKUVdFor
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=AKUVdForD8j0GT8kTlI9v2DLSMoCLJ08
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TSu8GZh2XnvTTh-Pe0VSYNbcP6I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127262/6a1f5e.jpg" ch-number="3", Shaunna Li (NZL) vs Faye Huo (AUS) - Womens Singles Qualification | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4UU8UD0VnqHG_suj3B7qRM2-v90=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127263/466327.jpg" ch-number="3", Saneeth Dayanand (IND) vs Karono Karono (AUS) - Mens Singles Qualification | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=AKUVdForD8j0GT8kTlI9v2DLSMoCLJ08|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
