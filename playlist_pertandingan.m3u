@@ -6,9 +6,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=KfKhFBiA
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=KfKhFBiA41VXEUVRsaDoraMXwahtdHEi
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VFTo9B-ydA0HZEdb8i3uNR0s9DM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125050/f00c85.jpg" ch-number="2", [07:30 WIB] - Lebanon vs Hong Kong - AVC Womens Volleyball Nations Cup
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=KfKhFBiA41VXEUVRsaDoraMXwahtdHEi|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VFTo9B-ydA0HZEdb8i3uNR0s9DM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125050/f00c85.jpg" ch-number="2", Lebanon vs Hong Kong - AVC Womens Volleyball Nations Cup
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=KfKhFBiA41VXEUVRsaDoraMXwahtdHEi|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=KfKhFBiA41VXEUVRsaDoraMXwahtdHEi
