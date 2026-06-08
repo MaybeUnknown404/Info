@@ -15,14 +15,14 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=Ty7qLS5T
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=dash&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=drm&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bfBnEjKzYuT-XAPi8JJ4fbnHKnQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123856/b30963.jpg" ch-number="4", Singapore vs Brunei Darussalam - ASEAN U19 Boys Bank Sumut Championship
-https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=dash&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9sya6ymQPdWdT8jbTZcZky49wzM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125594/ccbaee.jpg" ch-number="4", Marin Cilic vs Denis Shapovalov - Round 1 | ATP 250: Libema Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9sya6ymQPdWdT8jbTZcZky49wzM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125594/ccbaee.jpg" ch-number="5", Marin Cilic vs Denis Shapovalov - Round 1 | ATP 250: Libema Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=drm&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bfBnEjKzYuT-XAPi8JJ4fbnHKnQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123856/b30963.jpg" ch-number="5", Singapore vs Brunei Darussalam - ASEAN U19 Boys Bank Sumut Championship
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21593&type=dash&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=drm&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO
@@ -35,14 +35,15 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=dash&token=Ty7qLS5T
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/IYhoRlBmz2qF0i7pUky-DL_7YtU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125604/f43963.jpg" ch-number="8", Day 1 - WTA 500: The HSBC Championships 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4nlYLG06SkFxtSLS7ghwU31y3as=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125588/d4a0ac.jpg" ch-number="8", Roman Safiullin vs Giovanni Mpetshi Perricard - Round 1 | ATP 250: BOSS Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4nlYLG06SkFxtSLS7ghwU31y3as=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125588/d4a0ac.jpg" ch-number="9", Roman Safiullin vs Giovanni Mpetshi Perricard - Round 1 | ATP 250: BOSS Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IYhoRlBmz2qF0i7pUky-DL_7YtU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125604/f43963.jpg" ch-number="9", [22:00 WIB] - Day 1 - WTA 500: The HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=Ty7qLS5TLpOA5LetpNmI2E9WWhNgI0OO
