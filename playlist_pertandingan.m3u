@@ -26,7 +26,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=a1GEKNqq
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ScXKRKEVczb1352-GUDQJn63NNU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127284/323ee5.jpg" ch-number="6", Low Zi Yu/Noraqilah Maisarah (MAS) vs Hsieh Pei Shan/Hung En-Tzu (TPE) - Womens Doubles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Pv8nDWFAA1VivS2CR0gdM-nKtcw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-4-a70454.jpg" ch-number="6", Chiu Hsiang Chieh/Wang Chi-Lin (TPE) vs Chen Cheng Kuan/Liu Kuang Heng (TPE) - Mens Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
