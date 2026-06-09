@@ -1,23 +1,23 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=hxK65zbhqyQQe3Yg0plUMdp9Aq4Co2Qm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/H28KnqgulTa_5lTqBBxWRLZlbpA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124659/f32fee.jpg" ch-number="1", Valencia P1 Premier Padel - Day 2
-https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=hxK65zbhqyQQe3Yg0plUMdp9Aq4Co2Qm|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20564&type=drm&token=hxK65zbhqyQQe3Yg0plUMdp9Aq4Co2Qm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uhM5eXAC3avJ68bIIuhZOouNOKw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126663/b04d28.jpg" ch-number="2", Day 2 - WTA 500: The HSBC Championships 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20564&type=dash&token=hxK65zbhqyQQe3Yg0plUMdp9Aq4Co2Qm|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21610&type=drm&token=hxK65zbhqyQQe3Yg0plUMdp9Aq4Co2Qm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/J7-G0xiALxEzPBMHVmEyJvQA7ag=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120018/c9518c.jpg" ch-number="3", Indonesia vs Mozambique - FIFA Matchday
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/J7-G0xiALxEzPBMHVmEyJvQA7ag=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120018/c9518c.jpg" ch-number="1", Indonesia vs Mozambique - FIFA Matchday
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21610&type=dash&token=hxK65zbhqyQQe3Yg0plUMdp9Aq4Co2Qm|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=drm&token=hxK65zbhqyQQe3Yg0plUMdp9Aq4Co2Qm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KNmqM_G82oh0idsrbSGFvEJqKDM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125055/93e55e.jpg" ch-number="4", Australia vs Cambodia - ASEAN U19 Boys Bank Sumut Championship
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KNmqM_G82oh0idsrbSGFvEJqKDM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125055/93e55e.jpg" ch-number="2", Australia vs Cambodia - ASEAN U19 Boys Bank Sumut Championship
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=dash&token=hxK65zbhqyQQe3Yg0plUMdp9Aq4Co2Qm|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=hxK65zbhqyQQe3Yg0plUMdp9Aq4Co2Qm
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/H28KnqgulTa_5lTqBBxWRLZlbpA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124659/f32fee.jpg" ch-number="3", Valencia P1 Premier Padel - Day 2
+https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=hxK65zbhqyQQe3Yg0plUMdp9Aq4Co2Qm|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20564&type=drm&token=hxK65zbhqyQQe3Yg0plUMdp9Aq4Co2Qm
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uhM5eXAC3avJ68bIIuhZOouNOKw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126663/b04d28.jpg" ch-number="4", Day 2 - WTA 500: The HSBC Championships 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20564&type=dash&token=hxK65zbhqyQQe3Yg0plUMdp9Aq4Co2Qm|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=hxK65zbhqyQQe3Yg0plUMdp9Aq4Co2Qm
