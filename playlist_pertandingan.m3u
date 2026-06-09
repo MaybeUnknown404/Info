@@ -1,38 +1,38 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21602&type=drm&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/hdVTJu-Hzn2V1lhyOm6QK59lzcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120020/9afc95.jpg" ch-number="1", Indonesia vs Cambodia - FIFA Womens Matchday
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21602&type=dash&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Ly5sqWP2cmzokDp3MkT7hbKoyX0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127223/0b27a4.jpg" ch-number="1", Universitas Cenderawasih Jayapura vs Universitas Bina Nusantara Jakarta (Grup B | Putra) - CL Basketball 2026 - The Nationals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Ly5sqWP2cmzokDp3MkT7hbKoyX0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127223/0b27a4.jpg" ch-number="2", Universitas Cenderawasih Jayapura vs Universitas Bina Nusantara Jakarta (Grup B | Putra) - CL Basketball 2026 - The Nationals
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5N0V5xJBM--d331IZ_kl-dF_MU4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127244/b3dd43.jpg" ch-number="2", Rizky Hidayat/Frengky Wijaya Putra (AUS) vs Kang Min Hyuk/Ki Dong Ju (KOR) - Mens Doubles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5N0V5xJBM--d331IZ_kl-dF_MU4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127244/b3dd43.jpg" ch-number="3", Rizky Hidayat/Frengky Wijaya Putra (AUS) vs Kang Min Hyuk/Ki Dong Ju (KOR) - Mens Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/q3uTLTYGTiXnN43YU8vs4cnLIoA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127273/b0364b.jpg" ch-number="3", Michael Owen/Dylan Soedjasa (AUS/NZL) vs Su Ching Heng/Tang Kai Wei (TPE) - Mens Doubles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/q3uTLTYGTiXnN43YU8vs4cnLIoA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127273/b0364b.jpg" ch-number="4", Michael Owen/Dylan Soedjasa (AUS/NZL) vs Su Ching Heng/Tang Kai Wei (TPE) - Mens Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/S3GKxrszYY5T261Nmy7iyxiHgEc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127258/391638.jpg" ch-number="4", Jia Yi Fan/Zhang Shu Xian (CHN) vs Sydney Tjonadi/Victoria Tjonadi (AUS) - Womens Doubles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/S3GKxrszYY5T261Nmy7iyxiHgEc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127258/391638.jpg" ch-number="5", Jia Yi Fan/Zhang Shu Xian (CHN) vs Sydney Tjonadi/Victoria Tjonadi (AUS) - Womens Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=drm&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vyae7l8xTt9fBt2vN6QNOvjMYDs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127282/d5d35e.jpg" ch-number="5", Hsu Ya Ching/Sung Yu-Hsuan (TPE) vs Bao Li Jing/Cao Zi Han (CHN) - Womens Doubles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vyae7l8xTt9fBt2vN6QNOvjMYDs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127282/d5d35e.jpg" ch-number="6", Hsu Ya Ching/Sung Yu-Hsuan (TPE) vs Bao Li Jing/Cao Zi Han (CHN) - Womens Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=dash&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0g_YM_jvK9EB_Xz5DHvhWDqC9sc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126660/648796.jpg" ch-number="6", Philippines vs Korea - AVC Womens Volleyball Nations Cup
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0g_YM_jvK9EB_Xz5DHvhWDqC9sc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126660/648796.jpg" ch-number="7", Philippines vs Korea - AVC Womens Volleyball Nations Cup
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21602&type=drm&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/hdVTJu-Hzn2V1lhyOm6QK59lzcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120020/9afc95.jpg" ch-number="7", Indonesia vs Cambodia - FIFA Womens Matchday
-https://ndelok.arivpanel.workers.dev/index.mpd?id=21602&type=dash&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=gtLkk1dNfJNdTP1G2A07YKw64d1ua1aq
