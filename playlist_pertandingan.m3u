@@ -16,7 +16,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=ZpwxANv9
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iOkWBnE2VqvyxjcKQllgeCqbVj8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127279/a35b75.jpg" ch-number="4", Jung Kyung Eun/Kim So Yeong (KOR) vs Kishen Lew/Victoria Li (AUS) - Womens Doubles Qualification | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Pv8nDWFAA1VivS2CR0gdM-nKtcw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-4-a70454.jpg" ch-number="4", Achutaditya Rao Doddavarapu/Pochana Arjun Reddy (IND) vs Kanki Igawa/Ooi Yi Hern (AUS) - Mens Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -55,15 +55,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21602&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hdVTJu-Hzn2V1lhyOm6QK59lzcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120020/9afc95.jpg" ch-number="11", [15:00 WIB] - Indonesia vs Cambodia - FIFA Womens Matchday
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21602&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/H28KnqgulTa_5lTqBBxWRLZlbpA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124659/f32fee.jpg" ch-number="11", [15:00 WIB] - Valencia P1 Premier Padel - Day 2
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/H28KnqgulTa_5lTqBBxWRLZlbpA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124659/f32fee.jpg" ch-number="12", [15:00 WIB] - Valencia P1 Premier Padel - Day 2
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21602&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hdVTJu-Hzn2V1lhyOm6QK59lzcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120020/9afc95.jpg" ch-number="12", [15:00 WIB] - Indonesia vs Cambodia - FIFA Womens Matchday
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21602&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -98,20 +98,20 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hc1XtKExeDooDvLybms4jXJSUjM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127303/22ca59.jpg" ch-number="18", [17:00 WIB] - Roman Safiullin vs Giovanni Mpetshi Perricard - Round 1 (Post Rain Match) | ATP 250: BOSS Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/M_3tv6uIiS8qKK9hZ4OWpkxj55Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127296/ccbe3c.jpg" ch-number="19", [18:00 WIB] - Jan-Lennard Struff vs Alexis Galarneau - Round 1 | ATP 250: BOSS Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hc1XtKExeDooDvLybms4jXJSUjM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127303/22ca59.jpg" ch-number="18", [19:00 WIB] - Roman Safiullin vs Giovanni Mpetshi Perricard - Round 1 (Post Rain Match) | ATP 250: BOSS Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RTasQLqfxwGd0YLBeCaC6M_rVWY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127300/6715dd.jpg" ch-number="20", [18:00 WIB] - Tallon Griekspoor vs Botic van de Zandschulp - Round 1 | ATP 250: Libema Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RTasQLqfxwGd0YLBeCaC6M_rVWY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127300/6715dd.jpg" ch-number="19", [19:00 WIB] - Tallon Griekspoor vs Botic van de Zandschulp - Round 1 | ATP 250: Libema Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uhM5eXAC3avJ68bIIuhZOouNOKw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126663/b04d28.jpg" ch-number="20", [19:00 WIB] - Day 2 - WTA 500: The HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -121,39 +121,39 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uhM5eXAC3avJ68bIIuhZOouNOKw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126663/b04d28.jpg" ch-number="22", [19:00 WIB] - Day 2 - WTA 500: The HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KNmqM_G82oh0idsrbSGFvEJqKDM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125055/93e55e.jpg" ch-number="23", [19:30 WIB] - Australia vs Cambodia - ASEAN U19 Boys Bank Sumut Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KNmqM_G82oh0idsrbSGFvEJqKDM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125055/93e55e.jpg" ch-number="22", [19:30 WIB] - Australia vs Cambodia - ASEAN U19 Boys Bank Sumut Championship
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vJkZ8lBva_PqMakomreQXW0ZQWs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126662/4a659f.jpg" ch-number="24", [19:50 WIB] - Kyrgyzstan vs Australia - AVC Womens Volleyball Nations Cup
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vJkZ8lBva_PqMakomreQXW0ZQWs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126662/4a659f.jpg" ch-number="23", [19:50 WIB] - Kyrgyzstan vs Australia - AVC Womens Volleyball Nations Cup
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OHembx8eh-50ynlXgrHmfyDknP0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127301/1052c0.jpg" ch-number="25", [20:00 WIB] - James McCabe vs Zizou Bergs - Round 1 | ATP 250: Libema Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kibWOL32p8VvbOvgzS-cWtAoTqk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127297/d7c813.jpg" ch-number="26", [20:00 WIB] - Daniel Altmaier vs Frances Tiafoe - Round 1 | ATP 250: BOSS Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/M_3tv6uIiS8qKK9hZ4OWpkxj55Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127296/ccbe3c.jpg" ch-number="24", [21:00 WIB] - Jan-Lennard Struff vs Alexis Galarneau - Round 1 | ATP 250: BOSS Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PlNeDQiq1gRK39ORlqndCsPgQyI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127302/311725.jpg" ch-number="27", [21:00 WIB] - Thijs Boogaard vs Yibing Wu - Round 1 (Court 1) | ATP 250: Libema Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PlNeDQiq1gRK39ORlqndCsPgQyI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127302/311725.jpg" ch-number="25", [21:00 WIB] - Thijs Boogaard vs Yibing Wu - Round 1 (Court 1) | ATP 250: Libema Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OHembx8eh-50ynlXgrHmfyDknP0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127301/1052c0.jpg" ch-number="26", [22:00 WIB] - James McCabe vs Zizou Bergs - Round 1 | ATP 250: Libema Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kibWOL32p8VvbOvgzS-cWtAoTqk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127297/d7c813.jpg" ch-number="27", [00:00 WIB] - Daniel Altmaier vs Frances Tiafoe - Round 1 | ATP 250: BOSS Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=ZpwxANv9n04OzahJQG2R9XbFrfgTzDPG|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
