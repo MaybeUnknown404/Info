@@ -1,18 +1,18 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EZfgi3f3dS23QMZkrsHL-DPG79g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126661/039182.jpg" ch-number="1", Indonesia vs Hong Kong - AVC Womens Cup
-https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kx-Kc-PlCbrqXhNDlKx7OxhtdyA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127225/ba978a.jpg" ch-number="2", Universitas Surabaya vs Institut Teknologi Harapan Bangsa Bandung (Grup A | Putra) - CL Basketball 2026 - The Nationals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kx-Kc-PlCbrqXhNDlKx7OxhtdyA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127225/ba978a.jpg" ch-number="1", Universitas Surabaya vs Institut Teknologi Harapan Bangsa Bandung (Grup A | Putra) - CL Basketball 2026 - The Nationals
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/H28KnqgulTa_5lTqBBxWRLZlbpA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124659/f32fee.jpg" ch-number="3", Valencia P1 Premier Padel - Day 2
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/H28KnqgulTa_5lTqBBxWRLZlbpA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124659/f32fee.jpg" ch-number="2", Valencia P1 Premier Padel - Day 2
 https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EZfgi3f3dS23QMZkrsHL-DPG79g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126661/039182.jpg" ch-number="3", Indonesia vs Hong Kong - AVC Womens Cup
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
@@ -180,56 +180,62 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=16890&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CcGw47hwFT21bPCGdTrAwgqCrK4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127372/66e613.jpg" ch-number="32", [18:30 WIB] - ONE Friday Fights 158
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=16890&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L_4GJDEx_kv_d6nr4I112LUlE3E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125572/f1ddc0.jpg" ch-number="32", [22:00 WIB] - Round 2 - Dow Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L_4GJDEx_kv_d6nr4I112LUlE3E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125572/f1ddc0.jpg" ch-number="33", [22:00 WIB] - Round 2 - Dow Championship 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=19388&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZotwBRpSPMbFDe_Ww06UDZIfD9o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125574/602ea3.jpg" ch-number="33", [19:10 WIB] - Rajadamnern 2026 Female Flyweight Title
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZotwBRpSPMbFDe_Ww06UDZIfD9o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125574/602ea3.jpg" ch-number="34", [19:10 WIB] - Rajadamnern 2026 Female Flyweight Title
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=19388&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RyLdy2qlMQo-SGSFXc2PBfDyCzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126828/24bca9.jpg" ch-number="34", [07:00 WIB] - Diego Lopes vs Steve Garcia - Featherweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RyLdy2qlMQo-SGSFXc2PBfDyCzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126828/24bca9.jpg" ch-number="35", [07:00 WIB] - Diego Lopes vs Steve Garcia - Featherweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jImE5L-DlVySZ7sS_kYurqVV6yY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126829/d10fbb.jpg" ch-number="35", [07:45 WIB] - Bo Nickal vs Kyle Daukaus - Middleweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jImE5L-DlVySZ7sS_kYurqVV6yY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126829/d10fbb.jpg" ch-number="36", [07:45 WIB] - Bo Nickal vs Kyle Daukaus - Middleweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bIUZ0gr8n_pttPTQ-ukSa7T16wM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126830/3bf72b.jpg" ch-number="36", [08:30 WIB] - Mauricio Ruffy vs Michael Chandler - Lightweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bIUZ0gr8n_pttPTQ-ukSa7T16wM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126830/3bf72b.jpg" ch-number="37", [08:30 WIB] - Mauricio Ruffy vs Michael Chandler - Lightweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zsaXED-G83aL-Bjet9CEo56PdXw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126831/2cd947.jpg" ch-number="37", [09:15 WIB] - Josh Hokit vs Derrick Lewis - Heavyweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zsaXED-G83aL-Bjet9CEo56PdXw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126831/2cd947.jpg" ch-number="38", [09:15 WIB] - Josh Hokit vs Derrick Lewis - Heavyweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ocCBlFfhgS3EAwo1IEbY4gxzxG4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126832/d4b134.jpg" ch-number="38", [10:00 WIB] - Sean OMalley vs Aiemann Zahabi - Bantamweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ocCBlFfhgS3EAwo1IEbY4gxzxG4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126832/d4b134.jpg" ch-number="39", [10:00 WIB] - Sean OMalley vs Aiemann Zahabi - Bantamweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WDxoDSdQifFWR_wE8rHOtm49BhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126833/2e5909.jpg" ch-number="39", [10:45 WIB] - Alex Pereira vs Ciryl Gane - Heavyweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WDxoDSdQifFWR_wE8rHOtm49BhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126833/2e5909.jpg" ch-number="40", [10:45 WIB] - Alex Pereira vs Ciryl Gane - Heavyweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a3I2mVavXfGnVdjpk99v5lDLQ0A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126834/af5016.jpg" ch-number="40", [11:30 WIB] - Ilia Topuria vs Justin Gaethje - Lightweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a3I2mVavXfGnVdjpk99v5lDLQ0A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126834/af5016.jpg" ch-number="41", [11:30 WIB] - Ilia Topuria vs Justin Gaethje - Lightweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=a1GEKNqqQL9QnXTkx19AITdGSViRaNTh|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
