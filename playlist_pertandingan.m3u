@@ -11,7 +11,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=JQQmPC9c
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=JQQmPC9cizmbd5GATOu04pCrpDE5qM0Q
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DB1G6N-paDkK35a_04coYxnA3Bs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-3-98b13e.jpg" ch-number="3", SATHIO GROUP Australian Badminton Open 2026 - Qualifiers+Round Of 32 (Court 3)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/SgZIkNPaHfNuVvR1JFCOX8mEBYg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127266/feecbb.jpg" ch-number="3", Eogene Ewe (MAS) vs Manraj Singh (IND) - Mens Singles Qualification | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=JQQmPC9cizmbd5GATOu04pCrpDE5qM0Q|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
