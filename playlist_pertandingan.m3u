@@ -26,15 +26,13 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=kiIvnxGH
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=kiIvnxGHUo7Sz97X3d6icNw3l2UaRdsd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Lr2i7370zG4_8llHRHsPS3OflE8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125512/b470e8.jpg" ch-number="6", [15:00 WIB] - Valencia P1 Premier Padel - Day 3
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=kiIvnxGHUo7Sz97X3d6icNw3l2UaRdsd|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Lr2i7370zG4_8llHRHsPS3OflE8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125512/b470e8.jpg" ch-number="6", Valencia P1 Premier Padel - Day 3
+https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=kiIvnxGHUo7Sz97X3d6icNw3l2UaRdsd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=drm&token=kiIvnxGHUo7Sz97X3d6icNw3l2UaRdsd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Xx7mXXmogp8E2M-L562idsYjVzo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127429/906a3e.jpg" ch-number="7", [15:00 WIB] - Kantaphon Wangcharoen (THA) vs Moh. Zaki Ubaidillah (INA) - Mens Singles Round of 32 | SATHIO GROUP Australian Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=dash&token=kiIvnxGHUo7Sz97X3d6icNw3l2UaRdsd|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Xx7mXXmogp8E2M-L562idsYjVzo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127429/906a3e.jpg" ch-number="7", Kantaphon Wangcharoen (THA) vs Moh. Zaki Ubaidillah (INA) - Mens Singles Round of 32 | SATHIO GROUP Australian Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=dash&token=kiIvnxGHUo7Sz97X3d6icNw3l2UaRdsd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=drm&token=kiIvnxGHUo7Sz97X3d6icNw3l2UaRdsd
