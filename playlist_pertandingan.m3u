@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=kiIvnxGHUo7Sz97X3d6icNw3l2UaRdsd
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WIf-iH_O5hlMIWsKSx4Di1uncQk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127384/3042d4.jpg" ch-number="1", Akane Yamaguchi (JPN) vs Huang Ching Ping (TPE) - Womens Singles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/g8mFbvqE9TbBQzH-jYd553S4F88=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127385/f842c4.jpg" ch-number="1", Jimmy Wong/Cheng Su Yin (MAS) vs Andika Ramadiansyah/Nozomi Shimizu (AUS) - Mixed Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=kiIvnxGHUo7Sz97X3d6icNw3l2UaRdsd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
