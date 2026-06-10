@@ -1,23 +1,23 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=VvHMDG9Fbk72ovlTfv0UzDHmj9jeveSq
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/a7VGI3gXfAvSp4AfH27oip7BQXk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127614/ff9d95.jpg" ch-number="1", Martin Damm vs Alex de Minaur - Round 2 | ATP 250: Libema Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=VvHMDG9Fbk72ovlTfv0UzDHmj9jeveSq|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=VvHMDG9Fbk72ovlTfv0UzDHmj9jeveSq
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/7ekMrCNkQIX5N0hrvrabKa0NbcU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127611/d50364.jpg" ch-number="2", Jan-Lennard Struff vs Alexander Bublik - Round 2 | ATP 250: BOSS Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/7ekMrCNkQIX5N0hrvrabKa0NbcU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127611/d50364.jpg" ch-number="1", Jan-Lennard Struff vs Alexander Bublik - Round 2 | ATP 250: BOSS Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=VvHMDG9Fbk72ovlTfv0UzDHmj9jeveSq|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=VvHMDG9Fbk72ovlTfv0UzDHmj9jeveSq
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EkO5oHD6vnU7sxFRlQHKuNfoK58=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126770/6d69e2.jpg" ch-number="3", Day 3 - WTA 500: The HSBC Championships 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EkO5oHD6vnU7sxFRlQHKuNfoK58=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126770/6d69e2.jpg" ch-number="2", Day 3 - WTA 500: The HSBC Championships 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=VvHMDG9Fbk72ovlTfv0UzDHmj9jeveSq|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=VvHMDG9Fbk72ovlTfv0UzDHmj9jeveSq
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Lr2i7370zG4_8llHRHsPS3OflE8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125512/b470e8.jpg" ch-number="4", Valencia P1 Premier Padel - Day 3
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Lr2i7370zG4_8llHRHsPS3OflE8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125512/b470e8.jpg" ch-number="3", Valencia P1 Premier Padel - Day 3
 https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=VvHMDG9Fbk72ovlTfv0UzDHmj9jeveSq|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=VvHMDG9Fbk72ovlTfv0UzDHmj9jeveSq
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/a7VGI3gXfAvSp4AfH27oip7BQXk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127614/ff9d95.jpg" ch-number="4", Martin Damm vs Alex de Minaur - Round 2 | ATP 250: Libema Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=VvHMDG9Fbk72ovlTfv0UzDHmj9jeveSq|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=drm&token=VvHMDG9Fbk72ovlTfv0UzDHmj9jeveSq
