@@ -1,33 +1,33 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=drm&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gvrx9mQgpeyS3NFm_nk66XYti4E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126673/d3d19a.jpg" ch-number="1", Men: China vs Slovenia - Volleyball Nations League
-https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=dash&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EkO5oHD6vnU7sxFRlQHKuNfoK58=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126770/6d69e2.jpg" ch-number="2", Day 3 - WTA 500: The HSBC Championships 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EkO5oHD6vnU7sxFRlQHKuNfoK58=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126770/6d69e2.jpg" ch-number="1", Day 3 - WTA 500: The HSBC Championships 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gYC3ffIiwy2e7ainmkujCo3AZko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127417/9a5b64.jpg" ch-number="3", Ella Lin (USA) vs Pornpawee Chochuwong (THA) - Womens Singles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gYC3ffIiwy2e7ainmkujCo3AZko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127417/9a5b64.jpg" ch-number="2", Ella Lin (USA) vs Pornpawee Chochuwong (THA) - Womens Singles Round of 32 | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OHmQrfVDEg24i-R9s5MN5JgNMAc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127432/6fe7d4.jpg" ch-number="4", Wong Ling Ching (MAS) vs Aakarshi Kashyap (IND) - Womens Singles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OHmQrfVDEg24i-R9s5MN5JgNMAc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127432/6fe7d4.jpg" ch-number="3", Wong Ling Ching (MAS) vs Aakarshi Kashyap (IND) - Womens Singles Round of 32 | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/agRtv2F-NYQB78SEr4FcD8LVTIc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127341/9bd60e.jpg" ch-number="5", Universitas Pelita Harapan Tangerang vs Universitas Semarang (Grup A | Putra) - CL Basketball 2026 - The Nationals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/agRtv2F-NYQB78SEr4FcD8LVTIc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127341/9bd60e.jpg" ch-number="4", Universitas Pelita Harapan Tangerang vs Universitas Semarang (Grup A | Putra) - CL Basketball 2026 - The Nationals
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Lr2i7370zG4_8llHRHsPS3OflE8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125512/b470e8.jpg" ch-number="6", Valencia P1 Premier Padel - Day 3
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Lr2i7370zG4_8llHRHsPS3OflE8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125512/b470e8.jpg" ch-number="5", Valencia P1 Premier Padel - Day 3
 https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=drm&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gvrx9mQgpeyS3NFm_nk66XYti4E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126673/d3d19a.jpg" ch-number="6", Men: China vs Slovenia - Volleyball Nations League
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=dash&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC
