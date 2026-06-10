@@ -36,7 +36,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=r1hTS9w3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/AqTWGu9U4pcoKT2DGLc_Nah85JQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127609/194b8b.jpg" ch-number="8", James McCabe vs Zizou Bergs - Round 1 (Court 1) | ATP 250: Libema Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zzA8AL36barICwcvKUIl71jGdTM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127609/8b371b.jpg" ch-number="8", James McCabe vs Zizou Bergs - Round 1 (Court 1) | ATP 250: Libema Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -76,7 +76,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yBJZDU1OEukIt8PQ4ee1rNtE7ig=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127612/0402c0.jpg" ch-number="15", [20:00 WIB] - Martin Landaluce vs Taylor Fritz - Round 2 | ATP 250: BOSS Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/J8S5TeiWpiYtzxBrlxUq_sJMLtM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127612/b68837.jpg" ch-number="15", [20:00 WIB] - Martin Landaluce vs Taylor Fritz - Round 2 | ATP 250: BOSS Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=r1hTS9w3UzMWbonqohxlzDyBfimVo3IC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
