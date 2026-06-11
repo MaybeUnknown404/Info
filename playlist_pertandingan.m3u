@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YbwIi335tE5oXc8LND4UnjApH8Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127820/027eae.jpg" ch-number="1", Rachel Allessya Rose / Febi Setianingrum (INA) vs Lui Lok Lok / Tsang Hiu Yan (HKG) - Womens Doubles Round of 16 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/a-y66SwzRO5q8PVAU2u8MYEZekE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127821/bd06b5.jpg" ch-number="1", Jia Yi Fan / Zhang Shu Xian (CHN) vs Francesca Corbett / Jennie Gai (USA) - Womens Doubles Round of 16 | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -40,19 +40,19 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=dash&token=gfRiJnUT
 https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/FmjUIk192eko8LHy9EZ9NtLyWJU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127852/af5121.jpg" ch-number="9", Rinky Hijikata vs Frances Tiafoe - Round 2 | ATP 250: BOSS Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/imDHrxetXvv6OwA1FBXdvPt_Eh4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127824/bd58ad.jpg" ch-number="10", Round of 16 - WTA 250: Libema Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/imDHrxetXvv6OwA1FBXdvPt_Eh4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127824/bd58ad.jpg" ch-number="9", Round of 16 - WTA 250: Libema Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ocXsyPi_XFzKLn8VwmWgeL9T8g4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127857/5595f7.jpg" ch-number="11", Ugo Humbert vs Benjamin Bonzi - Round 2 (Court 1) | ATP 250: Libema Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ocXsyPi_XFzKLn8VwmWgeL9T8g4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127857/5595f7.jpg" ch-number="10", Ugo Humbert vs Benjamin Bonzi - Round 2 (Court 1) | ATP 250: Libema Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/FmjUIk192eko8LHy9EZ9NtLyWJU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127852/af5121.jpg" ch-number="11", Rinky Hijikata vs Frances Tiafoe - Round 2 | ATP 250: BOSS Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=drm&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE
@@ -368,7 +368,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RyLdy2qlMQo-SGSFXc2PBfDyCzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126828/24bca9.jpg" ch-number="64", [07:00 WIB] - Diego Lopes vs Steve Garcia - Featherweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RyLdy2qlMQo-SGSFXc2PBfDyCzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126828/24bca9.jpg" ch-number="64", [07:22 WIB] - Diego Lopes vs Steve Garcia - Featherweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -380,7 +380,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jImE5L-DlVySZ7sS_kYurqVV6yY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126829/d10fbb.jpg" ch-number="66", [09:15 WIB] - Bo Nickal vs Kyle Daukaus - Middleweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jImE5L-DlVySZ7sS_kYurqVV6yY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126829/d10fbb.jpg" ch-number="66", [08:50 WIB] - Bo Nickal vs Kyle Daukaus - Middleweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
