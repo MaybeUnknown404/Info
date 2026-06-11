@@ -16,9 +16,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=Nd6AVSnr
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rEmFO7-vM6vDZj0JQlWrUG_ksjY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sathio-group-australian-badminton-open-2026-round-of-16-court-1-c3b0bb.jpg" ch-number="4", [09:00 WIB] - Yeo Jia Min (SGP) vs Chen Su Yu (TPE) - Womens Singles Round of 16 | SATHIO GROUP Australian Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rEmFO7-vM6vDZj0JQlWrUG_ksjY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sathio-group-australian-badminton-open-2026-round-of-16-court-1-c3b0bb.jpg" ch-number="4", Yeo Jia Min (SGP) vs Chen Su Yu (TPE) - Womens Singles Round of 16 | SATHIO GROUP Australian Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
