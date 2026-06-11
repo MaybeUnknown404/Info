@@ -26,7 +26,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=CxLgUyrF
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=drm&token=CxLgUyrF3wbbzPcBTbpdtG7kuY9AOWLe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9uYQX3Pjrm7bIm4bPo6WWiTyzlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127838/831dbf.jpg" ch-number="6", Liu Kuang Heng/Hsu Yin-Hui (TPE) vs Rehan Naufal Kusharjanto/Gloria Emanuelle Widjaja (INA) - Mixed Doubles Round of 16 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cGCqmFoXKjOz_Yt8JxQDtRnCKuQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127839/5f647c.jpg" ch-number="6", Akira Koga/Natsu Saito (JPN) vs Dhruv Rawat/Maneesha Kukkapalli (IND) - Mixed Doubles Round of 16 | SATHIO GROUP Australian Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=dash&token=CxLgUyrF3wbbzPcBTbpdtG7kuY9AOWLe|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -162,15 +162,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=CxLgUyrF3wbbzPcBTbpdtG7kuY9AOWLe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NOrIlc9Sd-JQeDsBLHK4bBH-A3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127855/c37b79.jpg" ch-number="29", [22:00 WIB] - Ben Shelton vs Marcos Giron - Round 2 | ATP 250: BOSS Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=CxLgUyrF3wbbzPcBTbpdtG7kuY9AOWLe|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=CxLgUyrF3wbbzPcBTbpdtG7kuY9AOWLe
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L7iI6ZWL6WGqOkUpba22Xn3CAKQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125571/6dfd53.jpg" ch-number="29", [22:00 WIB] - Round 1 - Dow Championship 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=CxLgUyrF3wbbzPcBTbpdtG7kuY9AOWLe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=CxLgUyrF3wbbzPcBTbpdtG7kuY9AOWLe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L7iI6ZWL6WGqOkUpba22Xn3CAKQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125571/6dfd53.jpg" ch-number="30", [22:00 WIB] - Round 1 - Dow Championship 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=CxLgUyrF3wbbzPcBTbpdtG7kuY9AOWLe|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=CxLgUyrF3wbbzPcBTbpdtG7kuY9AOWLe
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NOrIlc9Sd-JQeDsBLHK4bBH-A3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127855/c37b79.jpg" ch-number="30", [22:00 WIB] - Ben Shelton vs Marcos Giron - Round 2 | ATP 250: BOSS Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=CxLgUyrF3wbbzPcBTbpdtG7kuY9AOWLe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
