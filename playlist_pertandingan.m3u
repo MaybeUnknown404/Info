@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6dJd69FJbZ4sLW0DRC36tLFG5to=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127350/629b33.jpg" ch-number="1", Universitas Bina Nusantara Jakarta vs Soegijapranata Catholic University Semarang (Grup C | Putri) - CL Basketball 2026 - The Nationals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/15D0v4BWZhfTMXTCrpdYKFRnECA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127351/fb23a1.jpg" ch-number="1", Universitas Kristen Maranatha Bandung vs Universitas Surabaya (Grup D | Putri) - CL Basketball 2026 - The Nationals
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -73,9 +73,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YbwIi335tE5oXc8LND4UnjApH8Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127820/027eae.jpg" ch-number="14", [15:30 WIB] - Rachel Allessya Rose / Febi Setianingrum (INA) vs Lui Lok Lok / Tsang Hiu Yan (HKG) - Womens Doubles Round of 16 | SATHIO GROUP Australian Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FmjUIk192eko8LHy9EZ9NtLyWJU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127852/af5121.jpg" ch-number="14", [16:00 WIB] - Rinky Hijikata vs Frances Tiafoe - Round 2 | ATP 250: BOSS Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -85,21 +85,21 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/R27TZMJDe6Y-jgxzk1aBaB_ocsQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127797/8245e9.jpg" ch-number="16", [16:00 WIB] - Semifinal: Thailand vs Cambodia - ASEAN U19 Boys Bank Sumut Championship
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ocXsyPi_XFzKLn8VwmWgeL9T8g4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127857/5595f7.jpg" ch-number="16", [16:00 WIB] - Ugo Humbert vs Benjamin Bonzi - Round 2 (Court 1) | ATP 250: Libema Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ocXsyPi_XFzKLn8VwmWgeL9T8g4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127857/5595f7.jpg" ch-number="17", [16:00 WIB] - Ugo Humbert vs Benjamin Bonzi - Round 2 (Court 1) | ATP 250: Libema Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FmjUIk192eko8LHy9EZ9NtLyWJU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127852/af5121.jpg" ch-number="17", [16:00 WIB] - Rinky Hijikata vs Frances Tiafoe - Round 2 | ATP 250: BOSS Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/R27TZMJDe6Y-jgxzk1aBaB_ocsQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127797/8245e9.jpg" ch-number="18", [16:00 WIB] - Semifinal: Thailand vs Cambodia - ASEAN U19 Boys Bank Sumut Championship
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YbwIi335tE5oXc8LND4UnjApH8Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127820/027eae.jpg" ch-number="18", [16:30 WIB] - Rachel Allessya Rose / Febi Setianingrum (INA) vs Lui Lok Lok / Tsang Hiu Yan (HKG) - Womens Doubles Round of 16 | SATHIO GROUP Australian Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -121,21 +121,21 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G025KkLwXMRbgaDpPGZnZf6bGSI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127822/55d1a2.jpg" ch-number="22", [17:30 WIB] - Sabar Karyaman Gutama / Moh Reza Pahlevi Isfahani (INA) vs Wang Yue Hang (ENG) / Zewei Xie (AUS) - Mens Doubles Round of 16 | SATHIO GROUP Australian Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ya5cSvsaujoPuD1p5dcsRPjaIVc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127853/9cb6ea.jpg" ch-number="23", [18:00 WIB] - Sho Shimabukuro vs Nick Kyrgios - Round 2 | ATP 250: BOSS Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ya5cSvsaujoPuD1p5dcsRPjaIVc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127853/9cb6ea.jpg" ch-number="22", [18:00 WIB] - Sho Shimabukuro vs Nick Kyrgios - Round 2 | ATP 250: BOSS Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZLIi0tKLzLU1kJkLVfE3yYT2IGM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125518/7f8ab4.jpg" ch-number="24", [18:25 WIB] - Venezuela vs Japan - Maurice Revello
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZLIi0tKLzLU1kJkLVfE3yYT2IGM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125518/7f8ab4.jpg" ch-number="23", [18:25 WIB] - Venezuela vs Japan - Maurice Revello
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G025KkLwXMRbgaDpPGZnZf6bGSI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127822/55d1a2.jpg" ch-number="24", [18:30 WIB] - Sabar Karyaman Gutama / Moh Reza Pahlevi Isfahani (INA) vs Wang Yue Hang (ENG) / Zewei Xie (AUS) - Mens Doubles Round of 16 | SATHIO GROUP Australian Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -151,15 +151,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HYA4nlrqc9Xo5ajbeGKuSZ9XqeI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127854/ad269f.jpg" ch-number="27", [20:00 WIB] - Martin Landaluce vs Taylor Fritz - Round 2 | ATP 250: BOSS Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EoOkl3e4coQ3cwScrfAUubh2VGU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127664/75f3f7.jpg" ch-number="27", [20:00 WIB] - Kyrgyzstan vs Uzbekistan - AVC Womens Cup
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EoOkl3e4coQ3cwScrfAUubh2VGU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127664/75f3f7.jpg" ch-number="28", [20:00 WIB] - Kyrgyzstan vs Uzbekistan - AVC Womens Cup
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HYA4nlrqc9Xo5ajbeGKuSZ9XqeI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127854/ad269f.jpg" ch-number="28", [20:00 WIB] - Martin Landaluce vs Taylor Fritz - Round 2 | ATP 250: BOSS Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -175,15 +175,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L7iI6ZWL6WGqOkUpba22Xn3CAKQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125571/6dfd53.jpg" ch-number="31", [22:00 WIB] - Round 1 - Dow Championship 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NOrIlc9Sd-JQeDsBLHK4bBH-A3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127855/c37b79.jpg" ch-number="31", [22:00 WIB] - Ben Shelton vs Marcos Giron - Round 2 | ATP 250: BOSS Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NOrIlc9Sd-JQeDsBLHK4bBH-A3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127855/c37b79.jpg" ch-number="32", [22:00 WIB] - Ben Shelton vs Marcos Giron - Round 2 | ATP 250: BOSS Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L7iI6ZWL6WGqOkUpba22Xn3CAKQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125571/6dfd53.jpg" ch-number="32", [22:00 WIB] - Round 1 - Dow Championship 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -229,80 +229,116 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fspxDum7jz4aVVj_C5LEIt7Rz2w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127872/651fe3.jpg" ch-number="40", [08:00 WIB] - Vietnam vs Kazakhstan - AVC Womens Cup
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6gtjcWSt8DWA9gGlvVEunQNR1rc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127873/b303b9.jpg" ch-number="41", [11:00 WIB] - Iran vs Hong Kong - AVC Womens Cup
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Tr0Sa242Qu6Snl2a6P8uGk08EbA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127874/1f3dc1.jpg" ch-number="42", [14:00 WIB] - Uzbekistan vs Australia - AVC Womens Cup
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3aSb_itBqzqiLteqL1FWJLYm7A4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125514/b7cf8d.jpg" ch-number="40", [15:00 WIB] - Valencia P1 Premier Padel - Quarterfinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3aSb_itBqzqiLteqL1FWJLYm7A4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125514/b7cf8d.jpg" ch-number="43", [15:00 WIB] - Valencia P1 Premier Padel - Quarterfinals
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F0tgbNz6HMfo1qO_RNWRLncpRQA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127870/8b4fb0.jpg" ch-number="41", [15:15 WIB] - Men: Ukraine vs Cuba - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F0tgbNz6HMfo1qO_RNWRLncpRQA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127870/8b4fb0.jpg" ch-number="44", [15:15 WIB] - Men: Ukraine vs Cuba - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3Z7huTMeGnp0nuI-Zn3oWYZo9sw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127875/2d7d2b.jpg" ch-number="45", [17:00 WIB] - Indonesia vs Lebanon - AVC Womens Cup
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nz-6m8E5Zs0nuUrjMMRtsFy0BFI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126772/24ddec.jpg" ch-number="42", [17:30 WIB] - Quarter Finals - WTA 500: The HSBC Championships 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nz-6m8E5Zs0nuUrjMMRtsFy0BFI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126772/24ddec.jpg" ch-number="46", [17:30 WIB] - Quarter Finals - WTA 500: The HSBC Championships 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=16890&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CcGw47hwFT21bPCGdTrAwgqCrK4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127372/66e613.jpg" ch-number="43", [18:30 WIB] - ONE Friday Fights 158
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CcGw47hwFT21bPCGdTrAwgqCrK4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127372/66e613.jpg" ch-number="47", [18:30 WIB] - ONE Friday Fights 158
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=16890&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Itux-Kiw0XRYnw9OPzeBccG7bCk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127871/c195a0.jpg" ch-number="48", [18:45 WIB] - Men: Japan vs Poland - Volleyball Nations League
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DDrWDRm9DDPFweX0pLlgRvP2beI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127876/3d9d8d.jpg" ch-number="49", [20:00 WIB] - Chinese Taipei vs Korea - AVC Womens Cup
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L_4GJDEx_kv_d6nr4I112LUlE3E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125572/f1ddc0.jpg" ch-number="44", [22:00 WIB] - Round 2 - Dow Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L_4GJDEx_kv_d6nr4I112LUlE3E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125572/f1ddc0.jpg" ch-number="50", [22:00 WIB] - Round 2 - Dow Championship 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=19388&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZotwBRpSPMbFDe_Ww06UDZIfD9o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125574/602ea3.jpg" ch-number="45", [19:10 WIB] - Rajadamnern 2026 Female Flyweight Title
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZotwBRpSPMbFDe_Ww06UDZIfD9o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125574/602ea3.jpg" ch-number="51", [19:10 WIB] - Rajadamnern 2026 Female Flyweight Title
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=19388&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RyLdy2qlMQo-SGSFXc2PBfDyCzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126828/24bca9.jpg" ch-number="46", [07:00 WIB] - Diego Lopes vs Steve Garcia - Featherweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RyLdy2qlMQo-SGSFXc2PBfDyCzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126828/24bca9.jpg" ch-number="52", [07:00 WIB] - Diego Lopes vs Steve Garcia - Featherweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jImE5L-DlVySZ7sS_kYurqVV6yY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126829/d10fbb.jpg" ch-number="47", [07:45 WIB] - Bo Nickal vs Kyle Daukaus - Middleweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jImE5L-DlVySZ7sS_kYurqVV6yY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126829/d10fbb.jpg" ch-number="53", [07:45 WIB] - Bo Nickal vs Kyle Daukaus - Middleweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bIUZ0gr8n_pttPTQ-ukSa7T16wM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126830/3bf72b.jpg" ch-number="48", [08:30 WIB] - Mauricio Ruffy vs Michael Chandler - Lightweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bIUZ0gr8n_pttPTQ-ukSa7T16wM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126830/3bf72b.jpg" ch-number="54", [08:30 WIB] - Mauricio Ruffy vs Michael Chandler - Lightweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zsaXED-G83aL-Bjet9CEo56PdXw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126831/2cd947.jpg" ch-number="49", [09:15 WIB] - Josh Hokit vs Derrick Lewis - Heavyweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zsaXED-G83aL-Bjet9CEo56PdXw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126831/2cd947.jpg" ch-number="55", [09:15 WIB] - Josh Hokit vs Derrick Lewis - Heavyweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ocCBlFfhgS3EAwo1IEbY4gxzxG4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126832/d4b134.jpg" ch-number="50", [10:00 WIB] - Sean OMalley vs Aiemann Zahabi - Bantamweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ocCBlFfhgS3EAwo1IEbY4gxzxG4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126832/d4b134.jpg" ch-number="56", [10:00 WIB] - Sean OMalley vs Aiemann Zahabi - Bantamweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WDxoDSdQifFWR_wE8rHOtm49BhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126833/2e5909.jpg" ch-number="51", [10:45 WIB] - Alex Pereira vs Ciryl Gane - Heavyweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WDxoDSdQifFWR_wE8rHOtm49BhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126833/2e5909.jpg" ch-number="57", [10:45 WIB] - Alex Pereira vs Ciryl Gane - Heavyweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a3I2mVavXfGnVdjpk99v5lDLQ0A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126834/af5016.jpg" ch-number="52", [11:30 WIB] - Ilia Topuria vs Justin Gaethje - Lightweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a3I2mVavXfGnVdjpk99v5lDLQ0A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126834/af5016.jpg" ch-number="58", [11:30 WIB] - Ilia Topuria vs Justin Gaethje - Lightweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=Nd6AVSnrY4jOuC4VslpNHwapDmKRIYS4|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
