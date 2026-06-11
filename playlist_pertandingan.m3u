@@ -6,9 +6,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=dash&token=COxfpdrY
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=drm&token=COxfpdrYBhPVx7vGkP3OovID7jacQ0VO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qPfaM2iId8CGAcBAo3BHukf9vTI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127869/5c46c8.jpg" ch-number="2", [06:30 WIB] - Men: Canada vs France - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=dash&token=COxfpdrYBhPVx7vGkP3OovID7jacQ0VO|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qPfaM2iId8CGAcBAo3BHukf9vTI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127869/5c46c8.jpg" ch-number="2", Men: Canada vs France - Volleyball Nations League
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=dash&token=COxfpdrYBhPVx7vGkP3OovID7jacQ0VO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=COxfpdrYBhPVx7vGkP3OovID7jacQ0VO
