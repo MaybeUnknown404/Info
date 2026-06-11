@@ -26,9 +26,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=gfRiJnUT
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZLIi0tKLzLU1kJkLVfE3yYT2IGM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125518/7f8ab4.jpg" ch-number="6", [18:25 WIB] - Venezuela vs Japan - Maurice Revello
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZLIi0tKLzLU1kJkLVfE3yYT2IGM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125518/7f8ab4.jpg" ch-number="6", Venezuela vs Japan - Maurice Revello
+https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=gfRiJnUT5uD0WVPsanwHktrIxPxV8gZE
