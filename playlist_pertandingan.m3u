@@ -1,13 +1,13 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=Nir8v1DQvHGcqRAhSfcRUjgNV9HBVeNi
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pVdlkk0E21aJ1zsUiJYO3FMZ4yQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127861/25b452.jpg" ch-number="1", Daniil Medvedev vs Thijs Boogaard - Round 2 | ATP 250: Libema Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=Nir8v1DQvHGcqRAhSfcRUjgNV9HBVeNi|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Nir8v1DQvHGcqRAhSfcRUjgNV9HBVeNi
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MacPSyTbwJeRWjki2Bg2RK54J10=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127854/a2dd0a.jpg" ch-number="1", Martin Landaluce vs Taylor Fritz - Round 2 | ATP 250: BOSS Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Nir8v1DQvHGcqRAhSfcRUjgNV9HBVeNi|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Nir8v1DQvHGcqRAhSfcRUjgNV9HBVeNi
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MacPSyTbwJeRWjki2Bg2RK54J10=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127854/a2dd0a.jpg" ch-number="2", Martin Landaluce vs Taylor Fritz - Round 2 | ATP 250: BOSS Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Nir8v1DQvHGcqRAhSfcRUjgNV9HBVeNi|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=Nir8v1DQvHGcqRAhSfcRUjgNV9HBVeNi
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pVdlkk0E21aJ1zsUiJYO3FMZ4yQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127861/25b452.jpg" ch-number="2", Daniil Medvedev vs Thijs Boogaard - Round 2 | ATP 250: Libema Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=Nir8v1DQvHGcqRAhSfcRUjgNV9HBVeNi|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=Nir8v1DQvHGcqRAhSfcRUjgNV9HBVeNi
@@ -104,7 +104,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=Nir8v1DQvHGcqRAhSfcRUjgNV9HBVeNi
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Rcg8ArmLWSfTQYfuXQEeRuXy2uI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129001/b6ca22.jpg" ch-number="19", [09:55 WIB] - Rehan Naufal Kusharjanto / Lisa Ayu Kusumawati (INA) vs Guo Xin Wa / Chen Fang Hui (CHN) - Mixed Doubles Quarter Finals | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wZbgwKk-foq12BH_yvcI-d5IZsI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129001/edab74.jpg" ch-number="19", [09:55 WIB] - Rehan Naufal Kusharjanto / Lisa Ayu Kusumawati (INA) vs Guo Xin Wa / Chen Fang Hui (CHN) - Mixed Doubles Quarter Finals | SATHIO GROUP Australian Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=Nir8v1DQvHGcqRAhSfcRUjgNV9HBVeNi|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -122,7 +122,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=Nir8v1DQvHGcqRAhSfcRUjgNV9HBVeNi
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-bRJr9jbDjOfg_sqZTN24YBGWdo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129011/9311bf.jpg" ch-number="22", [12:30 WIB] - Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA) vs Low Zi Yu/Noraqilah Maisarah (MAS) - Womens Doubles Quarter Finals | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XSMuhZy2V3LruBwagErKNKSfVGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129011/d98c60.jpg" ch-number="22", [12:30 WIB] - Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA) vs Low Zi Yu/Noraqilah Maisarah (MAS) - Womens Doubles Quarter Finals | SATHIO GROUP Australian Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=Nir8v1DQvHGcqRAhSfcRUjgNV9HBVeNi|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
