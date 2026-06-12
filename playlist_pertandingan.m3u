@@ -15,14 +15,14 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=Nsie7fcc
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=Nsie7fccRXz1FfTuP9ECtkFahqnQxSxQ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=Nsie7fccRXz1FfTuP9ECtkFahqnQxSxQ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Tr0Sa242Qu6Snl2a6P8uGk08EbA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127874/1f3dc1.jpg" ch-number="4", Uzbekistan vs Australia - AVC Womens Cup
-https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=Nsie7fccRXz1FfTuP9ECtkFahqnQxSxQ|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=Nsie7fccRXz1FfTuP9ECtkFahqnQxSxQ
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WnjQepKJyQrv9EJRzosSRv6AkEk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128987/bc8ac4.jpg" ch-number="4", Universitas Surabaya vs Universitas Pelita Harapan (Semifinals | Putri) - CL Basketball 2026 - The Nationals
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=Nsie7fccRXz1FfTuP9ECtkFahqnQxSxQ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=Nsie7fccRXz1FfTuP9ECtkFahqnQxSxQ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6U3HjMUjbxbyM9nImSMUCMmdUK4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/semifinals-campus-league-basketball-the-nationals-31e01e.jpg" ch-number="5", Universitas Surabaya vs Universitas Pelita Harapan (Semifinals | Putri) - CL Basketball 2026 - The Nationals
-https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=Nsie7fccRXz1FfTuP9ECtkFahqnQxSxQ|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=Nsie7fccRXz1FfTuP9ECtkFahqnQxSxQ
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Tr0Sa242Qu6Snl2a6P8uGk08EbA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127874/1f3dc1.jpg" ch-number="5", Uzbekistan vs Australia - AVC Womens Cup
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=Nsie7fccRXz1FfTuP9ECtkFahqnQxSxQ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=Nsie7fccRXz1FfTuP9ECtkFahqnQxSxQ
