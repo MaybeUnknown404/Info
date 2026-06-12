@@ -16,7 +16,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=dash&token=iSC3TGfG
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OCYVvmJWrsz8WMJrG711ks_WB0c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128989/896344.jpg" ch-number="4", Universitas Kristen Satya Wacana vs Universitas Surabaya (Semifinals | Putra) - CL Basketball 2026 - The Nationals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6U3HjMUjbxbyM9nImSMUCMmdUK4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/semifinals-campus-league-basketball-the-nationals-31e01e.jpg" ch-number="4", Semifinals - Campus League Basketball The Nationals
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -123,7 +123,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/be-mB79nmkUuZu-ErPvAVlvaNh0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129685/caddd1.jpg" ch-number="23", [02:30 WIB] - Men: Belgium vs Serbia - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/be-mB79nmkUuZu-ErPvAVlvaNh0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129685/caddd1.jpg" ch-number="23", [02:15 WIB] - Men: Belgium vs Serbia - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -236,15 +236,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vFvW9G41bM37ctSHzWW6jAeWRLE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128068/4c17da.jpg" ch-number="42", [20:55 WIB] - Qualifying - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ln_dR5pKmQN4PzzLAh0WT927pYo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129683/c13bb1.jpg" ch-number="42", [20:45 WIB] - Men: Brazil vs Serbia - Volleyball Nations League
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ln_dR5pKmQN4PzzLAh0WT927pYo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129683/c13bb1.jpg" ch-number="43", [21:00 WIB] - Men: Brazil vs Serbia - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vFvW9G41bM37ctSHzWW6jAeWRLE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128068/4c17da.jpg" ch-number="43", [20:55 WIB] - Qualifying - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
