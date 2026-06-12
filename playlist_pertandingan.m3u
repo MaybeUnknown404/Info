@@ -1,411 +1,406 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WofZ8qTaYHqTvdrBV_XeQAK24iU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127878/ec3382.jpg" ch-number="1", Practice 1 - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UokeXN4j-kPH7FF49XN6rbL9WJA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129028/77460a.jpg" ch-number="2", Daniil Medvedev vs Thijs Boogaard - Round 2 (Post Rain Match) | ATP 250: Libema Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UokeXN4j-kPH7FF49XN6rbL9WJA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129028/77460a.jpg" ch-number="1", Daniil Medvedev vs Thijs Boogaard - Round 2 (Post Rain Match) | ATP 250: Libema Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nz-6m8E5Zs0nuUrjMMRtsFy0BFI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126772/24ddec.jpg" ch-number="3", Quarter Finals - WTA 500: The HSBC Championships 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nz-6m8E5Zs0nuUrjMMRtsFy0BFI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126772/24ddec.jpg" ch-number="2", Quarter Finals - WTA 500: The HSBC Championships 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Itux-Kiw0XRYnw9OPzeBccG7bCk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127871/c195a0.jpg" ch-number="4", Men: Japan vs Poland - Volleyball Nations League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Itux-Kiw0XRYnw9OPzeBccG7bCk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127871/c195a0.jpg" ch-number="3", Men: Japan vs Poland - Volleyball Nations League
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OCYVvmJWrsz8WMJrG711ks_WB0c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128989/896344.jpg" ch-number="5", Universitas Kristen Satya Wacana vs Universitas Surabaya (Semifinals | Putra) - CL Basketball 2026 - The Nationals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OCYVvmJWrsz8WMJrG711ks_WB0c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128989/896344.jpg" ch-number="4", Universitas Kristen Satya Wacana vs Universitas Surabaya (Semifinals | Putra) - CL Basketball 2026 - The Nationals
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3aSb_itBqzqiLteqL1FWJLYm7A4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125514/b7cf8d.jpg" ch-number="6", Valencia P1 Premier Padel - Quarterfinals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3aSb_itBqzqiLteqL1FWJLYm7A4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125514/b7cf8d.jpg" ch-number="5", Valencia P1 Premier Padel - Quarterfinals
 https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yMrAu2TGy3YlwgB4BVp2dDSI740=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127879/f46776.jpg" ch-number="7", Quarter Finals - WTA 250: Libema Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yMrAu2TGy3YlwgB4BVp2dDSI740=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127879/f46776.jpg" ch-number="6", Quarter Finals - WTA 250: Libema Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YgWYPzlRt-M-Qkprb1lN3oYYr5c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129024/fd98bb.jpg" ch-number="8", Ben Shelton vs Marcos Giron - Round 2 (Post Rain Match) | ATP 250: BOSS Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YgWYPzlRt-M-Qkprb1lN3oYYr5c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129024/fd98bb.jpg" ch-number="7", Ben Shelton vs Marcos Giron - Round 2 (Post Rain Match) | ATP 250: BOSS Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=16890&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/CcGw47hwFT21bPCGdTrAwgqCrK4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127372/66e613.jpg" ch-number="9", ONE Friday Fights 158
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/CcGw47hwFT21bPCGdTrAwgqCrK4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127372/66e613.jpg" ch-number="8", ONE Friday Fights 158
 https://ndelok.arivpanel.workers.dev/index.mpd?id=16890&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TcGnQZPggkuKuNw9cv24xuiG4ao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128058/409547.jpg" ch-number="10", WorldSPB - Superpole - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TcGnQZPggkuKuNw9cv24xuiG4ao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128058/409547.jpg" ch-number="9", WorldSPB - Superpole - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/db0Srh5tBPo2-ebBkbOBG8be5dk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128061/d7b278.jpg" ch-number="11", [19:53 WIB] - Qualifying - FIA Formula 3 Championship Barcelona Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/db0Srh5tBPo2-ebBkbOBG8be5dk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128061/d7b278.jpg" ch-number="10", [19:53 WIB] - Qualifying - FIA Formula 3 Championship Barcelona Grand Prix 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c1EHXl45iF3sII-8yqvrOqbv7so=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128059/0ed26d.jpg" ch-number="12", [20:00 WIB] - WorldSBK Free Practice 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c1EHXl45iF3sII-8yqvrOqbv7so=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128059/0ed26d.jpg" ch-number="11", [20:00 WIB] - WorldSBK Free Practice 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DDrWDRm9DDPFweX0pLlgRvP2beI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127876/3d9d8d.jpg" ch-number="13", [20:00 WIB] - Chinese Taipei vs Korea - AVC Womens Cup
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DDrWDRm9DDPFweX0pLlgRvP2beI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127876/3d9d8d.jpg" ch-number="12", [20:00 WIB] - Chinese Taipei vs Korea - AVC Womens Cup
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20564&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uWbl6KcV2uF3O4wGz23BQCoJWEc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5130213/e7b111.jpg" ch-number="14", [20:30 WIB] - Quarter Finals: WTA 500: The HSBC Championships 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uWbl6KcV2uF3O4wGz23BQCoJWEc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5130213/e7b111.jpg" ch-number="13", [20:30 WIB] - Quarter Finals: WTA 500: The HSBC Championships 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20564&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S5_7f0xxxBSR3LjWrefdr1G-YaQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129029/2378c9.jpg" ch-number="15", [20:30 WIB] - Benjamin Bonzi vs Alex de Minaur - Quarterfinal | ATP 250: Libema Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S5_7f0xxxBSR3LjWrefdr1G-YaQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129029/2378c9.jpg" ch-number="14", [20:30 WIB] - Benjamin Bonzi vs Alex de Minaur - Quarterfinal | ATP 250: Libema Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sia--fiC2Rwl83i5kAZlPlwqWzI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128062/f36420.jpg" ch-number="16", [20:53 WIB] - Qualifying - FIA Formula 2 Championship Barcelona Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sia--fiC2Rwl83i5kAZlPlwqWzI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128062/f36420.jpg" ch-number="15", [20:53 WIB] - Qualifying - FIA Formula 2 Championship Barcelona Grand Prix 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uVixjSUiIEyMBTnkj6AypsG1FF0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129025/d7e08f.jpg" ch-number="17", [21:00 WIB] - Mattia Belluci vs Taylor Fritz - Quarterfinal | ATP 250: BOSS Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uVixjSUiIEyMBTnkj6AypsG1FF0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129025/d7e08f.jpg" ch-number="16", [21:00 WIB] - Mattia Belluci vs Taylor Fritz - Quarterfinal | ATP 250: BOSS Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/agiJnDQOP_WdTrrpbeqk5q7R69g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128060/54b918.jpg" ch-number="18", [21:00 WIB] - WorldSSP Superpole - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/agiJnDQOP_WdTrrpbeqk5q7R69g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128060/54b918.jpg" ch-number="17", [21:00 WIB] - WorldSSP Superpole - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_15I2vEqvNeABeUqgLVtSBYZ-1s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129030/44c591.jpg" ch-number="19", [21:30 WIB] - Felix Auger Aliassime vs Kamil Majchrzak - Quarterfinal | ATP 250: Libema Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_15I2vEqvNeABeUqgLVtSBYZ-1s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129030/44c591.jpg" ch-number="18", [21:30 WIB] - Felix Auger Aliassime vs Kamil Majchrzak - Quarterfinal | ATP 250: Libema Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RF59XbnCTn0_D96X7vc8jQthkSk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128063/d377ee.jpg" ch-number="20", [21:55 WIB] - Practice 2 - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RF59XbnCTn0_D96X7vc8jQthkSk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128063/d377ee.jpg" ch-number="19", [21:55 WIB] - Practice 2 - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L_4GJDEx_kv_d6nr4I112LUlE3E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125572/f1ddc0.jpg" ch-number="21", [22:00 WIB] - Round 2 - Dow Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L_4GJDEx_kv_d6nr4I112LUlE3E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125572/f1ddc0.jpg" ch-number="20", [22:00 WIB] - Round 2 - Dow Championship 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/r9L-_RXOQS8Sjik4qYgJvaYP_4Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129027/5096d0.jpg" ch-number="22", [23:00 WIB] - Jiri Lehecka vs Frances Tiafoe - Quarterfinal | ATP 250: BOSS Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/r9L-_RXOQS8Sjik4qYgJvaYP_4Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129027/5096d0.jpg" ch-number="21", [23:00 WIB] - Jiri Lehecka vs Frances Tiafoe - Quarterfinal | ATP 250: BOSS Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_uGu9lQP8DILhX8tQ4HdgwC0Mhw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129477/7b496c.jpg" ch-number="23", [02:00 WIB] - Round 2 - RBC Canadian Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_uGu9lQP8DILhX8tQ4HdgwC0Mhw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129477/7b496c.jpg" ch-number="22", [02:00 WIB] - Round 2 - RBC Canadian Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/be-mB79nmkUuZu-ErPvAVlvaNh0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129685/caddd1.jpg" ch-number="24", [02:30 WIB] - Men: Belgium vs Serbia - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/be-mB79nmkUuZu-ErPvAVlvaNh0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129685/caddd1.jpg" ch-number="23", [02:30 WIB] - Men: Belgium vs Serbia - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=206&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uiB5qCIvDw4oYLxegG56udfnY_Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129479/7b1a97.jpg" ch-number="25", [02:53 WIB] - Men: Germany vs United States - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uiB5qCIvDw4oYLxegG56udfnY_Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129479/7b1a97.jpg" ch-number="24", [02:53 WIB] - Men: Germany vs United States - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=206&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=206&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5in0XStPdR1CBCzeM-TVIIHNMxY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129480/d12198.jpg" ch-number="26", [05:53 WIB] - Men: Iran vs Argentina - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5in0XStPdR1CBCzeM-TVIIHNMxY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129480/d12198.jpg" ch-number="25", [05:53 WIB] - Men: Iran vs Argentina - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=206&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dx7-ShK0SuTJytTX0VXKBGvLshk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129677/91b1ce.jpg" ch-number="27", [06:15 WIB] - Men: Turkey vs France - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dx7-ShK0SuTJytTX0VXKBGvLshk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129677/91b1ce.jpg" ch-number="26", [06:15 WIB] - Men: Turkey vs France - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mN7EXAK_zMWdoAPk8gmDxDQW_kY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129484/e979df.jpg" ch-number="28", [10:30 WIB] - Race 1 - Asia Road Racing Championship 2026: Round 3 Motegi, Japan
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mN7EXAK_zMWdoAPk8gmDxDQW_kY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129484/e979df.jpg" ch-number="27", [10:30 WIB] - Race 1 - Asia Road Racing Championship 2026: Round 3 Motegi, Japan
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NqZPusGbE74j6z8Ta5YMErl8AVc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128065/812ddc.jpg" ch-number="29", [15:00 WIB] - Sprint - FIA Formula 3 Championship Barcelona Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NqZPusGbE74j6z8Ta5YMErl8AVc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128065/812ddc.jpg" ch-number="28", [15:00 WIB] - Sprint - FIA Formula 3 Championship Barcelona Grand Prix 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8G0BTeC0sGj1RvcJSbadtZNzyhc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129681/d7aa88.jpg" ch-number="30", [15:30 WIB] - Men: China vs Japan - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8G0BTeC0sGj1RvcJSbadtZNzyhc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129681/d7aa88.jpg" ch-number="29", [15:30 WIB] - Men: China vs Japan - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VsCRIpWmHrVBMVf1tXpnCH7FwIg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129496/86f8b4.jpg" ch-number="31", [16:00 WIB] - Semifinals - WTA 250: Libema Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VsCRIpWmHrVBMVf1tXpnCH7FwIg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129496/86f8b4.jpg" ch-number="30", [16:00 WIB] - Semifinals - WTA 250: Libema Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yixTqtgZe7cu8XXlQ2F_RTSDYC8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129485/7a759d.jpg" ch-number="32", [16:05 WIB] - WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yixTqtgZe7cu8XXlQ2F_RTSDYC8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129485/7a759d.jpg" ch-number="31", [16:05 WIB] - WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S_62ysGx0aeucHxYNK_WSWK0T9c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129486/c234f6.jpg" ch-number="33", [16:50 WIB] - WorldWCR Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S_62ysGx0aeucHxYNK_WSWK0T9c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129486/c234f6.jpg" ch-number="32", [16:50 WIB] - WorldWCR Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/f9T54SMlTmpVdLYzy7n9gs2T6XA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129497/baafc2.jpg" ch-number="34", [17:00 WIB] - Valencia P1 Premier Padel - Semifinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/f9T54SMlTmpVdLYzy7n9gs2T6XA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129497/baafc2.jpg" ch-number="33", [17:00 WIB] - Valencia P1 Premier Padel - Semifinals
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YOcfqhsgGGYaTgthT5h-PEJWlhw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128066/b0bec9.jpg" ch-number="35", [17:25 WIB] - Practice 3 - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YOcfqhsgGGYaTgthT5h-PEJWlhw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128066/b0bec9.jpg" ch-number="34", [17:25 WIB] - Practice 3 - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QUcn_7ZLFQkL0AFjRR0tPvNBdOY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129487/cca46b.jpg" ch-number="36", [17:50 WIB] - WorldSPB Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QUcn_7ZLFQkL0AFjRR0tPvNBdOY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129487/cca46b.jpg" ch-number="35", [17:50 WIB] - WorldSPB Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7k7uQLMzJZ8OpW9hd3eApJ4szSw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129682/d01d42.jpg" ch-number="37", [19:00 WIB] - Men: Cuba vs Slovenia - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7k7uQLMzJZ8OpW9hd3eApJ4szSw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129682/d01d42.jpg" ch-number="36", [19:00 WIB] - Men: Cuba vs Slovenia - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NlBUfvcMjGEgf1sWYXq3pontxp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129488/fc9516.jpg" ch-number="38", [19:00 WIB] - WorldSSP Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NlBUfvcMjGEgf1sWYXq3pontxp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129488/fc9516.jpg" ch-number="37", [19:00 WIB] - WorldSSP Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=19388&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZotwBRpSPMbFDe_Ww06UDZIfD9o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125574/602ea3.jpg" ch-number="39", [19:10 WIB] - Rajadamnern 2026 Female Flyweight Title
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZotwBRpSPMbFDe_Ww06UDZIfD9o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125574/602ea3.jpg" ch-number="38", [19:10 WIB] - Rajadamnern 2026 Female Flyweight Title
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=19388&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6ojUZhz4lffoP8WecMVdRsEahgg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128067/07fe14.jpg" ch-number="40", [19:10 WIB] - Sprint - FIA Formula 2 Championship Barcelona Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6ojUZhz4lffoP8WecMVdRsEahgg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128067/07fe14.jpg" ch-number="39", [19:10 WIB] - Sprint - FIA Formula 2 Championship Barcelona Grand Prix 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cdiYdroJ-3HCktH1YHR3fWvFXgA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129500/f4019a.jpg" ch-number="41", [19:30 WIB] - Semifinals - WTA 500: The HSBC Championships 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cdiYdroJ-3HCktH1YHR3fWvFXgA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129500/f4019a.jpg" ch-number="40", [19:30 WIB] - Semifinals - WTA 500: The HSBC Championships 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xRFSQRQzbKL30mt6cMnSV_QtBpM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129489/41bc99.jpg" ch-number="42", [20:10 WIB] - WorldSBK Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xRFSQRQzbKL30mt6cMnSV_QtBpM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129489/41bc99.jpg" ch-number="41", [20:10 WIB] - WorldSBK Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vFvW9G41bM37ctSHzWW6jAeWRLE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128068/4c17da.jpg" ch-number="43", [20:55 WIB] - Qualifying - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vFvW9G41bM37ctSHzWW6jAeWRLE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128068/4c17da.jpg" ch-number="42", [20:55 WIB] - Qualifying - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ln_dR5pKmQN4PzzLAh0WT927pYo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129683/c13bb1.jpg" ch-number="44", [21:00 WIB] - Men: Brazil vs Serbia - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ln_dR5pKmQN4PzzLAh0WT927pYo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129683/c13bb1.jpg" ch-number="43", [21:00 WIB] - Men: Brazil vs Serbia - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ykhzi_NWeSqXV2oGnNAxJ30vVSM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129498/60f755.jpg" ch-number="45", [22:00 WIB] - Valencia P1 Premier Padel - Semifinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ykhzi_NWeSqXV2oGnNAxJ30vVSM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129498/60f755.jpg" ch-number="44", [22:00 WIB] - Valencia P1 Premier Padel - Semifinals
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5myEo9YnoICk5nhgwG8m-euTCDg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129478/677065.jpg" ch-number="46", [00:00 WIB] - Round 3 - RBC Canadian Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5myEo9YnoICk5nhgwG8m-euTCDg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129478/677065.jpg" ch-number="45", [00:00 WIB] - Round 3 - RBC Canadian Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IcS1HsYJAw5CHhW8Fv9sgSdJEpw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129503/dd2580.jpg" ch-number="47", [01:00 WIB] - Round 3 - Dow Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IcS1HsYJAw5CHhW8Fv9sgSdJEpw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129503/dd2580.jpg" ch-number="46", [01:00 WIB] - Round 3 - Dow Championship 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=206&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jJBEngLtig7kWATajv8ufGSh8NI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129482/dc85d0.jpg" ch-number="48", [01:23 WIB] - Men: Bulgaria vs Argentina - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jJBEngLtig7kWATajv8ufGSh8NI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129482/dc85d0.jpg" ch-number="47", [01:23 WIB] - Men: Bulgaria vs Argentina - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=206&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UYfbn1ZGZtoQS4XR5bwb8J5GFPQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129490/54aa15.jpg" ch-number="49", [10:30 WIB] - Race 2 - Asia Road Racing Championship 2026: Round 3 Motegi, Japan
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UYfbn1ZGZtoQS4XR5bwb8J5GFPQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129490/54aa15.jpg" ch-number="48", [10:30 WIB] - Race 2 - Asia Road Racing Championship 2026: Round 3 Motegi, Japan
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xYyjBPGRMjfKseEeE5VjRWvugvA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128069/55f150.jpg" ch-number="50", [13:30 WIB] - Race - FIA Formula 3 Championship Barcelona Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xYyjBPGRMjfKseEeE5VjRWvugvA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128069/55f150.jpg" ch-number="49", [13:30 WIB] - Race - FIA Formula 3 Championship Barcelona Grand Prix 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/B1To-hhjPLw2tRNLKQzs3R_3Q6w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128070/04bb61.jpg" ch-number="51", [14:55 WIB] - Race - FIA Formula 2 Championship Barcelona Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/B1To-hhjPLw2tRNLKQzs3R_3Q6w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128070/04bb61.jpg" ch-number="50", [14:55 WIB] - Race - FIA Formula 2 Championship Barcelona Grand Prix 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3JHl0oODTUddF7vEQ4fuBLHQilU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129491/e865f5.jpg" ch-number="52", [15:45 WIB] - WorldSBK Tissot Superpole Race - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3JHl0oODTUddF7vEQ4fuBLHQilU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129491/e865f5.jpg" ch-number="51", [15:45 WIB] - WorldSBK Tissot Superpole Race - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a28Tty2KplSepZ0Cyz0RR_1xD8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129492/fb87d5.jpg" ch-number="53", [16:40 WIB] - WorldWCR Race 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a28Tty2KplSepZ0Cyz0RR_1xD8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129492/fb87d5.jpg" ch-number="52", [16:40 WIB] - WorldWCR Race 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SH20K1ugqv0ECizSew4CrBw4w1s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129501/47244f.jpg" ch-number="54", [17:00 WIB] - Final - WTA 250: Libema Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SH20K1ugqv0ECizSew4CrBw4w1s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129501/47244f.jpg" ch-number="53", [17:00 WIB] - Final - WTA 250: Libema Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Un5tlH5t_zULWmq4LrFIvACqMgQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129493/a4b2d4.jpg" ch-number="55", [17:35 WIB] - WorldSPB Race 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Un5tlH5t_zULWmq4LrFIvACqMgQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129493/a4b2d4.jpg" ch-number="54", [17:35 WIB] - WorldSPB Race 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3d747jpFNWz6Ark047nXEnM1Yh0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129494/3b108a.jpg" ch-number="56", [18:45 WIB] - WorldSBK Race 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3d747jpFNWz6Ark047nXEnM1Yh0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129494/3b108a.jpg" ch-number="55", [18:45 WIB] - WorldSBK Race 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HQteJlZOYqeRE6QIfezBoldCshA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129499/6ffd02.jpg" ch-number="57", [19:00 WIB] - Valencia P1 Premier Padel - Finals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HQteJlZOYqeRE6QIfezBoldCshA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129499/6ffd02.jpg" ch-number="56", [19:00 WIB] - Valencia P1 Premier Padel - Finals
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_Auq4v7c1n_24J1GOpMYWCm30UM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129502/8bff65.jpg" ch-number="58", [19:30 WIB] - Final - WTA 500: The HSBC Championships 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_Auq4v7c1n_24J1GOpMYWCm30UM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129502/8bff65.jpg" ch-number="57", [19:30 WIB] - Final - WTA 500: The HSBC Championships 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/713pBa-OCknIDBXgUdSQaPcpWQw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128071/3e5c02.jpg" ch-number="59", [19:55 WIB] - Race - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/713pBa-OCknIDBXgUdSQaPcpWQw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128071/3e5c02.jpg" ch-number="58", [19:55 WIB] - Race - Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XOSIHA5MXWfvZXqsTHNjQTL1wQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129495/03955a.jpg" ch-number="60", [20:15 WIB] - WorldSSP Race 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XOSIHA5MXWfvZXqsTHNjQTL1wQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129495/03955a.jpg" ch-number="59", [20:15 WIB] - WorldSSP Race 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=206&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KT8qV2SXBDDcBab72fa82O5Yx1o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129483/24554d.jpg" ch-number="61", [21:53 WIB] - Men: Germany vs France - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KT8qV2SXBDDcBab72fa82O5Yx1o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129483/24554d.jpg" ch-number="60", [21:53 WIB] - Men: Germany vs France - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=206&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qji9MI3JkNJkW6uWqwV9dojegQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129504/1fd678.jpg" ch-number="62", [23:00 WIB] - Round 4 - Dow Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qji9MI3JkNJkW6uWqwV9dojegQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129504/1fd678.jpg" ch-number="61", [23:00 WIB] - Round 4 - Dow Championship 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RyLdy2qlMQo-SGSFXc2PBfDyCzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126828/24bca9.jpg" ch-number="63", [07:22 WIB] - Diego Lopes vs Steve Garcia - Featherweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RyLdy2qlMQo-SGSFXc2PBfDyCzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126828/24bca9.jpg" ch-number="62", [07:22 WIB] - Diego Lopes vs Steve Garcia - Featherweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bIUZ0gr8n_pttPTQ-ukSa7T16wM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126830/3bf72b.jpg" ch-number="64", [08:07 WIB] - Mauricio Ruffy vs Michael Chandler - Lightweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bIUZ0gr8n_pttPTQ-ukSa7T16wM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126830/3bf72b.jpg" ch-number="63", [08:07 WIB] - Mauricio Ruffy vs Michael Chandler - Lightweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jImE5L-DlVySZ7sS_kYurqVV6yY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126829/d10fbb.jpg" ch-number="65", [08:50 WIB] - Bo Nickal vs Kyle Daukaus - Middleweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jImE5L-DlVySZ7sS_kYurqVV6yY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126829/d10fbb.jpg" ch-number="64", [08:50 WIB] - Bo Nickal vs Kyle Daukaus - Middleweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zsaXED-G83aL-Bjet9CEo56PdXw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126831/2cd947.jpg" ch-number="66", [09:35 WIB] - Josh Hokit vs Derrick Lewis - Heavyweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zsaXED-G83aL-Bjet9CEo56PdXw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126831/2cd947.jpg" ch-number="65", [09:35 WIB] - Josh Hokit vs Derrick Lewis - Heavyweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ocCBlFfhgS3EAwo1IEbY4gxzxG4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126832/d4b134.jpg" ch-number="67", [10:20 WIB] - Sean OMalley vs Aiemann Zahabi - Bantamweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ocCBlFfhgS3EAwo1IEbY4gxzxG4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126832/d4b134.jpg" ch-number="66", [10:20 WIB] - Sean OMalley vs Aiemann Zahabi - Bantamweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WDxoDSdQifFWR_wE8rHOtm49BhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126833/2e5909.jpg" ch-number="68", [11:05 WIB] - Alex Pereira vs Ciryl Gane - Heavyweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WDxoDSdQifFWR_wE8rHOtm49BhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126833/2e5909.jpg" ch-number="67", [11:05 WIB] - Alex Pereira vs Ciryl Gane - Heavyweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a3I2mVavXfGnVdjpk99v5lDLQ0A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126834/af5016.jpg" ch-number="69", [11:50 WIB] - Ilia Topuria vs Justin Gaethje - Lightweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a3I2mVavXfGnVdjpk99v5lDLQ0A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126834/af5016.jpg" ch-number="68", [11:50 WIB] - Ilia Topuria vs Justin Gaethje - Lightweight | UFC Fight Night
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21681&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/goYe0fMQl_fE1ELTCKiXvRzYHwI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21681/nex-road-to-champion-vol-4-f2ee29.jpg" ch-number="70", [15:30 WIB] - nex Road to Champion Vol. 4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/goYe0fMQl_fE1ELTCKiXvRzYHwI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21681/nex-road-to-champion-vol-4-f2ee29.jpg" ch-number="69", [15:30 WIB] - nex Road to Champion Vol. 4
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21681&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
