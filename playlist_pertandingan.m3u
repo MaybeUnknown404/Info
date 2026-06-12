@@ -16,9 +16,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=hXvC8iiJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BZCtO7n451FzSkec9nwzT7fYGfI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-badminton-open-2026-quarterfinals-court-3-dd6455.jpg" ch-number="4", [09:10 WIB] - Yang Po-Hsuan/Hu Ling Fang (TPE) vs Presley Smith/Jennie Gai (USA) - Mixed Doubles Quarter Finals | SATHIO GROUP Australian Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/BZCtO7n451FzSkec9nwzT7fYGfI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-badminton-open-2026-quarterfinals-court-3-dd6455.jpg" ch-number="4", Yang Po-Hsuan/Hu Ling Fang (TPE) vs Presley Smith/Jennie Gai (USA) - Mixed Doubles Quarter Finals | SATHIO GROUP Australian Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy
