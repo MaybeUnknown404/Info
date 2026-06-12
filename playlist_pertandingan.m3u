@@ -15,14 +15,15 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=hXvC8iiJ
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KhAerZWDJateWC2UBUOHzCZInZ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128986/2d67f0.jpg" ch-number="4", Soegijapranata Catholic University vs Universitas Kristen Satya Wacana (Semifinals | Putri) - CL Basketball 2026 - The Nationals
-https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fspxDum7jz4aVVj_C5LEIt7Rz2w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127872/651fe3.jpg" ch-number="4", Vietnam vs Kazakhstan - AVC Womens Cup
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fspxDum7jz4aVVj_C5LEIt7Rz2w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127872/651fe3.jpg" ch-number="5", Vietnam vs Kazakhstan - AVC Womens Cup
-https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6U3HjMUjbxbyM9nImSMUCMmdUK4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/semifinals-campus-league-basketball-the-nationals-31e01e.jpg" ch-number="5", [09:30 WIB] - Soegijapranata Catholic University vs Universitas Kristen Satya Wacana (Semifinals | Putri) - CL Basketball 2026 - The Nationals
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=hXvC8iiJBM5xmBk16nSCQGfOoVSTflzy
