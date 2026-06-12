@@ -5,9 +5,9 @@
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=OXwlrKVOjPwEYRILORde4CFHafI6DMpG|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=OXwlrKVOjPwEYRILORde4CFHafI6DMpG
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/IrQCTKVST4a_l5SlZqnpm8BZ_Nw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129031/653967.jpg" ch-number="2", Daniil Medvedev vs Marin Cilic - Quarterfinal | ATP 250: Libema Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=OXwlrKVOjPwEYRILORde4CFHafI6DMpG|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=OXwlrKVOjPwEYRILORde4CFHafI6DMpG
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uVixjSUiIEyMBTnkj6AypsG1FF0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129025/d7e08f.jpg" ch-number="2", Mattia Belluci vs Taylor Fritz - Quarterfinal | ATP 250: BOSS Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=OXwlrKVOjPwEYRILORde4CFHafI6DMpG|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=OXwlrKVOjPwEYRILORde4CFHafI6DMpG
@@ -26,8 +26,9 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=OXwlrKVO
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=OXwlrKVOjPwEYRILORde4CFHafI6DMpG
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_c4Z1KZfVHl0w-T-W8QUaKLI6Ew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129026/b6a74d.jpg" ch-number="6", Ben Shelton vs Sho Shimabukuro - Quarterfinal | ATP 250: BOSS Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=OXwlrKVOjPwEYRILORde4CFHafI6DMpG|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_c4Z1KZfVHl0w-T-W8QUaKLI6Ew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129026/b6a74d.jpg" ch-number="6", [01:00 WIB] - Ben Shelton vs Sho Shimabukuro - Quarterfinal | ATP 250: BOSS Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=OXwlrKVOjPwEYRILORde4CFHafI6DMpG|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=drm&token=OXwlrKVOjPwEYRILORde4CFHafI6DMpG
