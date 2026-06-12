@@ -46,9 +46,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=iSC3TGfG
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sia--fiC2Rwl83i5kAZlPlwqWzI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128062/f36420.jpg" ch-number="10", [20:53 WIB] - Qualifying - FIA Formula 2 Championship Barcelona Grand Prix 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/sia--fiC2Rwl83i5kAZlPlwqWzI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128062/f36420.jpg" ch-number="10", Qualifying - FIA Formula 2 Championship Barcelona Grand Prix 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=iSC3TGfGhqqa78wWfPUvMQyQb9s4BKs0
