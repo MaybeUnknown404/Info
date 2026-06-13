@@ -45,19 +45,20 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=ONi3rR9CS
 https://ndelok.arivpanel.workers.dev/index.mpd?id=19388&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kD1rh2-OevrZnCc5B-tneqVwPrA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132053/5bf578.jpg" ch-number="10", Adrian Mannarino vs Alex de Minaur - Semifinal | ATP 250: Libema Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Otj2cCBrutYT2U1f1kSrUXa--Xc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132026/e55785.jpg" ch-number="11", Final: Thailand vs Australia - ASEAN U19 Boys Bank Sumut Championship
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Otj2cCBrutYT2U1f1kSrUXa--Xc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132026/e55785.jpg" ch-number="10", Final: Thailand vs Australia - ASEAN U19 Boys Bank Sumut Championship
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21633&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xRFSQRQzbKL30mt6cMnSV_QtBpM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129489/41bc99.jpg" ch-number="12", [20:10 WIB] - WorldSBK Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xRFSQRQzbKL30mt6cMnSV_QtBpM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129489/41bc99.jpg" ch-number="11", [20:10 WIB] - WorldSBK Race 1 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kD1rh2-OevrZnCc5B-tneqVwPrA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132053/5bf578.jpg" ch-number="12", [20:30 WIB] - Adrian Mannarino vs Alex de Minaur - Semifinal | ATP 250: Libema Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
