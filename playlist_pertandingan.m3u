@@ -21,9 +21,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=hr1cY98E
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=drm&token=hr1cY98E1j1jlUmQ7ZunvRSFWS8jTk1u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dkbht0ENYZOga5lRSrONA60y8Ik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132046/20eeb5.jpg" ch-number="5", [01:15 WIB] - Men: Bulgaria vs Argentina - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=dash&token=hr1cY98E1j1jlUmQ7ZunvRSFWS8jTk1u|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dkbht0ENYZOga5lRSrONA60y8Ik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132046/20eeb5.jpg" ch-number="5", Men: Bulgaria vs Argentina - Volleyball Nations League
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=dash&token=hr1cY98E1j1jlUmQ7ZunvRSFWS8jTk1u|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=drm&token=hr1cY98E1j1jlUmQ7ZunvRSFWS8jTk1u
