@@ -1,38 +1,38 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cdiYdroJ-3HCktH1YHR3fWvFXgA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129500/f4019a.jpg" ch-number="1", Semifinals - WTA 500: The HSBC Championships 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2K_0ePx4Wuqxw-xUbRCvOm-h_YM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5131824/da2d6a.jpg" ch-number="1", Institut Perbanas vs Universitas Kristen Satya Wacana (Final | Putra) - CL Basketball 2026 - The Nationals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2K_0ePx4Wuqxw-xUbRCvOm-h_YM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5131824/da2d6a.jpg" ch-number="2", Institut Perbanas vs Universitas Kristen Satya Wacana (Final | Putra) - CL Basketball 2026 - The Nationals
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21210&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VsCRIpWmHrVBMVf1tXpnCH7FwIg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129496/86f8b4.jpg" ch-number="2", Semifinals - WTA 250: Libema Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VsCRIpWmHrVBMVf1tXpnCH7FwIg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129496/86f8b4.jpg" ch-number="3", Semifinals - WTA 250: Libema Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/f9T54SMlTmpVdLYzy7n9gs2T6XA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129497/baafc2.jpg" ch-number="3", Valencia P1 Premier Padel - Semifinals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/f9T54SMlTmpVdLYzy7n9gs2T6XA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129497/baafc2.jpg" ch-number="4", Valencia P1 Premier Padel - Semifinals
 https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZSmKedQR1RAy0NQMaavHBZRBmvw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132041/c6e9e4.jpg" ch-number="4", Semifinal: Korea vs Vietnam - AVC Womens Cup
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZSmKedQR1RAy0NQMaavHBZRBmvw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132041/c6e9e4.jpg" ch-number="5", Semifinal: Korea vs Vietnam - AVC Womens Cup
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21626&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/syHaTxgJHu6aK8_qk1jHW8apOwA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132028/163f29.jpg" ch-number="5", 3rd Place: Ivory Coast vs DR Congo - Maurice Revello
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/syHaTxgJHu6aK8_qk1jHW8apOwA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132028/163f29.jpg" ch-number="6", 3rd Place: Ivory Coast vs DR Congo - Maurice Revello
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/82x0bZs7-fNoHIyOnnefrfNMJz8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132050/7b9308.jpg" ch-number="6", Alexander Bublik vs Taylor Fritz - Semifinal | ATP 250: BOSS Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/82x0bZs7-fNoHIyOnnefrfNMJz8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132050/7b9308.jpg" ch-number="7", Alexander Bublik vs Taylor Fritz - Semifinal | ATP 250: BOSS Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cdiYdroJ-3HCktH1YHR3fWvFXgA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129500/f4019a.jpg" ch-number="7", Semifinals - WTA 500: The HSBC Championships 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
@@ -45,14 +45,14 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=dash&token=ONi3rR9C
 https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6ojUZhz4lffoP8WecMVdRsEahgg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128067/07fe14.jpg" ch-number="10", Sprint - FIA Formula 2 Championship Barcelona Grand Prix 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=19388&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZotwBRpSPMbFDe_Ww06UDZIfD9o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125574/602ea3.jpg" ch-number="10", Rajadamnern 2026 Female Flyweight Title
+https://ndelok.arivpanel.workers.dev/index.mpd?id=19388&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=19388&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZotwBRpSPMbFDe_Ww06UDZIfD9o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125574/602ea3.jpg" ch-number="11", Rajadamnern 2026 Female Flyweight Title
-https://ndelok.arivpanel.workers.dev/index.mpd?id=19388&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6ojUZhz4lffoP8WecMVdRsEahgg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128067/07fe14.jpg" ch-number="11", Sprint - FIA Formula 2 Championship Barcelona Grand Prix 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=6299&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
@@ -114,15 +114,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VSLfEt8mGeljH8Ws8Glt9xFMX4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132029/462f84.jpg" ch-number="22", [00:00 WIB] - Finals: Portugal vs Tunisia - Maurice Revello
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5myEo9YnoICk5nhgwG8m-euTCDg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129478/677065.jpg" ch-number="22", [00:00 WIB] - Round 3 - RBC Canadian Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5myEo9YnoICk5nhgwG8m-euTCDg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129478/677065.jpg" ch-number="23", [00:00 WIB] - Round 3 - RBC Canadian Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VSLfEt8mGeljH8Ws8Glt9xFMX4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132029/462f84.jpg" ch-number="23", [00:00 WIB] - Finals: Portugal vs Tunisia - Maurice Revello
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -222,15 +222,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3d747jpFNWz6Ark047nXEnM1Yh0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129494/3b108a.jpg" ch-number="40", [18:45 WIB] - WorldSBK Race 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GI4N8oZfpGO1ZbZv93h6sjQuPXI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132035/302b31.jpg" ch-number="40", [18:45 WIB] - Men: Slovenia vs Japan - Volleyball Nations League
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GI4N8oZfpGO1ZbZv93h6sjQuPXI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132035/302b31.jpg" ch-number="41", [18:45 WIB] - Men: Slovenia vs Japan - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21646&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3d747jpFNWz6Ark047nXEnM1Yh0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129494/3b108a.jpg" ch-number="41", [18:45 WIB] - WorldSBK Race 2 - WorldSBK Championship 2026 Round 7 Pirelli Emilia Romagna Round
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -342,8 +342,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EEjKIHH5RVYvj7Ut3XdZd3f7mMc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133570/11d260.jpg" ch-number="60", [20:30 WIB] - Day 1 - WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21681&type=drm&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/goYe0fMQl_fE1ELTCKiXvRzYHwI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21681/nex-road-to-champion-vol-4-f2ee29.jpg" ch-number="60", [15:30 WIB] - nex Road to Champion Vol. 4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/goYe0fMQl_fE1ELTCKiXvRzYHwI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21681/nex-road-to-champion-vol-4-f2ee29.jpg" ch-number="61", [15:30 WIB] - nex Road to Champion Vol. 4
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21681&type=dash&token=ONi3rR9CS7r48Ht4zNzzNGj913puo8uP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
