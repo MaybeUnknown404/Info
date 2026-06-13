@@ -16,9 +16,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=17875&type=dash&token=BPxf8SRw
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=BPxf8SRwElY5796fcd91TXDpdTYoc7jR
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bVpZi-LT3NaidKwbFMUoWetcL-g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134549/803016.jpg" ch-number="4", [23:15 WIB] - Semifinals - WTA 500: The HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=BPxf8SRwElY5796fcd91TXDpdTYoc7jR|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bVpZi-LT3NaidKwbFMUoWetcL-g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134549/803016.jpg" ch-number="4", Semifinals - WTA 500: The HSBC Championships 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=BPxf8SRwElY5796fcd91TXDpdTYoc7jR|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18189&type=drm&token=BPxf8SRwElY5796fcd91TXDpdTYoc7jR
