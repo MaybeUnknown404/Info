@@ -6,9 +6,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=dash&token=OU1zeceX
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=OU1zeceXINx77VdYbGWIMfluzhxVtlI7
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iCkCQ-cbLFNPIB95o-oowlLcIH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132067/1bc2e9.jpg" ch-number="2", [08:00 WIB] - Ranking 7-8: Philippines vs Iran - AVC Womens Cup
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=OU1zeceXINx77VdYbGWIMfluzhxVtlI7|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iCkCQ-cbLFNPIB95o-oowlLcIH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132067/1bc2e9.jpg" ch-number="2", Ranking 7-8: Philippines vs Iran - AVC Womens Cup
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=OU1zeceXINx77VdYbGWIMfluzhxVtlI7|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20718&type=drm&token=OU1zeceXINx77VdYbGWIMfluzhxVtlI7
