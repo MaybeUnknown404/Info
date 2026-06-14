@@ -1,18 +1,18 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=zwDRlVofXKPuVxa6paNgU3u16ISFJz4q
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wfMlM6Z5_iBP__Lhc5mNGllMNPU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133587/9a1357.jpg" ch-number="1", Feng Yan Zhe/Huang Dong Ping (CHN) vs Guo Xin Wa/Chen Fang Hui (CHN) - Mixed Doubles Final | SATHIO GROUP Australian Badminton Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=zwDRlVofXKPuVxa6paNgU3u16ISFJz4q|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=drm&token=zwDRlVofXKPuVxa6paNgU3u16ISFJz4q
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iCkCQ-cbLFNPIB95o-oowlLcIH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132067/1bc2e9.jpg" ch-number="1", Ranking 7-8: Philippines vs Iran - AVC Womens Cup
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iCkCQ-cbLFNPIB95o-oowlLcIH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132067/1bc2e9.jpg" ch-number="2", Ranking 7-8: Philippines vs Iran - AVC Womens Cup
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21254&type=dash&token=zwDRlVofXKPuVxa6paNgU3u16ISFJz4q|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20718&type=drm&token=zwDRlVofXKPuVxa6paNgU3u16ISFJz4q
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vUgClLYs_ZCDSenGzXMwzlScVas=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132031/2f7e6b.jpg" ch-number="2", Piala Raja Paku Alam Cup 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vUgClLYs_ZCDSenGzXMwzlScVas=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132031/2f7e6b.jpg" ch-number="3", Piala Raja Paku Alam Cup 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20718&type=dash&token=zwDRlVofXKPuVxa6paNgU3u16ISFJz4q|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=zwDRlVofXKPuVxa6paNgU3u16ISFJz4q
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/czDXPGG_LtTqefB2Fuu4ezqkYA0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sathio-group-australian-badminton-open-2026-finals-68e22a.jpg" ch-number="3", Feng Yan Zhe/Huang Dong Ping (CHN) vs Guo Xin Wa/Chen Fang Hui (CHN) - Mixed Doubles Final | SATHIO GROUP Australian Badminton Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=zwDRlVofXKPuVxa6paNgU3u16ISFJz4q|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=zwDRlVofXKPuVxa6paNgU3u16ISFJz4q
