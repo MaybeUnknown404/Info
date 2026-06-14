@@ -21,9 +21,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21648&type=dash&token=lGSJcpFF
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=drm&token=lGSJcpFFSRLt96XSnljm4E0DkNWj4mOw
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WwZkCGXJobF52ybCVyeP0Tl9IL8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132047/01cab1.jpg" ch-number="5", [21:45 WIB] - Men: Germany vs France - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=dash&token=lGSJcpFFSRLt96XSnljm4E0DkNWj4mOw|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WwZkCGXJobF52ybCVyeP0Tl9IL8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132047/01cab1.jpg" ch-number="5", Men: Germany vs France - Volleyball Nations League
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=dash&token=lGSJcpFFSRLt96XSnljm4E0DkNWj4mOw|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=lGSJcpFFSRLt96XSnljm4E0DkNWj4mOw
