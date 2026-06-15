@@ -10,31 +10,30 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=ExWWEjZE
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EnxI13H27w1PmI9UJXCfn3VUZww=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136634/c0783c.jpg" ch-number="3", Jiri Lehecka/Jakub Mensik vs Luke Johnson/Jan Zielinski - Doubles Round of 16 | ATP 500: HSBC Championships 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8_YdLsotRi1Kt3SoSZy0nPKSeAw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136643/b42b4a.jpg" ch-number="3", Nuno Borges vs Felix Auger-Aliassime - Round 1 | ATP 500: Terra Wortmann Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8_YdLsotRi1Kt3SoSZy0nPKSeAw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136643/b42b4a.jpg" ch-number="4", Nuno Borges vs Felix Auger-Aliassime - Round 1 | ATP 500: Terra Wortmann Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uEC4jrpW_LIuoshsYos9y2kxBWA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136647/c5c898.jpg" ch-number="4", Tommy Paul vs Zachary Svajda - Round of 32 | ATP 500: HSBC Championships 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uEC4jrpW_LIuoshsYos9y2kxBWA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136647/c5c898.jpg" ch-number="5", Tommy Paul vs Zachary Svajda - Round of 32 | ATP 500: HSBC Championships 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JTB5An2ckGh980l7zqNqR8R7fG0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136632/ae17d7.jpg" ch-number="5", [20:30 WIB] - Alex de Minaur/Cameron Norrie vs Yuki Bhambri/Michael Venus - Doubles Round of 16 | ATP 500: HSBC Championships 2026 (Not Before 21.30 WIB)
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JTB5An2ckGh980l7zqNqR8R7fG0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136632/ae17d7.jpg" ch-number="6", [20:30 WIB] - Alex de Minaur/Cameron Norrie vs Yuki Bhambri/Michael Venus - Doubles Round of 16 | ATP 500: HSBC Championships 2026 (Not Before 21.30 WIB)
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EEjKIHH5RVYvj7Ut3XdZd3f7mMc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133570/11d260.jpg" ch-number="6", [20:30 WIB] - Day 1 - WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EEjKIHH5RVYvj7Ut3XdZd3f7mMc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133570/11d260.jpg" ch-number="7", [20:30 WIB] - Day 1 - WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EnxI13H27w1PmI9UJXCfn3VUZww=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136634/c0783c.jpg" ch-number="7", [21:00 WIB] - Jiri Lehecka/Jakub Mensik vs Luke Johnson/Jan Zielinski - Doubles Round of 16 | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
