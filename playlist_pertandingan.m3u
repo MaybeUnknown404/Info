@@ -15,15 +15,15 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=eJaFE6Xp
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=eJaFE6XpjdxONARuz1jPZufDAiLVrABV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=eJaFE6XpjdxONARuz1jPZufDAiLVrABV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sfCKJgwwwxt7dYrnBhq4lxTYCCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136638/4bbda0.jpg" ch-number="4", [18:30 WIB] - Terence Atmane vs Martin Landaluce - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=eJaFE6XpjdxONARuz1jPZufDAiLVrABV|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=eJaFE6XpjdxONARuz1jPZufDAiLVrABV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a48L9_zZ7fiYLuSH3Kumjd4YQHY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136642/8e517c.jpg" ch-number="4", [18:00 WIB] - Nikoloz Basilashvili vs Daniel Altmaier - Round 1 | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=eJaFE6XpjdxONARuz1jPZufDAiLVrABV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=eJaFE6XpjdxONARuz1jPZufDAiLVrABV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a48L9_zZ7fiYLuSH3Kumjd4YQHY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136642/8e517c.jpg" ch-number="5", [18:30 WIB] - Nikoloz Basilashvili vs Daniel Altmaier - Round 1 | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=eJaFE6XpjdxONARuz1jPZufDAiLVrABV|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=eJaFE6XpjdxONARuz1jPZufDAiLVrABV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sfCKJgwwwxt7dYrnBhq4lxTYCCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136638/4bbda0.jpg" ch-number="5", [18:30 WIB] - Terence Atmane vs Martin Landaluce - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=eJaFE6XpjdxONARuz1jPZufDAiLVrABV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
