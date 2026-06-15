@@ -1,14 +1,13 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=drm&token=GGTApJEne7u56aKTqoBVxAdxhtnKDgeW
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vBCG4BLlLI3ztzfmr8O181aJrGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133183/0aad10.jpg" ch-number="1", Men: United States vs Italy - Volleyball Nations League
-https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=dash&token=GGTApJEne7u56aKTqoBVxAdxhtnKDgeW|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=GGTApJEne7u56aKTqoBVxAdxhtnKDgeW
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/CF72beH4i6AeZ5FchWIgh_xXD4M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126828/9dce89.jpg" ch-number="1", Diego Lopes vs Steve Garcia - Featherweight | UFC Freedom 250
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=GGTApJEne7u56aKTqoBVxAdxhtnKDgeW|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=GGTApJEne7u56aKTqoBVxAdxhtnKDgeW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CF72beH4i6AeZ5FchWIgh_xXD4M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5126828/9dce89.jpg" ch-number="2", [08:00 WIB] - Diego Lopes vs Steve Garcia - Featherweight | UFC Freedom 250
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=GGTApJEne7u56aKTqoBVxAdxhtnKDgeW|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=drm&token=GGTApJEne7u56aKTqoBVxAdxhtnKDgeW
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vBCG4BLlLI3ztzfmr8O181aJrGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133183/0aad10.jpg" ch-number="2", Men: United States vs Italy - Volleyball Nations League
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21647&type=dash&token=GGTApJEne7u56aKTqoBVxAdxhtnKDgeW|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=GGTApJEne7u56aKTqoBVxAdxhtnKDgeW
