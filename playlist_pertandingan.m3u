@@ -20,14 +20,15 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=ExWWEjZE
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/JTB5An2ckGh980l7zqNqR8R7fG0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136632/ae17d7.jpg" ch-number="5", Alex de Minaur/Cameron Norrie vs Yuki Bhambri/Michael Venus - Doubles Round of 16 | ATP 500: HSBC Championships 2026 (Not Before 21.30 WIB)
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2hEGM_7qLnik4vnCIf31hmlPbV0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136639/4108ae.jpg" ch-number="5", Zizou Bergs/Alexander Bublik vs Marcelo Melo/Alexander Zverev - Round 1 (Court 1) | ATP 500: Terra Wortmann Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2hEGM_7qLnik4vnCIf31hmlPbV0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136639/4108ae.jpg" ch-number="6", Zizou Bergs/Alexander Bublik vs Marcelo Melo/Alexander Zverev - Round 1 (Court 1) | ATP 500: Terra Wortmann Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JTB5An2ckGh980l7zqNqR8R7fG0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5136632/ae17d7.jpg" ch-number="6", [21:30 WIB] - Alex de Minaur/Cameron Norrie vs Yuki Bhambri/Michael Venus - Doubles Round of 16 | ATP 500: HSBC Championships 2026 (Not Before 21.30 WIB)
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=ExWWEjZEj1nWZzbW28HHDDRLvmansNb5
