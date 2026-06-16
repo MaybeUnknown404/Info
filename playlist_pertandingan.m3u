@@ -35,21 +35,21 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=3EG1dKec
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EdxMlGIZ6zEmWdYGbN_pUnXr61o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137862/f83735.jpg" ch-number="8", [23:00 WIB] - Cameron Norrie vs Alejandro Davidovich Fokina - Round 1 | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qoOo7D8zUH5f1Yy0MTNoKQdnYjI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137815/2370da.jpg" ch-number="9", [23:00 WIB] - Tomas Martin Etcheverry vs Daniil Medvedev - Round 1 | ATP 500: Terra Wortmann Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qoOo7D8zUH5f1Yy0MTNoKQdnYjI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137815/2370da.jpg" ch-number="8", [23:00 WIB] - Tomas Martin Etcheverry vs Daniil Medvedev - Round 1 | ATP 500: Terra Wortmann Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=drm&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MdPddwm26svfmnxVl8XXdxvE-h0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137868/e77600.jpg" ch-number="10", [23:00 WIB] - Sadio Doumbia/Marc Polmans vs Francisco Cabral/Lucas Miedler - Round 1 (Court 2) | ATP 500: Terra Wortmann Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MdPddwm26svfmnxVl8XXdxvE-h0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137868/e77600.jpg" ch-number="9", [23:00 WIB] - Sadio Doumbia/Marc Polmans vs Francisco Cabral/Lucas Miedler - Round 1 (Court 2) | ATP 500: Terra Wortmann Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=dash&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EdxMlGIZ6zEmWdYGbN_pUnXr61o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137862/f83735.jpg" ch-number="10", [23:00 WIB] - Cameron Norrie vs Alejandro Davidovich Fokina - Round 1 | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
