@@ -20,14 +20,14 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=3tMfO8aK
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zudQopj092zltSR1jRugvsVaCsM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137860/a9183f.jpg" ch-number="5", Jakub Mensik vs Adrian Mannarino - Round 1 | ATP 500: HSBC Championships 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ixWH4AAg6mqyf2CNFEVzIhw2SU0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137855/d65614.jpg" ch-number="5", Ignacio Buse vs Marcos Giron - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ixWH4AAg6mqyf2CNFEVzIhw2SU0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137855/d65614.jpg" ch-number="6", Ignacio Buse vs Marcos Giron - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zudQopj092zltSR1jRugvsVaCsM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137860/a9183f.jpg" ch-number="6", Jakub Mensik vs Adrian Mannarino - Round 1 | ATP 500: HSBC Championships 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
@@ -45,15 +45,15 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=3tMfO8aK
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aIymBQ71U5PysKFvsCa-EKRWfVM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137817/91569f.jpg" ch-number="10", [20:00 WIB] - Alexander Zverev vs Vit Kopriva - Round 1 | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/E7YFI9pWoNSZhovqPsy_qwGXqrc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137861/cd3661.jpg" ch-number="10", [20:00 WIB] - Alex de Minaur vs Gabriel Diallo - Round 1 | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wnZodMp8F0lvXZD9R1h3NaEfeao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137809/567798.jpg" ch-number="11", [20:30 WIB] - Mattia Bellucci/Nick Kyrgios vs Ethan Quinn/Learner Tien - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aIymBQ71U5PysKFvsCa-EKRWfVM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137817/91569f.jpg" ch-number="11", [20:00 WIB] - Alexander Zverev vs Vit Kopriva - Round 1 | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -63,33 +63,33 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/E7YFI9pWoNSZhovqPsy_qwGXqrc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137861/cd3661.jpg" ch-number="13", [20:30 WIB] - Alex de Minaur vs Gabriel Diallo - Round 1 | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Fc4uzcrkMQVGyu-wnBGsJNvplPk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137856/568144.jpg" ch-number="13", [20:30 WIB] - Jenson Brooksby vs Martin Damm - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wnZodMp8F0lvXZD9R1h3NaEfeao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137809/567798.jpg" ch-number="14", [20:30 WIB] - Mattia Bellucci/Nick Kyrgios vs Ethan Quinn/Learner Tien - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Fc4uzcrkMQVGyu-wnBGsJNvplPk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137856/568144.jpg" ch-number="14", [20:30 WIB] - Jenson Brooksby vs Martin Damm - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mGev6uza8mp1g-6_eYFTP8m1nTw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137857/c1f963.jpg" ch-number="15", [21:30 WIB] - Arthur Rinderknech vs Hamad Medjedovic - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EdxMlGIZ6zEmWdYGbN_pUnXr61o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137862/f83735.jpg" ch-number="16", [21:30 WIB] - Cameron Norrie vs Alejandro Davidovich Fokina - Round 1 | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jV2u2DYB5ick4dFyWRzqnzExAxA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137852/88a535.jpg" ch-number="15", [21:30 WIB] - Aleksandar Kovacevic vs Francisco Cerundolo - Round 1 (Court 1) | ATP 500: HSBC Championships 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jV2u2DYB5ick4dFyWRzqnzExAxA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137852/88a535.jpg" ch-number="17", [21:30 WIB] - Aleksandar Kovacevic vs Francisco Cerundolo - Round 1 (Court 1) | ATP 500: HSBC Championships 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mGev6uza8mp1g-6_eYFTP8m1nTw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137857/c1f963.jpg" ch-number="16", [21:30 WIB] - Arthur Rinderknech vs Hamad Medjedovic - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EdxMlGIZ6zEmWdYGbN_pUnXr61o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137862/f83735.jpg" ch-number="17", [21:30 WIB] - Cameron Norrie vs Alejandro Davidovich Fokina - Round 1 | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -99,9 +99,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WatUVOntSyIf0VLQP4ppbsZz_sc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137869/54d306.jpg" ch-number="19", [22:30 WIB] - Karolina Muchova/Serena Williams vs Erin Routliffe/Giuliana Olmos - Womens Doubles Round of 16 | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MdPddwm26svfmnxVl8XXdxvE-h0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137868/e77600.jpg" ch-number="19", [22:30 WIB] - Sadio Doumbia/Marc Polmans vs Francisco Cabral/Lucas Miedler - Round 1 (Court 2) | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -111,9 +111,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MdPddwm26svfmnxVl8XXdxvE-h0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137868/e77600.jpg" ch-number="21", [22:30 WIB] - Sadio Doumbia/Marc Polmans vs Francisco Cabral/Lucas Miedler - Round 1 (Court 2) | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WatUVOntSyIf0VLQP4ppbsZz_sc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137869/54d306.jpg" ch-number="21", [22:30 WIB] - Karolina Muchova/Serena Williams vs Erin Routliffe/Giuliana Olmos - Womens Doubles Round of 16 | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
