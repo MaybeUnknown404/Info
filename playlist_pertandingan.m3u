@@ -1,23 +1,23 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UJKMCIFVf9EU19vlDpoUJYlY67s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137803/be837c.jpg" ch-number="1", Kim Yu Jung/Lee Yu Lim (KOR) vs Lanny Tria Mayasari/Apriyani Rahayu (INA) - Womens Doubles Round of 32 | Macau Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ByiUoXuKI-cHT-HslFpS7_VPqVk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137791/84a7cd.jpg" ch-number="2", Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Choong Hon Jian/Wong Vin Sean (MAS) - Mens Doubles Round of 32 | Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ByiUoXuKI-cHT-HslFpS7_VPqVk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137791/84a7cd.jpg" ch-number="1", Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Choong Hon Jian/Wong Vin Sean (MAS) - Mens Doubles Round of 32 | Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_YpMdMx4ENoXN-75txWOoNkys18=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137698/5296e6.jpg" ch-number="3", Chia Weijie/Teo Ee Yi (MAS) vs Su Ching Heng/Tang Kai Wei (TPE) - Mens Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_YpMdMx4ENoXN-75txWOoNkys18=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137698/5296e6.jpg" ch-number="2", Chia Weijie/Teo Ee Yi (MAS) vs Su Ching Heng/Tang Kai Wei (TPE) - Mens Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VWNwCniLQmTCgXnZE2WV2V7T4nU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137792/c4fad7.jpg" ch-number="4", Wei Chun Wei/Po Chih Yang (TPE) vs Huang Tsung-I/Lin Ting-Yu (TPE) - Mens Doubles Round of 32 | Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VWNwCniLQmTCgXnZE2WV2V7T4nU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137792/c4fad7.jpg" ch-number="3", Wei Chun Wei/Po Chih Yang (TPE) vs Huang Tsung-I/Lin Ting-Yu (TPE) - Mens Doubles Round of 32 | Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gc1g3PXhXemloA8-XVr81OOPiWk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137804/89a93c.jpg" ch-number="4", Low Hang Yee/Ng Eng Cheong (MAS) vs Rodion Alimov/Maksim Ogloblin (RUS) - Mens Doubles Round of 32 | Macau Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
@@ -55,9 +55,9 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=3tMfO8aK
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aIymBQ71U5PysKFvsCa-EKRWfVM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137817/91569f.jpg" ch-number="12", [20:00 WIB] - Alexander Zverev vs Vit Kopriva - Round 1 | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Fc4uzcrkMQVGyu-wnBGsJNvplPk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137856/568144.jpg" ch-number="12", [20:00 WIB] - Jenson Brooksby vs Martin Damm - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -67,21 +67,21 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Fc4uzcrkMQVGyu-wnBGsJNvplPk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137856/568144.jpg" ch-number="14", [20:00 WIB] - Jenson Brooksby vs Martin Damm - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YPqwKc1hUdVSw5oOVFtsXjHmfIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137867/2d7d2e.jpg" ch-number="15", [20:30 WIB] - Fabian Marozsan vs Miomir Kecmanovic - Round 1 (Court 2) | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aIymBQ71U5PysKFvsCa-EKRWfVM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137817/91569f.jpg" ch-number="14", [20:00 WIB] - Alexander Zverev vs Vit Kopriva - Round 1 | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wnZodMp8F0lvXZD9R1h3NaEfeao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137809/567798.jpg" ch-number="16", [20:30 WIB] - Mattia Bellucci/Nick Kyrgios vs Ethan Quinn/Learner Tien - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wnZodMp8F0lvXZD9R1h3NaEfeao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137809/567798.jpg" ch-number="15", [20:30 WIB] - Mattia Bellucci/Nick Kyrgios vs Ethan Quinn/Learner Tien - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YPqwKc1hUdVSw5oOVFtsXjHmfIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137867/2d7d2e.jpg" ch-number="16", [20:30 WIB] - Fabian Marozsan vs Miomir Kecmanovic - Round 1 (Court 2) | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -109,33 +109,33 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WatUVOntSyIf0VLQP4ppbsZz_sc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137869/54d306.jpg" ch-number="21", [22:30 WIB] - Karolina Muchova/Serena Williams vs Erin Routliffe/Giuliana Olmos - Womens Doubles Round of 16 | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MdPddwm26svfmnxVl8XXdxvE-h0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137868/e77600.jpg" ch-number="22", [22:30 WIB] - Sadio Doumbia/Marc Polmans vs Francisco Cabral/Lucas Miedler - Round 1 (Court 2) | ATP 500: Terra Wortmann Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MdPddwm26svfmnxVl8XXdxvE-h0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137868/e77600.jpg" ch-number="21", [22:30 WIB] - Sadio Doumbia/Marc Polmans vs Francisco Cabral/Lucas Miedler - Round 1 (Court 2) | ATP 500: Terra Wortmann Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ojGTp3mUs9bWlrfnFSJkjvj3pAE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137810/7197a9.jpg" ch-number="23", [22:30 WIB] - Flavio Cobolli/Ben Shelton vs Adam Pavlasek/Andrea Vavassori - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ojGTp3mUs9bWlrfnFSJkjvj3pAE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137810/7197a9.jpg" ch-number="22", [22:30 WIB] - Flavio Cobolli/Ben Shelton vs Adam Pavlasek/Andrea Vavassori - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/w-Q7r1xpPwDg3mBliCtllH47j50=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137858/7c1e86.jpg" ch-number="24", [23:30 WIB] - Rinky Hijikata vs Alejandro Tabilo - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WatUVOntSyIf0VLQP4ppbsZz_sc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137869/54d306.jpg" ch-number="23", [22:30 WIB] - Karolina Muchova/Serena Williams vs Erin Routliffe/Giuliana Olmos - Womens Doubles Round of 16 | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c5Dk0EIwxJtSmKBaVORp6i4NQl8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137863/4fc539.jpg" ch-number="25", [23:30 WIB] - Kamil Majchrzak vs Jiri Lehecka - Round 1 | ATP 500: HSBC Championships 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c5Dk0EIwxJtSmKBaVORp6i4NQl8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137863/4fc539.jpg" ch-number="24", [23:30 WIB] - Kamil Majchrzak vs Jiri Lehecka - Round 1 | ATP 500: HSBC Championships 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/w-Q7r1xpPwDg3mBliCtllH47j50=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137858/7c1e86.jpg" ch-number="25", [23:30 WIB] - Rinky Hijikata vs Alejandro Tabilo - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
