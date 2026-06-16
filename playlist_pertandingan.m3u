@@ -1,12 +1,12 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=a0lIpWb3HM12ONCwV9D8XXziqPiwtssr
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/JKgLNxbZJeDXaK0qtyzxMgfVvas=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137690/55a32a.jpg" ch-number="1", Weeraphat Phakjarung/Tanupat Viriyangkura (THA) vs Jin Yong/Lee Jongmin (KOR) - Mens Doubles Qualification | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pKthYvdA5WUtRihm4KKRKquxc0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137691/2136e2.jpg" ch-number="1", Hein Htut (MYA) vs Rounak Chouhan (IND) - Mens Singles Qualification | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=a0lIpWb3HM12ONCwV9D8XXziqPiwtssr|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=a0lIpWb3HM12ONCwV9D8XXziqPiwtssr
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/hizgPxyPBE1snp9fie2Y_s0eKGM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137773/fb7b88.jpg" ch-number="2", Xiaodong Sheng (CAN) vs Huan Kai Hern (MAS) - Mens Singles Qualification | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OWaPdQSkp_geOBGth4UEBVqLMR0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137774/1125c1.jpg" ch-number="2", Kai Chen Teoh/Kai Qi (Bernice) Teoh (AUS) vs Huang Tsung-I/Wang Yi Zhen (TPE) - Mixed Doubles Qualification | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=a0lIpWb3HM12ONCwV9D8XXziqPiwtssr|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -16,7 +16,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=a0lIpWb3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=drm&token=a0lIpWb3HM12ONCwV9D8XXziqPiwtssr
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/NaKchv22MMwgtLwTciHlJAKuijQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137786/00a4c6.jpg" ch-number="4", Ming Hong Lim (MAS) vs Kuo Kuan Lin (TPE) - Mens Singles Qualification | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vO-s8BKDr4NFHxQ278WG4Beyht8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sands-china-ltd-macau-open-2026-qualifiers-round-of-32-court-4-227873.jpg" ch-number="4", SANDS CHINA LTD Macau Open 2026 - Qualifiers+Round Of 32 (Court 4)
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=dash&token=a0lIpWb3HM12ONCwV9D8XXziqPiwtssr|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
