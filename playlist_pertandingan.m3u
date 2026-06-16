@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=bfaoVKTHwzL4bDMryA0Gbz5zldmDcMSr
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tEthl-YuBe73lMRyTNtBLeCEB5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137689/02703a.jpg" ch-number="1", Ng Weng Chi/Pui Chi Wa (MAC) vs Chloe Ho/Stella Pan (USA) - Womens Doubles Qualification | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/IhBLGusD1sLHbEu6x1pX78OyE0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137688/f6bb5b.jpg" ch-number="1", Liao Li Xi/Shen Shi Yao (CHN) vs Hung Ho Yan/Wong Yan Lam Yanes (HKG) - Womens Doubles Qualification | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=bfaoVKTHwzL4bDMryA0Gbz5zldmDcMSr|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
