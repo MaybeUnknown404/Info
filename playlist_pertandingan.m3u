@@ -6,7 +6,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=2GlHO0Ne
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vM9DyP4TaDaB9yPlPkstZ7o-iHc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137696/299a59.jpg" ch-number="2", Luo Yi/Wang Ting Ge (CHN) vs Fan Ka Yan/Yau Mau Ying (HKG) - Womens Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/oNANc0YCIbQv8OtSxHScUwNqTdM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137697/b2a7a8.jpg" ch-number="2", Choi Sol Gyu (KOR)/Goh V Shem (MAS) vs Chang Ko-Chi/Chen Sheng Fa (TPE) - Mens Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -55,15 +55,15 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=dash&token=2GlHO0Ne
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=drm&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ByiUoXuKI-cHT-HslFpS7_VPqVk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137791/84a7cd.jpg" ch-number="12", [19:00 WIB] - Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Choong Hon Jian/Wong Vin Sean (MAS) - Mens Doubles Round of 32 | Macau Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=dash&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/w94xTuXVlJeMWiF6NHE16URPues=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137808/12af02.jpg" ch-number="12", [18:46 WIB] - Andrey Rublev vs Hubert Hurkacz - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/w94xTuXVlJeMWiF6NHE16URPues=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137808/12af02.jpg" ch-number="13", [19:00 WIB] - Andrey Rublev vs Hubert Hurkacz - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=drm&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ByiUoXuKI-cHT-HslFpS7_VPqVk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137791/84a7cd.jpg" ch-number="13", [19:00 WIB] - Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Choong Hon Jian/Wong Vin Sean (MAS) - Mens Doubles Round of 32 | Macau Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=dash&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
