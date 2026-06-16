@@ -56,21 +56,21 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=3tMfO8aK
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Fc4uzcrkMQVGyu-wnBGsJNvplPk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137856/568144.jpg" ch-number="12", [20:00 WIB] - Jenson Brooksby vs Martin Damm - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aIymBQ71U5PysKFvsCa-EKRWfVM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137817/91569f.jpg" ch-number="13", [20:00 WIB] - Alexander Zverev vs Vit Kopriva - Round 1 | ATP 500: Terra Wortmann Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aIymBQ71U5PysKFvsCa-EKRWfVM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137817/91569f.jpg" ch-number="12", [20:00 WIB] - Alexander Zverev vs Vit Kopriva - Round 1 | ATP 500: Terra Wortmann Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wnZodMp8F0lvXZD9R1h3NaEfeao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137809/567798.jpg" ch-number="14", [20:30 WIB] - Mattia Bellucci/Nick Kyrgios vs Ethan Quinn/Learner Tien - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wnZodMp8F0lvXZD9R1h3NaEfeao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137809/567798.jpg" ch-number="13", [20:30 WIB] - Mattia Bellucci/Nick Kyrgios vs Ethan Quinn/Learner Tien - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Fc4uzcrkMQVGyu-wnBGsJNvplPk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137856/568144.jpg" ch-number="14", [20:30 WIB] - Jenson Brooksby vs Martin Damm - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3tMfO8aKtC1xpA5gfEhAcMuXVELP89uF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
