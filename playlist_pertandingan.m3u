@@ -35,15 +35,15 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3EG1dKec
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c5Dk0EIwxJtSmKBaVORp6i4NQl8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137863/4fc539.jpg" ch-number="8", [00:00 WIB] - Kamil Majchrzak vs Jiri Lehecka - Round 1 | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mGev6uza8mp1g-6_eYFTP8m1nTw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137857/c1f963.jpg" ch-number="8", [01:00 WIB] - Arthur Rinderknech vs Hamad Medjedovic - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=drm&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mGev6uza8mp1g-6_eYFTP8m1nTw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137857/c1f963.jpg" ch-number="9", [01:00 WIB] - Arthur Rinderknech vs Hamad Medjedovic - Round 1 (Court 5) | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20888&type=dash&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c5Dk0EIwxJtSmKBaVORp6i4NQl8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137863/4fc539.jpg" ch-number="9", [03:00 WIB] - Kamil Majchrzak vs Jiri Lehecka - Round 1 | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=3EG1dKecDX35VT2eJuE6Tss0l0p4KKCt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
