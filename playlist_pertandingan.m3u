@@ -26,15 +26,13 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=2GlHO0Nes
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dZL3AQgyPcdXBDEihEW1bcWbAHE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137807/d85376.jpg" ch-number="6", [16:30 WIB] - Karen Khachanov vs Ethan Quinn - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dZL3AQgyPcdXBDEihEW1bcWbAHE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137807/d85376.jpg" ch-number="6", Karen Khachanov vs Ethan Quinn - Round 1 (Schauinsland-Reisen Court) | ATP 500: Terra Wortmann Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=drm&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qoF_MadkRdZ8sONqGtV4r1uDbws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137865/fc221f.jpg" ch-number="7", [16:30 WIB] - Alexei Popyrin vs Raphael Collignon - Round 1 (Court 2) | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=dash&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qoF_MadkRdZ8sONqGtV4r1uDbws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137865/fc221f.jpg" ch-number="7", Alexei Popyrin vs Raphael Collignon - Round 1 (Court 2) | ATP 500: Terra Wortmann Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21692&type=dash&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=2GlHO0Nes34coHYN1uVZP4SSsyhdKCKY
