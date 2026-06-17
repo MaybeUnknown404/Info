@@ -60,21 +60,21 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=UHEgQqmK
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=dash&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dfLmUziTdEy3fXucwkQry7GCvvI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137984/4667b2.jpg" ch-number="13", [19:00 WIB] - Christian Harrison/Neal Skupski vs Austin Krajicek/Nikola Mektic - Round 1 | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qWsluTnGwHoKNHUm33sLx5w3CqM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137989/1468e8.jpg" ch-number="14", [19:30 WIB] - Alex De Minaur vs Denis Shapovalov - Round 2 | ATP 500: HSBC Championships 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qWsluTnGwHoKNHUm33sLx5w3CqM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137989/1468e8.jpg" ch-number="13", [19:30 WIB] - Alex De Minaur vs Denis Shapovalov - Round 2 | ATP 500: HSBC Championships 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TeY9kq_n1XOm2qxYzwGHoRxuxBY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137971/64cc89.jpg" ch-number="15", [19:30 WIB] - Ben Shelton vs Lorenzo Sonego - Round 1 | ATP 500: Terra Wortmann Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TeY9kq_n1XOm2qxYzwGHoRxuxBY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137971/64cc89.jpg" ch-number="14", [19:30 WIB] - Ben Shelton vs Lorenzo Sonego - Round 1 | ATP 500: Terra Wortmann Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dfLmUziTdEy3fXucwkQry7GCvvI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137984/4667b2.jpg" ch-number="15", [19:30 WIB] - Christian Harrison/Neal Skupski vs Austin Krajicek/Nikola Mektic - Round 1 | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
