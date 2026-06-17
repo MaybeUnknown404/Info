@@ -30,15 +30,15 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=RcXGBZb6e
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=RcXGBZb6eMCCZ96DqvgYx60cYy8RTVMZ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=RcXGBZb6eMCCZ96DqvgYx60cYy8RTVMZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Uh_ZKD4FfV5PCmCFYh2dWgkVvAs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137973/a4ba63.jpg" ch-number="7", [23:00 WIB] - Terence Atmane vs Daniil Medvedev - Round 2 | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=RcXGBZb6eMCCZ96DqvgYx60cYy8RTVMZ|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=drm&token=RcXGBZb6eMCCZ96DqvgYx60cYy8RTVMZ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/m8RwA8qjz3nDZgmS9jHoegSpmec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134874/fc660b.jpg" ch-number="7", [23:15 WIB] - Women: Turkey vs Belgium - Volleyball Nations League
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=RcXGBZb6eMCCZ96DqvgYx60cYy8RTVMZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=drm&token=RcXGBZb6eMCCZ96DqvgYx60cYy8RTVMZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/m8RwA8qjz3nDZgmS9jHoegSpmec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134874/fc660b.jpg" ch-number="8", [23:15 WIB] - Women: Turkey vs Belgium - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=RcXGBZb6eMCCZ96DqvgYx60cYy8RTVMZ|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=RcXGBZb6eMCCZ96DqvgYx60cYy8RTVMZ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Uh_ZKD4FfV5PCmCFYh2dWgkVvAs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137973/a4ba63.jpg" ch-number="8", [00:00 WIB] - Terence Atmane vs Daniil Medvedev - Round 2 | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=RcXGBZb6eMCCZ96DqvgYx60cYy8RTVMZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
