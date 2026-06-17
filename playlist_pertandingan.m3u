@@ -1,33 +1,28 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/v_cOG24f53RaSmxo9rE-VcVY-2o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137926/fdf8a0.jpg" ch-number="1", [09:00 WIB] - Muhamad Yusuf (INA) vs Kuo Kuan Lin (TPE) - Mens Singles Round of 32 | SANDS CHINA LTD. Macau Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/v_cOG24f53RaSmxo9rE-VcVY-2o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137926/fdf8a0.jpg" ch-number="1", Muhamad Yusuf (INA) vs Kuo Kuan Lin (TPE) - Mens Singles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Umiu2D6etcCWE-pXScL5WqclQ0A=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2026-round-of-32-court-1-9f6d05.jpg" ch-number="2", [09:00 WIB] - Jin Yong/Lee Jongmin (KOR) vs Bryan Jeremy Goonting/Muhammad Haikal (MAS) - Mens Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Umiu2D6etcCWE-pXScL5WqclQ0A=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2026-round-of-32-court-1-9f6d05.jpg" ch-number="2", Jin Yong/Lee Jongmin (KOR) vs Bryan Jeremy Goonting/Muhammad Haikal (MAS) - Mens Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dFGHvQEuz8GlqBxB4ZzYVLH8FfY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sands-china-ltd-macau-open-2026-round-of-32-court-2-8aeeaf.jpg" ch-number="3", [09:00 WIB] - Muhamad Yusuf (INA) vs Kuo Kuan Lin (TPE) - Mens Singles Round of 32 | SANDS CHINA LTD. Macau Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dFGHvQEuz8GlqBxB4ZzYVLH8FfY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sands-china-ltd-macau-open-2026-round-of-32-court-2-8aeeaf.jpg" ch-number="3", Muhamad Yusuf (INA) vs Kuo Kuan Lin (TPE) - Mens Singles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gqX67Yi82_HmnkMfCaFGe5QIiH0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sands-china-ltd-macau-open-2026-round-of-32-court-3-1764cc.jpg" ch-number="4", [09:00 WIB] - Wang Yi Duo/Wang Zi Meng (CHN) vs Chen Fan Shu Tian/Liu Jia Yue - Womens Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gqX67Yi82_HmnkMfCaFGe5QIiH0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sands-china-ltd-macau-open-2026-round-of-32-court-3-1764cc.jpg" ch-number="4", Wang Yi Duo/Wang Zi Meng (CHN) vs Chen Fan Shu Tian/Liu Jia Yue - Womens Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=drm&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-X14Sit2Mu5AjEeYG4kEd0UDkhE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sands-china-ltd-macau-open-2026-round-of-32-court-4-78a81e.jpg" ch-number="5", [09:00 WIB] - Benyapa Aimsaard/Nuntakarn Aimsaard (THA) vs Ornnicha Jongsathapornparn/Sabrina Sophita Wedler (THA) - Womens Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=dash&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-X14Sit2Mu5AjEeYG4kEd0UDkhE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sands-china-ltd-macau-open-2026-round-of-32-court-4-78a81e.jpg" ch-number="5", Benyapa Aimsaard/Nuntakarn Aimsaard (THA) vs Ornnicha Jongsathapornparn/Sabrina Sophita Wedler (THA) - Womens Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18253&type=dash&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=drm&token=fT4HgxuiuR03Zg6ZQSb8pQnQgUemVokW
