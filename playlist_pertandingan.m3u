@@ -36,15 +36,13 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=UHEgQqmK
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/R0qZB9-pUv1EUTCMDP5ASNrGRX0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137965/ead298.jpg" ch-number="8", [16:30 WIB] - Kevin Krawietz/Tim Puetz vs Robert Galloway/John Peers - Round 2 | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/R0qZB9-pUv1EUTCMDP5ASNrGRX0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137965/ead298.jpg" ch-number="8", Kevin Krawietz/Tim Puetz vs Robert Galloway/John Peers - Round 2 | ATP 500: Terra Wortmann Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BLb8MfGVzMNY0hyS8KRv5e7WtwA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137970/48c5a0.jpg" ch-number="9", [16:30 WIB] - Zizou Bergs vs Taylor Fritz - Round 1 | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/BLb8MfGVzMNY0hyS8KRv5e7WtwA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137970/48c5a0.jpg" ch-number="9", Zizou Bergs vs Taylor Fritz - Round 1 | ATP 500: Terra Wortmann Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=UHEgQqmKSfZ4FK2deloC7QJ0V1xObUca
