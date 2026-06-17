@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=nQj6SyLZnaroDvSgp7kjke1iPETG4301
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Q6GO3WtLy7jECvu5f0e7CwdKHp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137917/680bf6.jpg" ch-number="1", Calvin Devereux/Desiree Toepffer (GER) vs Ishaan Bhatnagar/Shruti Mishra (IND) - Mixed Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/z6rHPcXNgQJ8cAvSodF_OsU53VI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137918/6add36.jpg" ch-number="1", Ng Ka Long Angus (HKG) vs Sholeh Aidil (MAS) - Mens Singles Round of 32 | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=nQj6SyLZnaroDvSgp7kjke1iPETG4301|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11,7 +11,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=nQj6SyLZ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=nQj6SyLZnaroDvSgp7kjke1iPETG4301
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HtHuhg7h4B32nkrcqKFkD6c8NAM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137900/a2c569.jpg" ch-number="3", Kim Ga Eun (KOR) vs Chen Su Yu (TPE) - Womens Singles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/sB9cXguYBoBihrWd5T3XmdIqQyI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137901/286856.jpg" ch-number="3", Dhruv Rawat/Maneesha K (IND) vs Song Hyun Cho/Jeong Na Eun (KOR) - Mixed Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=nQj6SyLZnaroDvSgp7kjke1iPETG4301|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
