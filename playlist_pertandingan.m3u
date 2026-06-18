@@ -26,19 +26,18 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=AW9GEOJh
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2wTNHJYzpfDQqeshDTuD1Aq7epk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138242/b16bd6.jpg" ch-number="6", Chou Yun An/Sung Yi-Hsuan (TPE) vs Ong Xin Yee/Carmen Ting (MAS) - Womens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cTz1V7Ll9OIh6S_eug4hstog2JQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138243/f2361a.jpg" ch-number="6", Nur Mohd Azriyn Ayub Azriyn/Tan Wee Kiong (MAS) vs Boon Xin Yuan/Lwi Sheng Hao (MAS) - Mens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BoS7t9cBgD5sNBoHZVUM88EGvaI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138057/56d5f7.jpg" ch-number="7", [17:30 WIB] - Round of 16 - WTA 250: Lexus Nottingham Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lXHBNncl8Ex9-HiubyCo1wx9uyc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138295/fe6758.jpg" ch-number="7", Corentin Moutet vs Alejandro Davidovich Fokina - Round of 16 | ATP 500: HSBC Championships 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lXHBNncl8Ex9-HiubyCo1wx9uyc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138295/fe6758.jpg" ch-number="8", [17:30 WIB] - Corentin Moutet vs Alejandro Davidovich Fokina - Round of 16 | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BoS7t9cBgD5sNBoHZVUM88EGvaI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138057/56d5f7.jpg" ch-number="8", [17:30 WIB] - Round of 16 - WTA 250: Lexus Nottingham Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
