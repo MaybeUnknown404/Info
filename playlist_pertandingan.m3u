@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cgdAYwFxEKB1z-89HwYf0q9GqVU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138181/fb0581.jpg" ch-number="1", Luo Yi/Wang Ting Ge (CHN) vs Chen Fan Shu Tian/Liu Jia Yue (CHN) - Womens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ULLN3TTNw__YYw6VjcWKF-aBugI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138182/f0fb13.jpg" ch-number="1", Han Qian Xi (CHN) vs Lee So Yul (KOR) - Womens Singles Round of 16 | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
