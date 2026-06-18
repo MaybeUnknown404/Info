@@ -1,53 +1,53 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bnwcjXJKPPeC688zHFWq2fcv-Yc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138291/005c02.jpg" ch-number="1", Ben Shelton vs Ethan Quinn - Round of 16 | ATP 500: Terra Wortmann Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KiLWiQjyFpXGYfm0xGZzk6sQspU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138190/6e3703.jpg" ch-number="1", Chia Weijie/Teo Ee Yi (MAS) vs Hu Ke Yuan/Lin Xiang Yi (CHN) - Mens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KiLWiQjyFpXGYfm0xGZzk6sQspU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138190/6e3703.jpg" ch-number="2", Chia Weijie/Teo Ee Yi (MAS) vs Hu Ke Yuan/Lin Xiang Yi (CHN) - Mens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pWAJdl7k090uFBMi7capMidZ5tI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138204/c079d7.jpg" ch-number="2", Park Ga Eun (KOR) vs Isharani Baruah (IND) - Womens Singles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pWAJdl7k090uFBMi7capMidZ5tI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138204/c079d7.jpg" ch-number="3", Park Ga Eun (KOR) vs Isharani Baruah (IND) - Womens Singles Round of 16 | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pmODGXjodU76U_6FQCkaGDCJnUk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138244/aea1ae.jpg" ch-number="3", Passa-Orn Phannachet (THA) vs Busanan Ongbamrungphan (THA) - Womens Singles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pmODGXjodU76U_6FQCkaGDCJnUk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138244/aea1ae.jpg" ch-number="4", Passa-Orn Phannachet (THA) vs Busanan Ongbamrungphan (THA) - Womens Singles Round of 16 | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OtC2lc1wSH6h4Ry4AV91x6UDitc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134865/d648bb.jpg" ch-number="4", Day 4 - WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OtC2lc1wSH6h4Ry4AV91x6UDitc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134865/d648bb.jpg" ch-number="5", Day 4 - WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_TcOz6AnPu3a2JGw-aqvpMIXiRw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138000/76c038.jpg" ch-number="5", Women: Ukraine vs Poland - Volleyball Nations League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_TcOz6AnPu3a2JGw-aqvpMIXiRw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138000/76c038.jpg" ch-number="6", Women: Ukraine vs Poland - Volleyball Nations League
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lXHBNncl8Ex9-HiubyCo1wx9uyc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138295/fe6758.jpg" ch-number="6", Corentin Moutet vs Alejandro Davidovich Fokina - Round of 16 | ATP 500: HSBC Championships 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lXHBNncl8Ex9-HiubyCo1wx9uyc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138295/fe6758.jpg" ch-number="7", Corentin Moutet vs Alejandro Davidovich Fokina - Round of 16 | ATP 500: HSBC Championships 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/BoS7t9cBgD5sNBoHZVUM88EGvaI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138057/56d5f7.jpg" ch-number="7", Round of 16 - WTA 250: Lexus Nottingham Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/BoS7t9cBgD5sNBoHZVUM88EGvaI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138057/56d5f7.jpg" ch-number="8", Round of 16 - WTA 250: Lexus Nottingham Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0fvMVIj5AsFKs-vaPcmk0rxthhg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138300/211599.jpg" ch-number="8", Yuki Bhambri/Michael Venus vs Marcelo Arevalo/Mate Pavic - Quarterfinal | ATP 500: HSBC Championships 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0fvMVIj5AsFKs-vaPcmk0rxthhg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138300/211599.jpg" ch-number="9", Yuki Bhambri/Michael Venus vs Marcelo Arevalo/Mate Pavic - Quarterfinal | ATP 500: HSBC Championships 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Bld9ooVlwWIgg9rv-GS85zU4sAM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138304/87e238.jpg" ch-number="9", Daniel Altmaier/Joao Fonseca vs Sadio Doumbia/Marc Polmans - Quarterfinals | ATP 500: Terra Wortmann Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Bld9ooVlwWIgg9rv-GS85zU4sAM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138304/87e238.jpg" ch-number="10", Daniel Altmaier/Joao Fonseca vs Sadio Doumbia/Marc Polmans - Quarterfinals | ATP 500: Terra Wortmann Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bnwcjXJKPPeC688zHFWq2fcv-Yc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138291/005c02.jpg" ch-number="10", Ben Shelton vs Ethan Quinn - Round of 16 | ATP 500: Terra Wortmann Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
