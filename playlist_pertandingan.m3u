@@ -11,9 +11,8 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=yeOPbgbY
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=yeOPbgbYflZFoF30f4s9yi4h2C4V6NHL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GhrEErCI9L-bHPCmCPXZhSTdE7E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138060/b0e05a.jpg" ch-number="3", [02:00 WIB] - Round 1 - Meijer LPGA Classic for Simply Give 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=yeOPbgbYflZFoF30f4s9yi4h2C4V6NHL|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GhrEErCI9L-bHPCmCPXZhSTdE7E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138060/b0e05a.jpg" ch-number="3", Round 1 - Meijer LPGA Classic for Simply Give 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=yeOPbgbYflZFoF30f4s9yi4h2C4V6NHL|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=yeOPbgbYflZFoF30f4s9yi4h2C4V6NHL
