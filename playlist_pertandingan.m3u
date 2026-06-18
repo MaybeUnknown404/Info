@@ -11,7 +11,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=UFrBIs5s
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/PkZdzmd1F2nLBzT8u2AraZm11EY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138236/00fab9.jpg" ch-number="3", Kantaphon Wangcharoen (THA) vs Huan Kai Hern (MAS) - Mens Singles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/FOeq6HE7KrB19N-sYeLKh3mzTK0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138237/72f90e.jpg" ch-number="3", Ishika Jaiswal (USA) vs Ashmita Chaliha (IND) - Womens Singles Round of 16 | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -57,15 +57,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lXHBNncl8Ex9-HiubyCo1wx9uyc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138295/fe6758.jpg" ch-number="11", [17:30 WIB] - Corentin Moutet vs Alejandro Davidovich Fokina - Round of 16 | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BoS7t9cBgD5sNBoHZVUM88EGvaI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138057/56d5f7.jpg" ch-number="11", [17:30 WIB] - Round of 16 - WTA 250: Lexus Nottingham Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BoS7t9cBgD5sNBoHZVUM88EGvaI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138057/56d5f7.jpg" ch-number="12", [17:30 WIB] - Round of 16 - WTA 250: Lexus Nottingham Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lXHBNncl8Ex9-HiubyCo1wx9uyc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138295/fe6758.jpg" ch-number="12", [17:30 WIB] - Corentin Moutet vs Alejandro Davidovich Fokina - Round of 16 | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -105,15 +105,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qtTp1JDv7dl9cU-uTi3-lbUgY4Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138205/f662cf.jpg" ch-number="19", [20:00 WIB] - Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Chaloempon Charoenkitamorn/Worrapol Thongsa-Nga (THA) - Mens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3gfAVAFAU3kE8G0nyk9Ywbk0ifY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138301/99f0a6.jpg" ch-number="19", [20:00 WIB] - Christian Harrison/Neal Skupski vs Luke Johnson/Jan Zielinski - Quarterfinal | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3gfAVAFAU3kE8G0nyk9Ywbk0ifY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138301/99f0a6.jpg" ch-number="20", [20:00 WIB] - Christian Harrison/Neal Skupski vs Luke Johnson/Jan Zielinski - Quarterfinal | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qtTp1JDv7dl9cU-uTi3-lbUgY4Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138205/f662cf.jpg" ch-number="20", [20:00 WIB] - Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Chaloempon Charoenkitamorn/Worrapol Thongsa-Nga (THA) - Mens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -135,15 +135,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OPs8J0y-_tXlKLlp8C7IFsujtpQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138192/67857f.jpg" ch-number="24", [21:00 WIB] - Richie Duta Richardo (INA) vs Jia Heng Jason Teh (SGP) - Mens Singles Round of 16 | SANDS CHINA LTD. Macau Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lH04YA9vF0bLvZaEiewxIuKXJFA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138245/ece549.jpg" ch-number="24", [21:00 WIB] - Yi En Hsieh/Teng Chun Hsun (TPE) vs Isyana Syahira Meida/Rinjani Kwinnara Nastine (INA) - Womens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lH04YA9vF0bLvZaEiewxIuKXJFA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138245/ece549.jpg" ch-number="25", [21:00 WIB] - Yi En Hsieh/Teng Chun Hsun (TPE) vs Isyana Syahira Meida/Rinjani Kwinnara Nastine (INA) - Womens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OPs8J0y-_tXlKLlp8C7IFsujtpQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138192/67857f.jpg" ch-number="25", [21:00 WIB] - Richie Duta Richardo (INA) vs Jia Heng Jason Teh (SGP) - Mens Singles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -165,15 +165,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uNsyhYw81pv9YfJzZVdg4NFFu7w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138288/896c0b.jpg" ch-number="29", [22:30 WIB] - Alexandra Eala vs Elena Rybakina - Womens Singles Round of 16 | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BuJunN3UNwgPqk08vx7oXi4yyEw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138293/5efcd4.jpg" ch-number="29", [22:30 WIB] - Raphael Collignon vs Mattia Bellucci - Round of 16 | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BuJunN3UNwgPqk08vx7oXi4yyEw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138293/5efcd4.jpg" ch-number="30", [22:30 WIB] - Raphael Collignon vs Mattia Bellucci - Round of 16 | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uNsyhYw81pv9YfJzZVdg4NFFu7w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138288/896c0b.jpg" ch-number="30", [22:30 WIB] - Alexandra Eala vs Elena Rybakina - Womens Singles Round of 16 | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -207,15 +207,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ck_wPwyeyPVqFmulqXxbsz8YCCc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138524/3a2839.jpg" ch-number="36", [14:45 WIB] - Women: Dominican Republic vs Serbia - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/J-w7O63ILXAY-TR2Ee_K2l1jH8g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137387/0d7ca4.jpg" ch-number="36", [14:45 WIB] - Moto2 Free Practice 1: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/J-w7O63ILXAY-TR2Ee_K2l1jH8g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137387/0d7ca4.jpg" ch-number="37", [14:45 WIB] - Moto2 Free Practice 1: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ck_wPwyeyPVqFmulqXxbsz8YCCc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138524/3a2839.jpg" ch-number="37", [14:45 WIB] - Women: Dominican Republic vs Serbia - Volleyball Nations League
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -237,15 +237,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pwr6ZtQXP6UCqSmbNB_vs-7SvtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138058/bc1b9d.jpg" ch-number="41", [17:00 WIB] - Quarter Final - WTA 250: Lexus Nottingham Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BNbZTCOOWQLP9KaPJFxawPGeQO8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138525/79712a.jpg" ch-number="41", [16:45 WIB] - Women: Ukraine vs Netherlands - Volleyball Nations League
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6_kSii5knZf6CDs8ecJ9HJU598k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21604/volleyball-nations-league-d9375a.jpg" ch-number="42", [17:00 WIB] - Women: Ukraine vs Netherlands - Volleyball Nations League
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pwr6ZtQXP6UCqSmbNB_vs-7SvtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138058/bc1b9d.jpg" ch-number="42", [17:00 WIB] - Quarter Final - WTA 250: Lexus Nottingham Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -273,116 +273,134 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/luuLWP4apKKiDRTU-VJKbF8RuZo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138527/0b0ac7.jpg" ch-number="47", [20:00 WIB] - Women: France vs China - Volleyball Nations League
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6_kSii5knZf6CDs8ecJ9HJU598k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21604/volleyball-nations-league-d9375a.jpg" ch-number="48", [20:15 WIB] - Women: Bulgaria vs Canada - Volleyball Nations League
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ausVMXE1fWvRfIeCJf_Uh1pl_Fg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137872/4967b8.jpg" ch-number="47", [23:00 WIB] - Round 2 - U.S. Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ausVMXE1fWvRfIeCJf_Uh1pl_Fg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137872/4967b8.jpg" ch-number="49", [23:00 WIB] - Round 2 - U.S. Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Fv7Tlh3AP_ru3TrJ5QlIwkfHNXk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138528/1756cf.jpg" ch-number="50", [23:30 WIB] - Women: Belgium vs Germany - Volleyball Nations League
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DJ0TBM4gYimq26ta1lOzOZ3WuWg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138061/8e2f74.jpg" ch-number="48", [02:00 WIB] - Round 2 - Meijer LPGA Classic for Simply Give 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DJ0TBM4gYimq26ta1lOzOZ3WuWg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138061/8e2f74.jpg" ch-number="51", [02:00 WIB] - Round 2 - Meijer LPGA Classic for Simply Give 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EMxUDjSJEx9PIF7G8Bw7HkcTBlg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137392/31f43c.jpg" ch-number="49", [13:35 WIB] - Moto3 Free Practice 2: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EMxUDjSJEx9PIF7G8Bw7HkcTBlg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137392/31f43c.jpg" ch-number="52", [13:35 WIB] - Moto3 Free Practice 2: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8ih9kHmlZVd2ylZ42JKAGGj4Qas=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137393/31404d.jpg" ch-number="50", [14:10 WIB] - Moto2 Free Practice 2: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8ih9kHmlZVd2ylZ42JKAGGj4Qas=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137393/31404d.jpg" ch-number="53", [14:10 WIB] - Moto2 Free Practice 2: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DkS6MLucPsOrVE4ZeamJ4h3WcTg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137394/137f98.jpg" ch-number="51", [14:50 WIB] - MotoGP Free Practice 2: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DkS6MLucPsOrVE4ZeamJ4h3WcTg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137394/137f98.jpg" ch-number="54", [14:50 WIB] - MotoGP Free Practice 2: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GTLLnLhSlYh7TqkTaR99RURXljk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137395/251307.jpg" ch-number="52", [15:45 WIB] - MotoGP Qualifying: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GTLLnLhSlYh7TqkTaR99RURXljk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137395/251307.jpg" ch-number="55", [15:45 WIB] - MotoGP Qualifying: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KPkqeZUd6WArJ9UbrN0XfmkzVog=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137873/a0d1dd.jpg" ch-number="53", [16:30 WIB] - Semi Final - WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KPkqeZUd6WArJ9UbrN0XfmkzVog=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137873/a0d1dd.jpg" ch-number="56", [16:30 WIB] - Semi Final - WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dDQPv1DyjPD1LXdNO4ZuwT-H93k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138311/ce2f67.jpg" ch-number="54", [17:00 WIB] - Semi Final - WTA 250: Lexus Nottingham Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dDQPv1DyjPD1LXdNO4ZuwT-H93k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138311/ce2f67.jpg" ch-number="57", [17:00 WIB] - Semi Final - WTA 250: Lexus Nottingham Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8ovK1g2ZvygekbHO0j64ubE7jGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137396/f3fab5.jpg" ch-number="55", [17:40 WIB] - Moto3 Qualifying: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8ovK1g2ZvygekbHO0j64ubE7jGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137396/f3fab5.jpg" ch-number="58", [17:40 WIB] - Moto3 Qualifying: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1v63p4ZdhOjG1kxID1V_tOvOw70=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137397/1e805c.jpg" ch-number="56", [18:40 WIB] - Moto2 Qualifying: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1v63p4ZdhOjG1kxID1V_tOvOw70=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137397/1e805c.jpg" ch-number="59", [18:40 WIB] - Moto2 Qualifying: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HsOW9xuTEAp41e7ICLdtqfbh7cM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137398/e69212.jpg" ch-number="57", [19:30 WIB] - MotoGP Tissot SPRINT: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HsOW9xuTEAp41e7ICLdtqfbh7cM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137398/e69212.jpg" ch-number="60", [19:30 WIB] - MotoGP Tissot SPRINT: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/M2MpozYIwvThwdFGdk7JQ2QLGdo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137874/31fca6.jpg" ch-number="58", [23:00 WIB] - Round 3 - U.S. Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/M2MpozYIwvThwdFGdk7JQ2QLGdo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137874/31fca6.jpg" ch-number="61", [23:00 WIB] - Round 3 - U.S. Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/O-pb6mZv11xi3LsdVg6F_Sn6GoU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138312/573fd1.jpg" ch-number="59", [02:00 WIB] - Round 3 - Meijer LPGA Classic for Simply Give 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/O-pb6mZv11xi3LsdVg6F_Sn6GoU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138312/573fd1.jpg" ch-number="62", [02:00 WIB] - Round 3 - Meijer LPGA Classic for Simply Give 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iC51Q7D-qx92ktQFlaPgYAo-OaE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137399/50e46f.jpg" ch-number="60", [14:35 WIB] - MotoGP Warm Up & Riders Parade: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iC51Q7D-qx92ktQFlaPgYAo-OaE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137399/50e46f.jpg" ch-number="63", [14:35 WIB] - MotoGP Warm Up & Riders Parade: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Fuo7fvdbwEHYL2B58MJ6Hc2gnVc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137400/86e054.jpg" ch-number="61", [15:45 WIB] - Moto3 Race: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Fuo7fvdbwEHYL2B58MJ6Hc2gnVc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137400/86e054.jpg" ch-number="64", [15:45 WIB] - Moto3 Race: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tlsX7K7dxqQcWgDE7ViULBOxJNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137401/9eaf89.jpg" ch-number="62", [17:00 WIB] - Moto2 Race: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tlsX7K7dxqQcWgDE7ViULBOxJNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137401/9eaf89.jpg" ch-number="65", [17:00 WIB] - Moto2 Race: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nEihI0BrzAKZmkx87wSagSkz53A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137402/c05fb3.jpg" ch-number="63", [18:15 WIB] - MotoGP Race: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nEihI0BrzAKZmkx87wSagSkz53A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137402/c05fb3.jpg" ch-number="66", [18:15 WIB] - MotoGP Race: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ovGXRMRrw1ixQ0xpPfI4V8oVxlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137875/f5aed0.jpg" ch-number="64", [23:00 WIB] - Round 4 - U.S. Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ovGXRMRrw1ixQ0xpPfI4V8oVxlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137875/f5aed0.jpg" ch-number="67", [23:00 WIB] - Round 4 - U.S. Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21654&type=drm&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xpALNcrXYNQx2yOkFdaxP5NxC5U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21654/garuda-fight-championship-series-2-clan-kk-vs-everyone-9579fc.jpg" ch-number="65", [19:00 WIB] - Garuda Fight Championship Series 2 Clan KK vs Everyone
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xpALNcrXYNQx2yOkFdaxP5NxC5U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21654/garuda-fight-championship-series-2-clan-kk-vs-everyone-9579fc.jpg" ch-number="68", [19:00 WIB] - Garuda Fight Championship Series 2 Clan KK vs Everyone
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21654&type=dash&token=UFrBIs5sUWYbuFODslUvXu4qd6a56ewH|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
