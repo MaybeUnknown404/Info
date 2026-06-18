@@ -11,7 +11,7 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=xqGf4cFL
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qtTp1JDv7dl9cU-uTi3-lbUgY4Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138205/f662cf.jpg" ch-number="3", Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Chaloempon Charoenkitamorn/Worrapol Thongsa-Nga (THA) - Mens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9xV9TNmJCxnSSJrl0IH3hF6NTCk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138206/eaea50.jpg" ch-number="3", Cheam June Wei (MAS) vs Eogene Ewe (MAS) - Mens Singles Round of 16 | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -79,15 +79,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9ihi8Pu8B8I2kwGwIFGT-yQFjB4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138288/5272fb.jpg" ch-number="16", [22:30 WIB] - Alexandra Eala vs Elena Rybakina - Womens Singles Round of 16 | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BuJunN3UNwgPqk08vx7oXi4yyEw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138293/5efcd4.jpg" ch-number="16", [22:30 WIB] - Raphael Collignon vs Mattia Bellucci - Round of 16 | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BuJunN3UNwgPqk08vx7oXi4yyEw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138293/5efcd4.jpg" ch-number="17", [22:30 WIB] - Raphael Collignon vs Mattia Bellucci - Round of 16 | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9ihi8Pu8B8I2kwGwIFGT-yQFjB4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138288/5272fb.jpg" ch-number="17", [22:30 WIB] - Alexandra Eala vs Elena Rybakina - Womens Singles Round of 16 | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
