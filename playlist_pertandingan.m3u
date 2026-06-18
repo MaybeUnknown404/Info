@@ -1,18 +1,18 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/W5MUb4lfMvpqGHy8jZb53cf8qTY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138202/70ee3e.jpg" ch-number="1", Jin Yong/Lee Jongmin (KOR) vs Leo Rolly Carnando/Daniel Marthin (INA) - Mens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OtC2lc1wSH6h4Ry4AV91x6UDitc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134865/d648bb.jpg" ch-number="1", Day 4 - WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OtC2lc1wSH6h4Ry4AV91x6UDitc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134865/d648bb.jpg" ch-number="2", Day 4 - WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/U3UxsTc6gqab3qN2-jGF1bNel20=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138188/743a2d.jpg" ch-number="2", Hsieh Mi Yen/Yu Chien Hui (TPE) vs Kim Hye Jeong/Moon In Seo (KOR) - Womens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/U3UxsTc6gqab3qN2-jGF1bNel20=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138188/743a2d.jpg" ch-number="3", Hsieh Mi Yen/Yu Chien Hui (TPE) vs Kim Hye Jeong/Moon In Seo (KOR) - Womens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
 https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/W5MUb4lfMvpqGHy8jZb53cf8qTY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138202/70ee3e.jpg" ch-number="3", Jin Yong/Lee Jongmin (KOR) vs Leo Rolly Carnando/Daniel Marthin (INA) - Mens Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=18250&type=dash&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18252&type=drm&token=AW9GEOJhuygifAM6n2YSaJb6i3cEacmy
