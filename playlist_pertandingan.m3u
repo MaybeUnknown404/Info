@@ -40,15 +40,15 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=xqGf4cFL
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PyO017L2RlYigSs91W7pVZJ6XUw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138306/00b876.jpg" ch-number="9", [22:00 WIB] - Robert Cash/JJ Tracy vs Theo Arribage/Albano Olivetti - Quarterfinals | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pdatsKA2lEJ7QequZsnvIDvq_F8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138302/f12d63.jpg" ch-number="9", [22:00 WIB] - Robin Haase/Constantin Frantzen vs Lloyd Glasspool/Julian Cash - Quarterfinal | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pdatsKA2lEJ7QequZsnvIDvq_F8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138302/f12d63.jpg" ch-number="10", [22:00 WIB] - Robin Haase/Constantin Frantzen vs Lloyd Glasspool/Julian Cash - Quarterfinal | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=drm&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PyO017L2RlYigSs91W7pVZJ6XUw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138306/00b876.jpg" ch-number="10", [22:00 WIB] - Robert Cash/JJ Tracy vs Theo Arribage/Albano Olivetti - Quarterfinals | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20886&type=dash&token=xqGf4cFLxrIFY8eJhpHHxm9l02xHqiWC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
