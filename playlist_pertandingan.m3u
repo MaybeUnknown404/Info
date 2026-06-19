@@ -1,13 +1,13 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=drm&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Ck_wPwyeyPVqFmulqXxbsz8YCCc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138524/3a2839.jpg" ch-number="1", Women: Dominican Republic vs Serbia - Volleyball Nations League
-https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=dash&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/J-w7O63ILXAY-TR2Ee_K2l1jH8g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137387/0d7ca4.jpg" ch-number="1", Moto2 Free Practice 1: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/J-w7O63ILXAY-TR2Ee_K2l1jH8g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137387/0d7ca4.jpg" ch-number="2", Moto2 Free Practice 1: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
-https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=drm&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Ck_wPwyeyPVqFmulqXxbsz8YCCc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138524/3a2839.jpg" ch-number="2", Women: Dominican Republic vs Serbia - Volleyball Nations League
+https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=dash&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21681&type=drm&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx
@@ -46,15 +46,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pwr6ZtQXP6UCqSmbNB_vs-7SvtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138058/bc1b9d.jpg" ch-number="9", [17:00 WIB] - Quarter Final - WTA 250: Lexus Nottingham Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AKEuDGrGTiHLp-j84aTaHzue6hs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139463/360d4e.jpg" ch-number="9", [17:00 WIB] - Ng Ka Long Angus (HKG) vs Muhamad Yusuf (INA) - Mens Singles Quarterfinals | SANDS CHINA LTD. Macau Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=drm&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AKEuDGrGTiHLp-j84aTaHzue6hs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139463/360d4e.jpg" ch-number="10", [17:00 WIB] - Ng Ka Long Angus (HKG) vs Muhamad Yusuf (INA) - Mens Singles Quarterfinals | SANDS CHINA LTD. Macau Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18249&type=dash&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=drm&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pwr6ZtQXP6UCqSmbNB_vs-7SvtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138058/bc1b9d.jpg" ch-number="10", [17:00 WIB] - Quarter Final - WTA 250: Lexus Nottingham Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6686&type=dash&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -190,15 +190,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qsxkFTj061xam0E2wIFMspWoQMk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139491/08e24d.jpg" ch-number="33", [23:00 WIB] - TBD vs Rinky Hijikata - Quarterfinals | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ausVMXE1fWvRfIeCJf_Uh1pl_Fg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137872/4967b8.jpg" ch-number="33", [23:00 WIB] - Round 2 - U.S. Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ausVMXE1fWvRfIeCJf_Uh1pl_Fg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137872/4967b8.jpg" ch-number="34", [23:00 WIB] - Round 2 - U.S. Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qsxkFTj061xam0E2wIFMspWoQMk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139491/08e24d.jpg" ch-number="34", [23:00 WIB] - TBD vs Rinky Hijikata - Quarterfinals | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=j9zsP46fMCpZbFPwU4neyzKGDNKBtNCx|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
