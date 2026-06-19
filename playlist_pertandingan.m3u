@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21681&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wFAoteMdvtRSKNb3cYd4USgNcm0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137951/cb7e88.jpg" ch-number="1", Pordianto vs Farid - Indostriking Featherweight Tournament
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/7BZimBmcdZIs0SWtNMVvrDH-_is=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137952/9d4313.jpg" ch-number="1", Louiz Joseph vs Markus Rejau - Super Lightweight WBA Asia Tournament
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21681&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -45,14 +45,14 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=16890&type=dash&token=Pq4stIkz
 https://ndelok.arivpanel.workers.dev/index.mpd?id=21603&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KazV02Uc4c2u8ltWczmo-CtLOfs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137390/dfbc5f.jpg" ch-number="10", Moto2 Practice: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
-https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wmzjLXTe3o2xC6249jdpSvT0Bgo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139496/f4813e.jpg" ch-number="10", Harri Heliovaara/Henry Patten vs David Stevenson/Marcus Willis - Quarterfinals (Court 1) | ATP 500: HSBC Championships 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wmzjLXTe3o2xC6249jdpSvT0Bgo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139496/f4813e.jpg" ch-number="11", Harri Heliovaara/Henry Patten vs David Stevenson/Marcus Willis - Quarterfinals (Court 1) | ATP 500: HSBC Championships 2026
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KazV02Uc4c2u8ltWczmo-CtLOfs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137390/dfbc5f.jpg" ch-number="11", Moto2 Practice: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
@@ -60,44 +60,44 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=Pq4stIkz
 https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1do3PgNRKeQVcDhQ15yugRVhEcU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139483/fa17dc.jpg" ch-number="13", [19:30 WIB] - Alexander Zverev vs Raphael Collignon - Quarterfinals | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/luuLWP4apKKiDRTU-VJKbF8RuZo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138527/0b0ac7.jpg" ch-number="14", [19:45 WIB] - Women: France vs China - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/luuLWP4apKKiDRTU-VJKbF8RuZo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138527/0b0ac7.jpg" ch-number="13", [19:45 WIB] - Women: France vs China - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21616&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Jq1JUJ5H2MN6-SZWYeFdOwBY_jQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137391/4b6e63.jpg" ch-number="15", [19:50 WIB] - MotoGP Practice: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Jq1JUJ5H2MN6-SZWYeFdOwBY_jQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137391/4b6e63.jpg" ch-number="14", [19:50 WIB] - MotoGP Practice: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uta1p5xKraCdwJGJbC9hmVIdn0M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139489/49641b.jpg" ch-number="16", [20:00 WIB] - Arthur Fery vs Francisco Cerundolo - Quarterfinals | ATP 500: HSBC Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1do3PgNRKeQVcDhQ15yugRVhEcU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139483/fa17dc.jpg" ch-number="15", [20:00 WIB] - Alexander Zverev vs Raphael Collignon - Quarterfinals | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OORGLYiJEUKYJ8cSuHgzWx5qQ1U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138526/e4a606.jpg" ch-number="17", [20:15 WIB] - Women: Bulgaria vs Canada - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OORGLYiJEUKYJ8cSuHgzWx5qQ1U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138526/e4a606.jpg" ch-number="16", [20:15 WIB] - Women: Bulgaria vs Canada - Volleyball Nations League
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=21604&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZFkCjTW6U9Sg-lWJNfwCVIwKI-Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139492/222940.jpg" ch-number="18", [20:30 WIB] - Aryna Sabalenka vs Nikola Bartunkova - Womens Singles Quarterfinal | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZFkCjTW6U9Sg-lWJNfwCVIwKI-Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139492/222940.jpg" ch-number="17", [20:30 WIB] - Aryna Sabalenka vs Nikola Bartunkova - Womens Singles Quarterfinal | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uta1p5xKraCdwJGJbC9hmVIdn0M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139489/49641b.jpg" ch-number="18", [20:30 WIB] - Arthur Fery vs Francisco Cerundolo - Quarterfinals | ATP 500: HSBC Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SCAzQ4ib5DBXfEy0M--vvOSuNKY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139484/18361a.jpg" ch-number="19", [20:30 WIB] - Daniel Altmaier vs Daniil Medvedev - Quarterfinals | ATP 500: Terra Wortmann Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SCAzQ4ib5DBXfEy0M--vvOSuNKY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139484/18361a.jpg" ch-number="19", [21:00 WIB] - Daniel Altmaier vs Daniil Medvedev - Quarterfinals | ATP 500: Terra Wortmann Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -114,27 +114,27 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/j3IsrnNEGUajVbkAjiklaLcMGPg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139485/930dd9.jpg" ch-number="22", [22:30 WIB] - Frances Tiafoe vs Felix Auger-Aliassime - Quarterfinals | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MMCRqtmr414uTblVmynPgTyNKZw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139493/251336.jpg" ch-number="23", [22:30 WIB] - Elina Svitolina vs Alexandra Eala - Womens Singles Quarterfinal | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MMCRqtmr414uTblVmynPgTyNKZw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139493/251336.jpg" ch-number="22", [22:30 WIB] - Elina Svitolina vs Alexandra Eala - Womens Singles Quarterfinal | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qsxkFTj061xam0E2wIFMspWoQMk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139491/08e24d.jpg" ch-number="24", [23:00 WIB] - TBD vs Rinky Hijikata - Quarterfinals | ATP 500: HSBC Championships 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qsxkFTj061xam0E2wIFMspWoQMk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139491/08e24d.jpg" ch-number="23", [23:00 WIB] - TBD vs Rinky Hijikata - Quarterfinals | ATP 500: HSBC Championships 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=20887&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ausVMXE1fWvRfIeCJf_Uh1pl_Fg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137872/4967b8.jpg" ch-number="25", [23:00 WIB] - Round 2 - U.S. Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ausVMXE1fWvRfIeCJf_Uh1pl_Fg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137872/4967b8.jpg" ch-number="24", [23:00 WIB] - Round 2 - U.S. Open 2026
 #https://ndelok.arivpanel.workers.dev/index.mpd?id=17139&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/j3IsrnNEGUajVbkAjiklaLcMGPg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139485/930dd9.jpg" ch-number="25", [23:00 WIB] - Frances Tiafoe vs Felix Auger-Aliassime - Quarterfinals | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=Pq4stIkzY8W7KsXBtASfJRdJjZO7W6Yd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
