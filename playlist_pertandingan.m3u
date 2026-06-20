@@ -16,15 +16,13 @@ https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=d93HtYK8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=drm&token=d93HtYK86N6LpXuRdQnQnH1szm9ELRvN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BxMpOXb3sW8mqokhJmuDs_8aWPc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5141806/8d8ca1.jpg" ch-number="4", [02:00 WIB] - Race 1: Canada Sail Grand Prix - SailGP 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=d93HtYK86N6LpXuRdQnQnH1szm9ELRvN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/BxMpOXb3sW8mqokhJmuDs_8aWPc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5141806/8d8ca1.jpg" ch-number="4", Race 1: Canada Sail Grand Prix - SailGP 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=6685&type=dash&token=d93HtYK86N6LpXuRdQnQnH1szm9ELRvN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=drm&token=d93HtYK86N6LpXuRdQnQnH1szm9ELRvN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/O-pb6mZv11xi3LsdVg6F_Sn6GoU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138312/573fd1.jpg" ch-number="5", [02:00 WIB] - Round 3 - Meijer LPGA Classic for Simply Give 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=d93HtYK86N6LpXuRdQnQnH1szm9ELRvN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/O-pb6mZv11xi3LsdVg6F_Sn6GoU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138312/573fd1.jpg" ch-number="5", Round 3 - Meijer LPGA Classic for Simply Give 2026
+https://ndelok.arivpanel.workers.dev/index.mpd?id=18190&type=dash&token=d93HtYK86N6LpXuRdQnQnH1szm9ELRvN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=d93HtYK86N6LpXuRdQnQnH1szm9ELRvN
