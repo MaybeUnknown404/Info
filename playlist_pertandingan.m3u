@@ -1,8 +1,9 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lugky9zIBnmW327jdZtQhFrcbQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139434/6b8c06.jpg" ch-number="1", Vinicius Oliveira vs Andre Fili - Featherweight | UFC Fight Night
-https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lugky9zIBnmW327jdZtQhFrcbQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139434/6b8c06.jpg" ch-number="1", [07:15 WIB] - Vinicius Oliveira vs Andre Fili - Featherweight | UFC Fight Night
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
@@ -101,15 +102,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tlsX7K7dxqQcWgDE7ViULBOxJNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137401/9eaf89.jpg" ch-number="18", [17:00 WIB] - Moto2 Race: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pN2ffo-6laJJn7Cz-uoUAnghYO0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139412/1c4479.jpg" ch-number="18", [17:00 WIB] - Jessica Pegula vs Linda Noskova - Womens Singles Final | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pN2ffo-6laJJn7Cz-uoUAnghYO0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139412/1c4479.jpg" ch-number="19", [17:00 WIB] - Jessica Pegula vs Linda Noskova - Womens Singles Final | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tlsX7K7dxqQcWgDE7ViULBOxJNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137401/9eaf89.jpg" ch-number="19", [17:00 WIB] - Moto2 Race: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=17140&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -167,15 +168,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b7_89WpCYOgVnIJdMLZo5vc5czM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145799/459ea3.jpg" ch-number="29", [20:30 WIB] - Taylor Fritz vs Frances Tiafoe - Final | ATP 500: Terra Wortmann Open 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NXNoglH5Ot-wtIyDg1b0L4OWjuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145810/886871.jpg" ch-number="29", [20:30 WIB] - Mariano Navone vs Lorenzo Sonego - Round 1 | ATP 250: Vanda Pharmaceuticals Mallorca Championships 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NXNoglH5Ot-wtIyDg1b0L4OWjuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145810/886871.jpg" ch-number="30", [20:30 WIB] - Mariano Navone vs Lorenzo Sonego - Round 1 | ATP 250: Vanda Pharmaceuticals Mallorca Championships 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20885&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b7_89WpCYOgVnIJdMLZo5vc5czM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145799/459ea3.jpg" ch-number="30", [20:30 WIB] - Taylor Fritz vs Frances Tiafoe - Final | ATP 500: Terra Wortmann Open 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=20884&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -215,15 +216,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21714&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5tLzyO2EJNyprZSQUl4i-AabGSs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144403/1802ab.jpg" ch-number="37", [16:00 WIB] - Oman vs Thailand - AVC Mens Cup 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=21714&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EL-0BptzrHEVzt0rwMIBEyipBbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145759/b5d7af.jpg" ch-number="37", [16:00 WIB] - Day 2 - WTA 500: Bad Homburg Open powered by Solarwatt 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EL-0BptzrHEVzt0rwMIBEyipBbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145759/b5d7af.jpg" ch-number="38", [16:00 WIB] - Day 2 - WTA 500: Bad Homburg Open powered by Solarwatt 2026
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=6786&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=21714&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5tLzyO2EJNyprZSQUl4i-AabGSs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144403/1802ab.jpg" ch-number="38", [16:00 WIB] - Oman vs Thailand - AVC Mens Cup 2026
+#https://ndelok.arivpanel.workers.dev/index.mpd?id=21714&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
