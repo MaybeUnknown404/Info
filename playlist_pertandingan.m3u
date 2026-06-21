@@ -1,9 +1,8 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lugky9zIBnmW327jdZtQhFrcbQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139434/6b8c06.jpg" ch-number="1", [07:15 WIB] - Vinicius Oliveira vs Andre Fili - Featherweight | UFC Fight Night
-#https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lugky9zIBnmW327jdZtQhFrcbQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139434/6b8c06.jpg" ch-number="1", Vinicius Oliveira vs Andre Fili - Featherweight | UFC Fight Night
+https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=dash&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ndelok.arivpanel.workers.dev/index.mpd?id=20216&type=drm&token=OWdpQsTc6A2TzISs0ROrTKwRcQgulgPD
