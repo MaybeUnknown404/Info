@@ -26,9 +26,8 @@ https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21714&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20887&type=drm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6noCZ9N2Lw0C67TmYcsSEIHWfKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145806/90aa17.jpg" ch-number="6", [19:30 WIB] - Francisco Cerundolo vs Tommy Paul - Final | ATP 500: HSBC Championships 2026
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20887&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6noCZ9N2Lw0C67TmYcsSEIHWfKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145806/90aa17.jpg" ch-number="6", Francisco Cerundolo vs Tommy Paul - Final | ATP 500: HSBC Championships 2026
+https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20887&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21616&type=drm
