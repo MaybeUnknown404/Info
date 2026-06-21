@@ -16,9 +16,8 @@ https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=c8de55e8ed193234c06d
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=17140&type=drm&token=6693e7ce91e3fc17624b9003442de458267f3a0a0aeb5dc227cafe44e00b105d
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iC51Q7D-qx92ktQFlaPgYAo-OaE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137399/50e46f.jpg" ch-number="4", [14:35 WIB] - MotoGP Warm Up & Riders Parade: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
-#https://pedo.ajtv.web.id/index.mpd?id=17140&type=dash&token=0d79730bcd68450e820638b5cb0c6bc6c8ea9a33732ae91b66915db734344dc5|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iC51Q7D-qx92ktQFlaPgYAo-OaE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137399/50e46f.jpg" ch-number="4", MotoGP Warm Up & Riders Parade: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+https://pedo.ajtv.web.id/index.mpd?id=17140&type=dash&token=0d79730bcd68450e820638b5cb0c6bc6c8ea9a33732ae91b66915db734344dc5|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21603&type=drm&token=137a94d7bb782038ead87968d30245f8afa2c050aa452a5110df1715c95e5ce4
