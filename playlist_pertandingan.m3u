@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=18249&type=drm&token=3abd9023e17b4057f4639bd97c02aab28974badce49372cada711b2d1e15572f
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KIw3BQXucxfXV4JEbNPgujf0hso=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145774/5bab36.jpg" ch-number="1", Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Jin Yong/Lee Jongmin (KOR) - Mens Doubles Final | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KQpO8k5Uj1E1Q3bEq3_AHKGssgE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2026-finals-152b26.jpg" ch-number="1", SANDS CHINA LTD Macau Open 2026 - Finals
 https://pedo.ajtv.web.id/index.mpd?id=18249&type=dash&token=8a781ae0fda9429683655a1d42a6dbe7062b4f0ed2833abffb2e1ca0274fab28|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -33,15 +33,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5n9DLfK6BZtStxDrrAgiUk88jk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5141813/e53984.jpg" ch-number="7", [16:00 WIB] - Qatar vs Thailand - AVC Mens Cup 2026
-#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6685&type=drm&token=67d4b7242a5b302aadc56898ceae0626f774274086f20abd52a89159346aae29
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/47yRoBv0yoCpuvNdYylRJeBv0H8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145058/e9ae72.jpg" ch-number="7", [16:00 WIB] - Day 1 - WTA 500: Bad Homburg Open powered by Solarwatt 2026
+#https://pedo.ajtv.web.id/index.mpd?id=6685&type=dash&token=81e219d4e1928ca7cee8f74e572df6acfef5b4ddd1e32b950cdfd410be00fa40|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6685&type=drm&token=67d4b7242a5b302aadc56898ceae0626f774274086f20abd52a89159346aae29
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/47yRoBv0yoCpuvNdYylRJeBv0H8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145058/e9ae72.jpg" ch-number="8", [16:00 WIB] - Day 1 - WTA 500: Bad Homburg Open powered by Solarwatt 2026
-#https://pedo.ajtv.web.id/index.mpd?id=6685&type=dash&token=81e219d4e1928ca7cee8f74e572df6acfef5b4ddd1e32b950cdfd410be00fa40|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5n9DLfK6BZtStxDrrAgiUk88jk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5141813/e53984.jpg" ch-number="8", [16:00 WIB] - Qatar vs Thailand - AVC Mens Cup 2026
+#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -57,15 +57,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=17140&type=drm&token=968ce07d5f276cf9cef11542ebcdf9310ab98551fca1fdfbd5a9cd73f4f26348
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tlsX7K7dxqQcWgDE7ViULBOxJNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137401/9eaf89.jpg" ch-number="11", [17:00 WIB] - Moto2 Race: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
-#https://pedo.ajtv.web.id/index.mpd?id=17140&type=dash&token=4e6ec06068694d4a3bd5db937584b479fdeaa831ddf4002ae3f7e6e9e612a722|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6786&type=drm&token=a5f9f3e0fe89016a36ec00b2aa9fcdca8c53c67adb32c5d682075ef243fb5687
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/w6BOioVKOJb3GTbkWg5F61q4Sis=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139412/7e7664.jpg" ch-number="11", [17:00 WIB] - Jessica Pegula vs Linda Noskova - Womens Singles Final | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#https://pedo.ajtv.web.id/index.mpd?id=6786&type=dash&token=ac3e48429dff05d1da2d873d005c9c626c59c0ffc59748af21e32c3b68a87d4b|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6786&type=drm&token=a5f9f3e0fe89016a36ec00b2aa9fcdca8c53c67adb32c5d682075ef243fb5687
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/w6BOioVKOJb3GTbkWg5F61q4Sis=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139412/7e7664.jpg" ch-number="12", [17:00 WIB] - Jessica Pegula vs Linda Noskova - Womens Singles Final | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
-#https://pedo.ajtv.web.id/index.mpd?id=6786&type=dash&token=ac3e48429dff05d1da2d873d005c9c626c59c0ffc59748af21e32c3b68a87d4b|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=17140&type=drm&token=968ce07d5f276cf9cef11542ebcdf9310ab98551fca1fdfbd5a9cd73f4f26348
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tlsX7K7dxqQcWgDE7ViULBOxJNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137401/9eaf89.jpg" ch-number="12", [17:00 WIB] - Moto2 Race: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#https://pedo.ajtv.web.id/index.mpd?id=17140&type=dash&token=4e6ec06068694d4a3bd5db937584b479fdeaa831ddf4002ae3f7e6e9e612a722|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -75,15 +75,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6686&type=drm&token=e9c21f8a808b90e25a7262e010b56163e08e1ccfa1441236f7699d21d526d610
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EQuvS6x9F-zEIOAY1frapwACA9g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139551/ab90dc.jpg" ch-number="14", [18:00 WIB] - Final - WTA 250: Lexus Nottingham Open 2026
-#https://pedo.ajtv.web.id/index.mpd?id=6686&type=dash&token=c83d198061ed7d541eff5934233412ca2dccfe0bc74ce4600a1567a0fb9b9ce8|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20886&type=drm&token=235f85f33ff787c3721452b3ef5415037b4bf9bca44ee0052b0890579e44c140
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lL1E22ZwIhgE5EJUkPZDrze8wac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145804/629df4.jpg" ch-number="14", [18:00 WIB] - Theo Arribage/Albano Olivetti vs Daniel Altmaier/Joao Fonseca - Final (Heristo Arena) | ATP 500: Terra Wortmann Open 2026
+#https://pedo.ajtv.web.id/index.mpd?id=20886&type=dash&token=264570862f153814f517de37c9fd6380d96e40645deed344d75cbfd49faa0f67|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20886&type=drm&token=235f85f33ff787c3721452b3ef5415037b4bf9bca44ee0052b0890579e44c140
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lL1E22ZwIhgE5EJUkPZDrze8wac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145804/629df4.jpg" ch-number="15", [18:00 WIB] - Theo Arribage/Albano Olivetti vs Daniel Altmaier/Joao Fonseca - Final (Heristo Arena) | ATP 500: Terra Wortmann Open 2026
-#https://pedo.ajtv.web.id/index.mpd?id=20886&type=dash&token=264570862f153814f517de37c9fd6380d96e40645deed344d75cbfd49faa0f67|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6686&type=drm&token=e9c21f8a808b90e25a7262e010b56163e08e1ccfa1441236f7699d21d526d610
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EQuvS6x9F-zEIOAY1frapwACA9g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139551/ab90dc.jpg" ch-number="15", [18:00 WIB] - Final - WTA 250: Lexus Nottingham Open 2026
+#https://pedo.ajtv.web.id/index.mpd?id=6686&type=dash&token=c83d198061ed7d541eff5934233412ca2dccfe0bc74ce4600a1567a0fb9b9ce8|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -123,15 +123,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20885&type=drm&token=de2da151713001ff4350fc69eab61f1bf86d4884b76916e3c7e6765ed9983dc6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NXNoglH5Ot-wtIyDg1b0L4OWjuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145810/886871.jpg" ch-number="22", [20:30 WIB] - Mariano Navone vs Lorenzo Sonego - Round 1 | ATP 250: Vanda Pharmaceuticals Mallorca Championships 2026
-#https://pedo.ajtv.web.id/index.mpd?id=20885&type=dash&token=ee7f9072425c859881c3ccbd436fe1d9b856c9dafc59b43168a2b2dcbc9b9e46|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20884&type=drm&token=0316e5ddf614fe253fabfc78099228d5eb9c156f8fda9c24a97b65b89a67227e
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k_xCJ4UGO5ELG54fhiAbst1FW5I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145799/17acdc.jpg" ch-number="22", [20:30 WIB] - Taylor Fritz vs Frances Tiafoe - Final | ATP 500: Terra Wortmann Open 2026
+#https://pedo.ajtv.web.id/index.mpd?id=20884&type=dash&token=e7a92461ca8e22551610e2592967506eca377e089eb35d61411152121136e6d8|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20884&type=drm&token=0316e5ddf614fe253fabfc78099228d5eb9c156f8fda9c24a97b65b89a67227e
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k_xCJ4UGO5ELG54fhiAbst1FW5I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145799/17acdc.jpg" ch-number="23", [20:30 WIB] - Taylor Fritz vs Frances Tiafoe - Final | ATP 500: Terra Wortmann Open 2026
-#https://pedo.ajtv.web.id/index.mpd?id=20884&type=dash&token=e7a92461ca8e22551610e2592967506eca377e089eb35d61411152121136e6d8|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20885&type=drm&token=de2da151713001ff4350fc69eab61f1bf86d4884b76916e3c7e6765ed9983dc6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NXNoglH5Ot-wtIyDg1b0L4OWjuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145810/886871.jpg" ch-number="23", [20:30 WIB] - Mariano Navone vs Lorenzo Sonego - Round 1 | ATP 250: Vanda Pharmaceuticals Mallorca Championships 2026
+#https://pedo.ajtv.web.id/index.mpd?id=20885&type=dash&token=ee7f9072425c859881c3ccbd436fe1d9b856c9dafc59b43168a2b2dcbc9b9e46|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -183,15 +183,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5tLzyO2EJNyprZSQUl4i-AabGSs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144403/1802ab.jpg" ch-number="32", [16:00 WIB] - Oman vs Thailand - AVC Mens Cup 2026
-#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6786&type=drm&token=a5f9f3e0fe89016a36ec00b2aa9fcdca8c53c67adb32c5d682075ef243fb5687
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EL-0BptzrHEVzt0rwMIBEyipBbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145759/b5d7af.jpg" ch-number="32", [16:00 WIB] - Day 2 - WTA 500: Bad Homburg Open powered by Solarwatt 2026
+#https://pedo.ajtv.web.id/index.mpd?id=6786&type=dash&token=ac3e48429dff05d1da2d873d005c9c626c59c0ffc59748af21e32c3b68a87d4b|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6786&type=drm&token=a5f9f3e0fe89016a36ec00b2aa9fcdca8c53c67adb32c5d682075ef243fb5687
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EL-0BptzrHEVzt0rwMIBEyipBbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145759/b5d7af.jpg" ch-number="33", [16:00 WIB] - Day 2 - WTA 500: Bad Homburg Open powered by Solarwatt 2026
-#https://pedo.ajtv.web.id/index.mpd?id=6786&type=dash&token=ac3e48429dff05d1da2d873d005c9c626c59c0ffc59748af21e32c3b68a87d4b|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5tLzyO2EJNyprZSQUl4i-AabGSs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144403/1802ab.jpg" ch-number="33", [16:00 WIB] - Oman vs Thailand - AVC Mens Cup 2026
+#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
