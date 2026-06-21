@@ -1,238 +1,238 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=18249&type=drm&token=4a717126428c6f770958fd78ecf2db9a8868943f1454396262a925cf5938e250
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=18249&type=drm&token=3abd9023e17b4057f4639bd97c02aab28974badce49372cada711b2d1e15572f
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KIw3BQXucxfXV4JEbNPgujf0hso=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145774/5bab36.jpg" ch-number="1", Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Jin Yong/Lee Jongmin (KOR) - Mens Doubles Final | SANDS CHINA LTD. Macau Open 2026
-https://pedo.ajtv.web.id/index.mpd?id=18249&type=dash&token=d53c2f9033018890c02b69a6c39e61916f2a6d283929a8104a15ae91c785af15|User-Agent=VidioPlayer/6.31.6
+https://pedo.ajtv.web.id/index.mpd?id=18249&type=dash&token=8a781ae0fda9429683655a1d42a6dbe7062b4f0ed2833abffb2e1ca0274fab28|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21604&type=drm&token=a566eddefd3213b18fe0968ee11e278c6bea271f6dccc6158c94acf62694be05
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21604&type=drm&token=996d1b974136ad394d4be5b0d10e8f1023efa2f0755c8984f00a7e226584af6b
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nfzdo1Avz2sEgV7PaIFLXjI4yg4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139555/68485f.jpg" ch-number="2", Women: Bulgaria vs Ukraine - Volleyball Nations League
-https://pedo.ajtv.web.id/index.mpd?id=21604&type=dash&token=c7b2cccf02f2f1bad750ecebecaa0a8803f0232a458b35557a65a1cd908c0101|User-Agent=VidioPlayer/6.31.6
+https://pedo.ajtv.web.id/index.mpd?id=21604&type=dash&token=8fad373cf9206aa402e5140022e13ac54abba067f9a0b710deebd62e4a5b2487|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=68a14f6f9edadb1104c427d2cf77272b8c1dd1e951a54807f8860dfc7535468b
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qAI1jKMUwRC2whLtW3lGvqMrzqY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5141812/94a494.jpg" ch-number="3", New Zealand vs Bahrain - AVC Mens Cup 2026
-https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=cf847a47fe31011854b911ae13327bf9ca1ec8112dde64d6e0888a071e976219|User-Agent=VidioPlayer/6.31.6
+https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=17140&type=drm&token=f7409f4e9d726499df557967efcda379c1a0a1f1c3942a904b1583138e8931b1
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=17140&type=drm&token=968ce07d5f276cf9cef11542ebcdf9310ab98551fca1fdfbd5a9cd73f4f26348
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iC51Q7D-qx92ktQFlaPgYAo-OaE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137399/50e46f.jpg" ch-number="4", [14:35 WIB] - MotoGP Warm Up & Riders Parade: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
-#https://pedo.ajtv.web.id/index.mpd?id=17140&type=dash&token=7dfeb9ea33fff3cbb7df95a03b0a67106a56f59774915cb292def6c9e9e7dea0|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=17140&type=dash&token=4e6ec06068694d4a3bd5db937584b479fdeaa831ddf4002ae3f7e6e9e612a722|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21603&type=drm&token=90837f5e8619bd7e470404c03d731fcc70cc654757d082f63c69a6d49bbc6be1
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21603&type=drm&token=9750e2fbdf88553a50124e61ee2477e60dcf7c332d6b477a3dc759b1f454bd37
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ujNgRZTfgEj94epkUDua_sRj2tM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139553/686d78.jpg" ch-number="5", [14:45 WIB] - Women: Czechia vs Dominican Republic - Volleyball Nations League
-#https://pedo.ajtv.web.id/index.mpd?id=21603&type=dash&token=412d21fc31e59c7a850159e32c50938440230ea6b60f278be5973ee0f6dc8516|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21603&type=dash&token=db9cbca056640d7872808addd1c745bf30ac850d705a487cfdd589b0bed061d7|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=17140&type=drm&token=f7409f4e9d726499df557967efcda379c1a0a1f1c3942a904b1583138e8931b1
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=17140&type=drm&token=968ce07d5f276cf9cef11542ebcdf9310ab98551fca1fdfbd5a9cd73f4f26348
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Fuo7fvdbwEHYL2B58MJ6Hc2gnVc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137400/86e054.jpg" ch-number="6", [15:45 WIB] - Moto3 Race: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
-#https://pedo.ajtv.web.id/index.mpd?id=17140&type=dash&token=7dfeb9ea33fff3cbb7df95a03b0a67106a56f59774915cb292def6c9e9e7dea0|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=17140&type=dash&token=4e6ec06068694d4a3bd5db937584b479fdeaa831ddf4002ae3f7e6e9e612a722|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6685&type=drm&token=c45bab2c0a2ed037ce1f7f490a8fa7ec33589476536df04785508d71aa2b4743
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6685&type=drm&token=67d4b7242a5b302aadc56898ceae0626f774274086f20abd52a89159346aae29
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/47yRoBv0yoCpuvNdYylRJeBv0H8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145058/e9ae72.jpg" ch-number="7", [16:00 WIB] - Day 1 - WTA 500: Bad Homburg Open powered by Solarwatt 2026
-#https://pedo.ajtv.web.id/index.mpd?id=6685&type=dash&token=d762adc04c66e7bac242c53c1515e9609269bb0f3be3bba5c847fb8bb43804ce|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=6685&type=dash&token=81e219d4e1928ca7cee8f74e572df6acfef5b4ddd1e32b950cdfd410be00fa40|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=68a14f6f9edadb1104c427d2cf77272b8c1dd1e951a54807f8860dfc7535468b
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5n9DLfK6BZtStxDrrAgiUk88jk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5141813/e53984.jpg" ch-number="8", [16:00 WIB] - Qatar vs Thailand - AVC Mens Cup 2026
-#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=cf847a47fe31011854b911ae13327bf9ca1ec8112dde64d6e0888a071e976219|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21616&type=drm&token=33e8fc16d163dfeeaee893fa0615a54428b6f9adbfbaded013239fea5a526da8
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21616&type=drm&token=9fae75fa8b662dc10a7cfdc9087d618a89c84c3b64127b4fa816e0ff211460d4
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/v16qz_sZz5uB4DuwM0iC7xN48bs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139558/e91b27.jpg" ch-number="9", [16:15 WIB] - Women: Belgium vs France - Volleyball Nations League
-#https://pedo.ajtv.web.id/index.mpd?id=21616&type=dash&token=28898f3e81ea375b8404e80d2455b123a7005c04cd248fbea63d04076c215a97|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21616&type=dash&token=e44a0e5d8ac1a8c32e028dc11e6c851bf28e602cc8e55de6c4174dcc3c6f5fcf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21604&type=drm&token=a566eddefd3213b18fe0968ee11e278c6bea271f6dccc6158c94acf62694be05
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21604&type=drm&token=996d1b974136ad394d4be5b0d10e8f1023efa2f0755c8984f00a7e226584af6b
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mM6rRT14za51fCwxUgahFZdccoU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139556/12b66e.jpg" ch-number="10", [16:45 WIB] - Women: Canada vs Poland - Volleyball Nations League
-#https://pedo.ajtv.web.id/index.mpd?id=21604&type=dash&token=c7b2cccf02f2f1bad750ecebecaa0a8803f0232a458b35557a65a1cd908c0101|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21604&type=dash&token=8fad373cf9206aa402e5140022e13ac54abba067f9a0b710deebd62e4a5b2487|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=17140&type=drm&token=f7409f4e9d726499df557967efcda379c1a0a1f1c3942a904b1583138e8931b1
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=17140&type=drm&token=968ce07d5f276cf9cef11542ebcdf9310ab98551fca1fdfbd5a9cd73f4f26348
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tlsX7K7dxqQcWgDE7ViULBOxJNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137401/9eaf89.jpg" ch-number="11", [17:00 WIB] - Moto2 Race: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
-#https://pedo.ajtv.web.id/index.mpd?id=17140&type=dash&token=7dfeb9ea33fff3cbb7df95a03b0a67106a56f59774915cb292def6c9e9e7dea0|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=17140&type=dash&token=4e6ec06068694d4a3bd5db937584b479fdeaa831ddf4002ae3f7e6e9e612a722|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6786&type=drm&token=c7ba81df9cc2d5548a536b4a39c9a6d50b9801c661939ae28eabfbe498459bb9
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6786&type=drm&token=a5f9f3e0fe89016a36ec00b2aa9fcdca8c53c67adb32c5d682075ef243fb5687
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/w6BOioVKOJb3GTbkWg5F61q4Sis=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139412/7e7664.jpg" ch-number="12", [17:00 WIB] - Jessica Pegula vs Linda Noskova - Womens Singles Final | WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
-#https://pedo.ajtv.web.id/index.mpd?id=6786&type=dash&token=709414bee8aa6e4cab18e60c71ff079cbf3619edb392d6b70041f7e4e98a991f|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=6786&type=dash&token=ac3e48429dff05d1da2d873d005c9c626c59c0ffc59748af21e32c3b68a87d4b|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20885&type=drm&token=5f7087c4c6b0294b3b51e5e837e79bd8ec7c2cd199dd5cb32db640388f6cd776
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20885&type=drm&token=de2da151713001ff4350fc69eab61f1bf86d4884b76916e3c7e6765ed9983dc6
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LF1P88fO136eHZdu4G2Gf4UjL_8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20885/round-1-atp-250-vanda-pharmaceuticals-mallorca-championships-2026-d0f4c1.jpg" ch-number="13", [17:30 WIB] - Nuno Borges vs Adrian Mannarino - Round 1 | ATP 250: Vanda Pharmaceuticals Mallorca Championships 2026
-#https://pedo.ajtv.web.id/index.mpd?id=20885&type=dash&token=8ab37789a53865b0f6d516239e5238490e0a6be5bba0d58c565867aa0a2424ee|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=20885&type=dash&token=ee7f9072425c859881c3ccbd436fe1d9b856c9dafc59b43168a2b2dcbc9b9e46|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6686&type=drm&token=1488341b12c25269cbcc428b699cbf4a9cd587b8857a812f23c3cfa094c3ba94
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6686&type=drm&token=e9c21f8a808b90e25a7262e010b56163e08e1ccfa1441236f7699d21d526d610
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EQuvS6x9F-zEIOAY1frapwACA9g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139551/ab90dc.jpg" ch-number="14", [18:00 WIB] - Final - WTA 250: Lexus Nottingham Open 2026
-#https://pedo.ajtv.web.id/index.mpd?id=6686&type=dash&token=f502bffe2ca306cfc560bf99465ee61eccf45e1cdb2d759e1041693bab32652f|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=6686&type=dash&token=c83d198061ed7d541eff5934233412ca2dccfe0bc74ce4600a1567a0fb9b9ce8|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20886&type=drm&token=c29fc493328f19b04c76de5dae86225fa5548dcde814db648c89e6639ef277a1
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20886&type=drm&token=235f85f33ff787c3721452b3ef5415037b4bf9bca44ee0052b0890579e44c140
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lL1E22ZwIhgE5EJUkPZDrze8wac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145804/629df4.jpg" ch-number="15", [18:00 WIB] - Theo Arribage/Albano Olivetti vs Daniel Altmaier/Joao Fonseca - Final (Heristo Arena) | ATP 500: Terra Wortmann Open 2026
-#https://pedo.ajtv.web.id/index.mpd?id=20886&type=dash&token=9b1ea60953c229b5f4ad13906b92eafaf28726f73c2a511e688cefb9871cd9aa|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=20886&type=dash&token=264570862f153814f517de37c9fd6380d96e40645deed344d75cbfd49faa0f67|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=17140&type=drm&token=f7409f4e9d726499df557967efcda379c1a0a1f1c3942a904b1583138e8931b1
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=17140&type=drm&token=968ce07d5f276cf9cef11542ebcdf9310ab98551fca1fdfbd5a9cd73f4f26348
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nEihI0BrzAKZmkx87wSagSkz53A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137402/c05fb3.jpg" ch-number="16", [18:15 WIB] - MotoGP Race: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
-#https://pedo.ajtv.web.id/index.mpd?id=17140&type=dash&token=7dfeb9ea33fff3cbb7df95a03b0a67106a56f59774915cb292def6c9e9e7dea0|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=17140&type=dash&token=4e6ec06068694d4a3bd5db937584b479fdeaa831ddf4002ae3f7e6e9e612a722|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21603&type=drm&token=90837f5e8619bd7e470404c03d731fcc70cc654757d082f63c69a6d49bbc6be1
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21603&type=drm&token=9750e2fbdf88553a50124e61ee2477e60dcf7c332d6b477a3dc759b1f454bd37
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HKV58co37fsWzK-v9yUsjn0N7QI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139554/0cdcc5.jpg" ch-number="17", [18:45 WIB] - Women: Japan vs Italy - Volleyball Nations League
-#https://pedo.ajtv.web.id/index.mpd?id=21603&type=dash&token=412d21fc31e59c7a850159e32c50938440230ea6b60f278be5973ee0f6dc8516|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21603&type=dash&token=db9cbca056640d7872808addd1c745bf30ac850d705a487cfdd589b0bed061d7|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=68a14f6f9edadb1104c427d2cf77272b8c1dd1e951a54807f8860dfc7535468b
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0M-k3z7IWQYgEG26zfQnhOO3uIw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5141814/e68bc4.jpg" ch-number="18", [19:00 WIB] - South Korea vs Indonesia - AVC Mens Cup 2026
-#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=cf847a47fe31011854b911ae13327bf9ca1ec8112dde64d6e0888a071e976219|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20887&type=drm&token=8f2fd6c27691800d2f1b80d57e5e0192dee1eec8882382b95719f4adaa2fa292
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20887&type=drm&token=36cf54d1015920eb179d6eab6ec0dcf6c1719726ae1511b086386331021e962f
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6noCZ9N2Lw0C67TmYcsSEIHWfKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145806/90aa17.jpg" ch-number="19", [19:30 WIB] - Francisco Cerundolo vs Tommy Paul - Final | ATP 500: HSBC Championships 2026
-#https://pedo.ajtv.web.id/index.mpd?id=20887&type=dash&token=c0c77b44a3980a56860684c9a973e8307a2b37fb5a289dd61da31b96eabd95b6|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=20887&type=dash&token=8d7390a83535656b42daadaf6e32b37691d8e1423fe010db0ee031bad1574174|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21616&type=drm&token=33e8fc16d163dfeeaee893fa0615a54428b6f9adbfbaded013239fea5a526da8
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21616&type=drm&token=9fae75fa8b662dc10a7cfdc9087d618a89c84c3b64127b4fa816e0ff211460d4
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/z7k2CsR5vtwHytc0-E-7WYV4Cbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139559/0c1aa6.jpg" ch-number="20", [19:45 WIB] - Women: Germany vs Brazil - Volleyball Nations League
-#https://pedo.ajtv.web.id/index.mpd?id=21616&type=dash&token=28898f3e81ea375b8404e80d2455b123a7005c04cd248fbea63d04076c215a97|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21616&type=dash&token=e44a0e5d8ac1a8c32e028dc11e6c851bf28e602cc8e55de6c4174dcc3c6f5fcf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21604&type=drm&token=a566eddefd3213b18fe0968ee11e278c6bea271f6dccc6158c94acf62694be05
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21604&type=drm&token=996d1b974136ad394d4be5b0d10e8f1023efa2f0755c8984f00a7e226584af6b
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9m4JwNQeSUSFNJlfC5HnsxgUvWA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139557/a25b64.jpg" ch-number="21", [20:15 WIB] - Women: Thailand vs Netherlands - Volleyball Nations League
-#https://pedo.ajtv.web.id/index.mpd?id=21604&type=dash&token=c7b2cccf02f2f1bad750ecebecaa0a8803f0232a458b35557a65a1cd908c0101|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21604&type=dash&token=8fad373cf9206aa402e5140022e13ac54abba067f9a0b710deebd62e4a5b2487|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20885&type=drm&token=5f7087c4c6b0294b3b51e5e837e79bd8ec7c2cd199dd5cb32db640388f6cd776
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20885&type=drm&token=de2da151713001ff4350fc69eab61f1bf86d4884b76916e3c7e6765ed9983dc6
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NXNoglH5Ot-wtIyDg1b0L4OWjuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145810/886871.jpg" ch-number="22", [20:30 WIB] - Mariano Navone vs Lorenzo Sonego - Round 1 | ATP 250: Vanda Pharmaceuticals Mallorca Championships 2026
-#https://pedo.ajtv.web.id/index.mpd?id=20885&type=dash&token=8ab37789a53865b0f6d516239e5238490e0a6be5bba0d58c565867aa0a2424ee|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=20885&type=dash&token=ee7f9072425c859881c3ccbd436fe1d9b856c9dafc59b43168a2b2dcbc9b9e46|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20884&type=drm&token=4363d35997becb6ad4fb20e9f9e67f19c3966b3cb0298467aaf395e2ac175708
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20884&type=drm&token=0316e5ddf614fe253fabfc78099228d5eb9c156f8fda9c24a97b65b89a67227e
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k_xCJ4UGO5ELG54fhiAbst1FW5I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145799/17acdc.jpg" ch-number="23", [20:30 WIB] - Taylor Fritz vs Frances Tiafoe - Final | ATP 500: Terra Wortmann Open 2026
-#https://pedo.ajtv.web.id/index.mpd?id=20884&type=dash&token=12dc2e5261897e14dff62bc1328d16faa3fffd486eb393fad4b1edeb81ef29df|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=20884&type=dash&token=e7a92461ca8e22551610e2592967506eca377e089eb35d61411152121136e6d8|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20888&type=drm&token=f89e45922b4b51bec37c242e5c231bca3c04c093cc563678875afa6aeee6b75c
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20888&type=drm&token=e1cb3c8cfef0116fd433c6060d9ecbdf7666f1460fba2207238fe650b1175426
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LXQAHQlgsZp2Dea0TGWWmYUt0-U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145802/71e668.jpg" ch-number="24", [21:30 WIB] - Harri Heliovaara/Henry Patten vs Marcelo Arevalo/Mate Pavic - Final (Andy Murray Arena) | ATP 500: HSBC Championships 2026
-#https://pedo.ajtv.web.id/index.mpd?id=20888&type=dash&token=914c63fb250df82599d506df25250b225b1331d7d46e5879e8f944e2edde9215|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=20888&type=dash&token=9973cada3a53d23b8acf8822a5d1dc56d9230ed2756e2159f62bff291250a10d|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=17139&type=drm&token=5b51260e091fb187f6cb81a9a5e711f9e55545bcde5bd6ea528d31c38ffbdbab
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=17139&type=drm&token=ccf9f1b35310bdbd1859443adb08475692d304484ebff445691c72d78f03b229
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ovGXRMRrw1ixQ0xpPfI4V8oVxlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137875/f5aed0.jpg" ch-number="25", [22:00 WIB] - Round 4 - U.S. Open 2026
-#https://pedo.ajtv.web.id/index.mpd?id=17139&type=dash&token=43c17655cfd80d0e32213996920ef0fa729737d61e2124aa82d9f0480fdb473f|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=17139&type=dash&token=b209374a4ccfa44062e3f21854ce7cc9e763547719f365398b0df7ad9f85e73f|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21716&type=drm&token=7ee8d89da75dfb510173b973d39bc0361633db1591823a11160ffac781cca3a5
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21716&type=drm&token=9efa71fe1e2448e755a551f6adaf6f5e4eb644a80ed117c73b9edfee6f40c1a3
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G3zGsCMVLRnyQKCpYs6spYMBQpE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5141815/8c05de.jpg" ch-number="26", [22:30 WIB] - India vs Kazakhstan - AVC Mens Cup 2026
-#https://pedo.ajtv.web.id/index.mpd?id=21716&type=dash&token=6d54390f00f48870ccd3cc7f70677a36c0d08c0a5a7936c5a889f511bf815d8f|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21716&type=dash&token=f7da2a53192ffbeba9ab79498ad94a4d5e30a9a42f4abd91732f87b5dff19861|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21616&type=drm&token=33e8fc16d163dfeeaee893fa0615a54428b6f9adbfbaded013239fea5a526da8
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21616&type=drm&token=9fae75fa8b662dc10a7cfdc9087d618a89c84c3b64127b4fa816e0ff211460d4
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/q6vN32LTwhYhqq-lAC5rdSoiP0c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139560/c7a793.jpg" ch-number="27", [23:15 WIB] - Women: Turkey vs China - Volleyball Nations League
-#https://pedo.ajtv.web.id/index.mpd?id=21616&type=dash&token=28898f3e81ea375b8404e80d2455b123a7005c04cd248fbea63d04076c215a97|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21616&type=dash&token=e44a0e5d8ac1a8c32e028dc11e6c851bf28e602cc8e55de6c4174dcc3c6f5fcf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20885&type=drm&token=5f7087c4c6b0294b3b51e5e837e79bd8ec7c2cd199dd5cb32db640388f6cd776
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=20885&type=drm&token=de2da151713001ff4350fc69eab61f1bf86d4884b76916e3c7e6765ed9983dc6
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DHpos487XblkQMb-hhL3hpuOzuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145811/2e543d.jpg" ch-number="28", [23:30 WIB] - Yannick Hanfmann vs Adolfo Daniel Vallejo - Round 1 | ATP 250: Vanda Pharmaceuticals Mallorca Championships 2026
-#https://pedo.ajtv.web.id/index.mpd?id=20885&type=dash&token=8ab37789a53865b0f6d516239e5238490e0a6be5bba0d58c565867aa0a2424ee|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=20885&type=dash&token=ee7f9072425c859881c3ccbd436fe1d9b856c9dafc59b43168a2b2dcbc9b9e46|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6685&type=drm&token=c45bab2c0a2ed037ce1f7f490a8fa7ec33589476536df04785508d71aa2b4743
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6685&type=drm&token=67d4b7242a5b302aadc56898ceae0626f774274086f20abd52a89159346aae29
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/p4oNgUIRkoxU8IDCXMYitL0F6HU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5146675/e019cb.jpg" ch-number="29", [02:00 WIB] - Race 2: Canada Sail Grand Prix - SailGP 2026
-#https://pedo.ajtv.web.id/index.mpd?id=6685&type=dash&token=d762adc04c66e7bac242c53c1515e9609269bb0f3be3bba5c847fb8bb43804ce|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=6685&type=dash&token=81e219d4e1928ca7cee8f74e572df6acfef5b4ddd1e32b950cdfd410be00fa40|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=68a14f6f9edadb1104c427d2cf77272b8c1dd1e951a54807f8860dfc7535468b
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bFD7zhDtT5o4801LK7eTCLUqMrY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144402/e4a3e6.jpg" ch-number="30", [13:00 WIB] - Australia vs Kazakhstan - AVC Mens Cup 2026
-#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=cf847a47fe31011854b911ae13327bf9ca1ec8112dde64d6e0888a071e976219|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6786&type=drm&token=c7ba81df9cc2d5548a536b4a39c9a6d50b9801c661939ae28eabfbe498459bb9
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6786&type=drm&token=a5f9f3e0fe89016a36ec00b2aa9fcdca8c53c67adb32c5d682075ef243fb5687
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EL-0BptzrHEVzt0rwMIBEyipBbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145759/b5d7af.jpg" ch-number="31", [16:00 WIB] - Day 2 - WTA 500: Bad Homburg Open powered by Solarwatt 2026
-#https://pedo.ajtv.web.id/index.mpd?id=6786&type=dash&token=709414bee8aa6e4cab18e60c71ff079cbf3619edb392d6b70041f7e4e98a991f|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=6786&type=dash&token=ac3e48429dff05d1da2d873d005c9c626c59c0ffc59748af21e32c3b68a87d4b|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=68a14f6f9edadb1104c427d2cf77272b8c1dd1e951a54807f8860dfc7535468b
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5tLzyO2EJNyprZSQUl4i-AabGSs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144403/1802ab.jpg" ch-number="32", [16:00 WIB] - Oman vs Thailand - AVC Mens Cup 2026
-#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=cf847a47fe31011854b911ae13327bf9ca1ec8112dde64d6e0888a071e976219|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=68a14f6f9edadb1104c427d2cf77272b8c1dd1e951a54807f8860dfc7535468b
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ncmz91qObUcQ1HyvYyFjiFCtUI4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144404/e1dd55.jpg" ch-number="33", [19:00 WIB] - Qatar vs Indonesia - AVC Mens Cup 2026
-#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=cf847a47fe31011854b911ae13327bf9ca1ec8112dde64d6e0888a071e976219|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=68a14f6f9edadb1104c427d2cf77272b8c1dd1e951a54807f8860dfc7535468b
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ny32XiOoFmYf1o8IpOiAGq5gt4w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144405/0b2435.jpg" ch-number="34", [22:00 WIB] - India vs Chinese Taipei - AVC Mens Cup 2026
-#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=cf847a47fe31011854b911ae13327bf9ca1ec8112dde64d6e0888a071e976219|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=68a14f6f9edadb1104c427d2cf77272b8c1dd1e951a54807f8860dfc7535468b
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-ReKGy2QMNOL1Utq5e54QEHL_7s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144406/e43369.jpg" ch-number="35", [13:00 WIB] - New Zealand vs Australia - AVC Mens Cup 2026
-#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=cf847a47fe31011854b911ae13327bf9ca1ec8112dde64d6e0888a071e976219|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=68a14f6f9edadb1104c427d2cf77272b8c1dd1e951a54807f8860dfc7535468b
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/u8ntWgw9LBieZeVsnzo-HqtfR_Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144407/a038e3.jpg" ch-number="36", [16:00 WIB] - Chinese Taipei vs Kazakhstan - AVC Mens Cup 2026
-#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=cf847a47fe31011854b911ae13327bf9ca1ec8112dde64d6e0888a071e976219|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=68a14f6f9edadb1104c427d2cf77272b8c1dd1e951a54807f8860dfc7535468b
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PKDsHcSHTxc4RSBmzwJWUJr6zoY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144408/7e5e46.jpg" ch-number="37", [19:00 WIB] - Indonesia vs Thailand - AVC Mens Cup 2026
-#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=cf847a47fe31011854b911ae13327bf9ca1ec8112dde64d6e0888a071e976219|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=68a14f6f9edadb1104c427d2cf77272b8c1dd1e951a54807f8860dfc7535468b
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21714&type=drm&token=bb5cb8bba19dd5dbd7724def6d484965ecff636c99fa31e7da3efaf774a3abf3
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VulU8Pwgiy75M7zgHJQUwzuj0aQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144409/320838.jpg" ch-number="38", [22:00 WIB] - India vs Bahrain - AVC Mens Cup 2026
-#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=cf847a47fe31011854b911ae13327bf9ca1ec8112dde64d6e0888a071e976219|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21714&type=dash&token=69c57988853168d6272a9daeccdc31631c640a511555271b6bc1311f3748f494|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6786&type=drm&token=c7ba81df9cc2d5548a536b4a39c9a6d50b9801c661939ae28eabfbe498459bb9
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=6786&type=drm&token=a5f9f3e0fe89016a36ec00b2aa9fcdca8c53c67adb32c5d682075ef243fb5687
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uiw3ql-PlzXQVY-ELRvwOHi8tzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145761/c379b8.jpg" ch-number="39", [16:00 WIB] - Day 4 - WTA 500: Bad Homburg Open powered by Solarwatt 2026
-#https://pedo.ajtv.web.id/index.mpd?id=6786&type=dash&token=709414bee8aa6e4cab18e60c71ff079cbf3619edb392d6b70041f7e4e98a991f|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=6786&type=dash&token=ac3e48429dff05d1da2d873d005c9c626c59c0ffc59748af21e32c3b68a87d4b|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21654&type=drm&token=431a423c239f8af7fd187230c5bb1289de75449b3839671318d2becd166718ef
+#KODIPROP:inputstream.adaptive.license_key=https://pedo.ajtv.web.id/index.mpd?id=21654&type=drm&token=33b015b6520278a2d5aa736b5df1fb94de5977f67eeb961df6e0c22c3a114603
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xpALNcrXYNQx2yOkFdaxP5NxC5U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21654/garuda-fight-championship-series-2-clan-kk-vs-everyone-9579fc.jpg" ch-number="40", [19:00 WIB] - Garuda Fight Championship Series 2 Clan KK vs Everyone
-#https://pedo.ajtv.web.id/index.mpd?id=21654&type=dash&token=b9f62419cb6b262fcb9afbb142548ec0f4e0741cb5282099c3eb7ead4f062355|User-Agent=VidioPlayer/6.31.6
+#https://pedo.ajtv.web.id/index.mpd?id=21654&type=dash&token=551205fc4baac77943c730b0784eaf194a4aee15b04bc70e8f40da541d27595e|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
