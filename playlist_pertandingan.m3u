@@ -1,20 +1,20 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21714&type=drm&token=IWWkBBIDiT36kX20orCYEpXCX5CTTatF
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ncmz91qObUcQ1HyvYyFjiFCtUI4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144404/e1dd55.jpg" ch-number="1", Qatar vs Indonesia - AVC Mens Cup 2026
+https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21714&type=dash&token=IWWkBBIDiT36kX20orCYEpXCX5CTTatF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=6786&type=drm&token=IWWkBBIDiT36kX20orCYEpXCX5CTTatF
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EL-0BptzrHEVzt0rwMIBEyipBbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145759/b5d7af.jpg" ch-number="1", Day 2 - WTA 500: Bad Homburg Open powered by Solarwatt 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EL-0BptzrHEVzt0rwMIBEyipBbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5145759/b5d7af.jpg" ch-number="2", Day 2 - WTA 500: Bad Homburg Open powered by Solarwatt 2026
 https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=6786&type=dash&token=IWWkBBIDiT36kX20orCYEpXCX5CTTatF|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20886&type=drm&token=IWWkBBIDiT36kX20orCYEpXCX5CTTatF
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0Icsa7ydbMzRNH_Gq40oRJego4Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147709/d63eb8.jpg" ch-number="2", Jack Pinnington Jones vs Marco Trungelliti - Round 1 | ATP 250: Lexus Eastbourne Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0Icsa7ydbMzRNH_Gq40oRJego4Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147709/d63eb8.jpg" ch-number="3", Jack Pinnington Jones vs Marco Trungelliti - Round 1 | ATP 250: Lexus Eastbourne Open 2026
 https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20886&type=dash&token=IWWkBBIDiT36kX20orCYEpXCX5CTTatF|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20885&type=drm&token=IWWkBBIDiT36kX20orCYEpXCX5CTTatF
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/am4vGRQk9RE2h5WbRZp5PhqTnrA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147710/4d6af5.jpg" ch-number="3", Corentin Moutet vs Abedallah Shelbayh - Round 1 | ATP 250: Vanda Pharmaceuticals Mallorca Championships 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/am4vGRQk9RE2h5WbRZp5PhqTnrA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147710/4d6af5.jpg" ch-number="4", Corentin Moutet vs Abedallah Shelbayh - Round 1 | ATP 250: Vanda Pharmaceuticals Mallorca Championships 2026
 https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20885&type=dash&token=IWWkBBIDiT36kX20orCYEpXCX5CTTatF|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21714&type=drm&token=IWWkBBIDiT36kX20orCYEpXCX5CTTatF
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ncmz91qObUcQ1HyvYyFjiFCtUI4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5144404/e1dd55.jpg" ch-number="4", Qatar vs Indonesia - AVC Mens Cup 2026
-https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21714&type=dash&token=IWWkBBIDiT36kX20orCYEpXCX5CTTatF|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20886&type=drm&token=IWWkBBIDiT36kX20orCYEpXCX5CTTatF
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HpXsn0MQ0jkx0WGVmvSYmfcDiVQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147708/ea4dd8.jpg" ch-number="5", [19:30 WIB] - Marcos Giron vs Jack Draper - Round 1 | ATP 250: Lexus Eastbourne Open 2026
