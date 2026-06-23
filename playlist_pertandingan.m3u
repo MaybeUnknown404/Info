@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18250&type=drm&token=Ek9ysKVITvJQ9cgAdsnaIABxLExkUhzv
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/R1cGuASuQQI2Qoymymg4DJxy7bM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147801/879631.jpg" ch-number="1", Timothy Lock (CAN) vs Matthias Kicklitz (GER) - Mens Singles Qualification | Yonex US Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rLt8j5Kact1D7u7RRnPwv40aagc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147802/655e14.jpg" ch-number="1", Anna Tatranova (FRA) vs Chloe Hoang (CAN) - Womens Singles Qualification | Yonex US Open 2026
 https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18250&type=dash&token=Ek9ysKVITvJQ9cgAdsnaIABxLExkUhzv|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18249&type=drm&token=Ek9ysKVITvJQ9cgAdsnaIABxLExkUhzv
