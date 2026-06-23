@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18250&type=drm&token=CulBfJb7LoFM9N9ugzI2BDXooNDW87Kp
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Zbg-OXc6stRF8KxTfbKKw9mothY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147804/d923d4.jpg" ch-number="1", Matthias Kicklitz vs Fabio Caponio - Mens Singles Qualification | Yonex US Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vKK3ditWGCE4pnIIWArb03HJXTk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147805/2dd0f9.jpg" ch-number="1", Hinata Suzuki/Nao Yamakita (JPN) vs Gronya Somerville (AUS)/Josephine Wu (CAN) - Womens Doubles Round of 32 | Yonex US Open 2026
 https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18250&type=dash&token=CulBfJb7LoFM9N9ugzI2BDXooNDW87Kp|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18249&type=drm&token=CulBfJb7LoFM9N9ugzI2BDXooNDW87Kp
