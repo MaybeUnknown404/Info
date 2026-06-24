@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18250&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/C_JO_GiJDxsa0NyePpb5nNJg9RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5149154/19e253.jpg" ch-number="1", Tonkid Saeheng/Tonrug Saeheng (THA) vs Teges Satriaji Cahyo Hutomo (INA)/Chloe Ho (USA) - Mixed Doubles Round of 32 | Yonex US Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/h6fZyEWEYfwcTaYvbzvwKsTSpcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5149114/038456.jpg" ch-number="1", Ansen Liu/Charity Lam (USA) vs Calvin Devereux/Desiree Toepffer (GER) - Mixed Doubles Round of 32 | Yonex US Open 2026
 https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18250&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18249&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
@@ -29,14 +29,14 @@ https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20886&type=dash&token=1RzAn36i
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21701&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21703&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tzLr7RSDCmbt4r2hSilIoGH4C0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5148468/45d1ca.jpg" ch-number="8", [01:15 WIB] - Men: France vs Iran - Volleyball Nations League
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21703&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21702&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MgxBgRpya10EpmD82ZbAiV2n76Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5148469/c12e66.jpg" ch-number="8", [01:15 WIB] - Men: Slovenia vs Canada - Volleyball Nations League
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21702&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21702&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MgxBgRpya10EpmD82ZbAiV2n76Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5148469/c12e66.jpg" ch-number="9", [01:15 WIB] - Men: Slovenia vs Canada - Volleyball Nations League
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21702&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21703&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tzLr7RSDCmbt4r2hSilIoGH4C0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5148468/45d1ca.jpg" ch-number="9", [01:15 WIB] - Men: France vs Iran - Volleyball Nations League
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21703&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18252&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
@@ -79,29 +79,29 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21714&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21701&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/u4hkaT4sbmG1Bv2DFqLmCkxpMkY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5148470/38e3a4.jpg" ch-number="18", [21:30 WIB] - Men: China vs Belgium - Volleyball Nations League
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21701&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21702&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nA0AF41CKWooSDbXCP81FpQGsb8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5148471/cbac02.jpg" ch-number="19", [21:30 WIB] - Men: Ukraine vs Italy - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nA0AF41CKWooSDbXCP81FpQGsb8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5148471/cbac02.jpg" ch-number="18", [21:30 WIB] - Men: Ukraine vs Italy - Volleyball Nations League
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21702&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18190&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ogF5cET5LeLh-kdRZSRiC-AfibI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147784/c9cf57.jpg" ch-number="20", [22:00 WIB] - Round 1: Game 1 - KPMG Womens PGA Championship 2026
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18190&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21701&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/u4hkaT4sbmG1Bv2DFqLmCkxpMkY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5148470/38e3a4.jpg" ch-number="19", [21:30 WIB] - Men: China vs Belgium - Volleyball Nations League
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21701&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21703&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L86l6XTytefXVVHJk4NXbtJx_Bo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5148472/56addd.jpg" ch-number="21", [22:00 WIB] - Men: Iran vs United States - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L86l6XTytefXVVHJk4NXbtJx_Bo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5148472/56addd.jpg" ch-number="20", [22:00 WIB] - Men: Iran vs United States - Volleyball Nations League
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21703&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=17875&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cd6oWcZ8muxHiMioTCE5Sp4HcE8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147627/99d4fb.jpg" ch-number="22", [22:00 WIB] - Valladolid P2 Premier Padel - Day 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cd6oWcZ8muxHiMioTCE5Sp4HcE8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147627/99d4fb.jpg" ch-number="21", [22:00 WIB] - Valladolid P2 Premier Padel - Day 3
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=17875&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18190&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ogF5cET5LeLh-kdRZSRiC-AfibI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147784/c9cf57.jpg" ch-number="22", [22:00 WIB] - Round 1: Game 1 - KPMG Womens PGA Championship 2026
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18190&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21714&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
@@ -249,9 +249,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=6299&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=17875&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lzaMvUSLMwJN3YERNeVdJdyZ8uU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147632/8a47d4.jpg" ch-number="52", [22:00 WIB] - Valladolid P2 Premier Padel - Quarterfinals
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=17875&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21703&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1dy0fTkQrmh65IPfGnC0muM4fAc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5149174/5428d3.jpg" ch-number="52", [22:00 WIB] - Men: Iran vs Japan - Volleyball Nations League
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21703&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18190&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
@@ -259,9 +259,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18190&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21703&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1dy0fTkQrmh65IPfGnC0muM4fAc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5149174/5428d3.jpg" ch-number="54", [22:00 WIB] - Men: Iran vs Japan - Volleyball Nations League
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21703&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=17875&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lzaMvUSLMwJN3YERNeVdJdyZ8uU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147632/8a47d4.jpg" ch-number="54", [22:00 WIB] - Valladolid P2 Premier Padel - Quarterfinals
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=17875&type=dash&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21714&type=drm&token=1RzAn36iwy1Kxc9JPgL9P6Ltuqifbpq2
