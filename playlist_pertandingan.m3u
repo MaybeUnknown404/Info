@@ -1,9 +1,8 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21725&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qPET0aInM8k0CeLE1lU8FfHpfAs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147910/732c0d.jpg" ch-number="1", [12:55 WIB] - Indonesia vs Hong Kong - Princess Cup
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21725&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qPET0aInM8k0CeLE1lU8FfHpfAs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147910/732c0d.jpg" ch-number="1", Indonesia vs Hong Kong - Princess Cup
+https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21725&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=17875&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/q3RF16-Lym70MAT_YxgKoka01-w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5146777/75cba4.jpg" ch-number="2", [14:00 WIB] - Valladolid P2 Premier Padel - Day 2
