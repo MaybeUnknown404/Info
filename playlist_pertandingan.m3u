@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18250&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3tplhwlmbCV7VLm-lmzS7YYySA8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147939/b1b446.jpg" ch-number="1", Meghana Nishant/Selena Wei (USA) vs Chloe Ho/Stella Pan (USA) - Womens Doubles Round of 32 | Yonex US Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2yhtTQMTqQ6SbwsF6b-OygpI9wQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147939/2337f6.jpg" ch-number="1", Meghana Nishant/Selena Wei (USA) vs Chloe Ho/Stella Pan (USA) - Womens Doubles Round of 32 | Yonex US Open 2026
 https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18250&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18249&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
@@ -9,7 +9,7 @@ https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18250&type=dash&token=YlXL7z2i
 https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18249&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18253&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4KI35H5CWV2Sue4tuf9aviveSEA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-us-open-2026-qualifiers-round-of-32-court-4-dafa16.jpg" ch-number="3", Nanako Hara/Riko Kiyose (JPN) vs Polina Buhrova/Yevheniia Kantemyr (UKR) - Womens Doubles Round of 32 | Yonex US Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4KI35H5CWV2Sue4tuf9aviveSEA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-us-open-2026-qualifiers-round-of-32-court-4-dafa16.jpg" ch-number="3", Shuntaro Mezaki/Yuta Oku (JPN) vs Lai Po Yu/Tsai Fu Cheng (TPE) - Mens Doubles Round of 32 | Yonex US Open 2026
 https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18253&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18252&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
@@ -37,7 +37,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20884&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qqCouI7kSBCDa9759tC2aZb4UJY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147925/72e026.jpg" ch-number="9", [17:00 WIB] - Toby Samuel vs Thiago Agustin Tirante - Round 2 | ATP 250: Lexus Eastbourne Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bi_Q8mnSnRcTfDEogP4LEJ5BtgQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147940/fe6054.jpg" ch-number="9", [17:00 WIB] - Toby Samuel vs Thiago Agustin Tirante - Round 2 (Court 1) | ATP 250: Lexus Eastbourne Open 2026
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20884&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -62,7 +62,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20884&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vYG3whldTqSY4aLAVoMLp9VyZtE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147926/491f71.jpg" ch-number="14", [19:00 WIB] - Arthur Fery vs Juan Manuel Cerundolo - Round 2 | ATP 250: Lexus Eastbourne Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fe8IRTU6NtyD3EbFTE_HR4SvX5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147941/076270.jpg" ch-number="14", [19:00 WIB] - Arthur Fery vs Juan Manuel Cerundolo - Round 2 (Court 1) | ATP 250: Lexus Eastbourne Open 2026
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20884&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -96,14 +96,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=17875&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20886&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ed5HiWFfuWRORGTsKRmeQBCxZFY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147933/6d4fc8.jpg" ch-number="21", [22:30 WIB] - Jack Draper vs Jack Pinnington Jones - Round 2 | ATP 250: Lexus Eastbourne Open 2026
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20886&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20885&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/02J5zY5E13qCq428ZsBikBQFm1s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147930/1a4b52.jpg" ch-number="21", [22:30 WIB] - Abedallah Shelbayh vs Grigor Dimitrov - Round 2 | ATP 250: Vanda Pharmaceuticals Mallorca Championships 2026
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20885&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20885&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/02J5zY5E13qCq428ZsBikBQFm1s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147930/1a4b52.jpg" ch-number="22", [22:30 WIB] - Abedallah Shelbayh vs Grigor Dimitrov - Round 2 | ATP 250: Vanda Pharmaceuticals Mallorca Championships 2026
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20885&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20886&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ed5HiWFfuWRORGTsKRmeQBCxZFY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147933/6d4fc8.jpg" ch-number="22", [22:30 WIB] - Jack Draper vs Jack Pinnington Jones - Round 2 | ATP 250: Lexus Eastbourne Open 2026
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20886&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21714&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
@@ -141,14 +141,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21714&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18190&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ogF5cET5LeLh-kdRZSRiC-AfibI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147784/c9cf57.jpg" ch-number="30", [22:00 WIB] - Round 1: Game 1 - KPMG Womens PGA Championship 2026
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18190&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=17875&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cd6oWcZ8muxHiMioTCE5Sp4HcE8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147627/99d4fb.jpg" ch-number="30", [22:00 WIB] - Valladolid P2 Premier Padel - Day 3
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=17875&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=17875&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cd6oWcZ8muxHiMioTCE5Sp4HcE8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147627/99d4fb.jpg" ch-number="31", [22:00 WIB] - Valladolid P2 Premier Padel - Day 3
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=17875&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18190&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ogF5cET5LeLh-kdRZSRiC-AfibI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147784/c9cf57.jpg" ch-number="31", [22:00 WIB] - Round 1: Game 1 - KPMG Womens PGA Championship 2026
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18190&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21714&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
@@ -246,14 +246,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=17875&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=6317&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/o-WZnFuC8LPupqdWF3NEzMW2TQg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147637/4cca9a.jpg" ch-number="51", [15:00 WIB] - Rally Greece SS10 Menalo Mt 1 - WRC EKO Acropolis Greece 2026
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=6317&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=6299&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MTbNJR2ynlP4WDf4nacskBPhYeg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147258/dfecf0.jpg" ch-number="51", [15:00 WIB] - Sprint - FIA Formula 3 Championship Austria Grand Prix 2026
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=6299&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=6299&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MTbNJR2ynlP4WDf4nacskBPhYeg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147258/dfecf0.jpg" ch-number="52", [15:00 WIB] - Sprint - FIA Formula 3 Championship Austria Grand Prix 2026
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=6299&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=6317&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/o-WZnFuC8LPupqdWF3NEzMW2TQg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147637/4cca9a.jpg" ch-number="52", [15:00 WIB] - Rally Greece SS10 Menalo Mt 1 - WRC EKO Acropolis Greece 2026
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=6317&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21652&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
@@ -276,14 +276,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21654&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=6299&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X32F_NNiYH-JGKHQY82hLlNwVVE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147260/92bad0.jpg" ch-number="57", [19:10 WIB] - Sprint - FIA Formula 2 Championship Austria Grand Prix 2026
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=6299&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=19388&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_KQfCmpg6m9cP5fyyFLKVJGl7Uk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147918/cb7f3a.jpg" ch-number="57", [19:10 WIB] - RWS 200 Super Fights
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=19388&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=19388&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_KQfCmpg6m9cP5fyyFLKVJGl7Uk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147918/cb7f3a.jpg" ch-number="58", [19:10 WIB] - RWS 200 Super Fights
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=19388&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=6299&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X32F_NNiYH-JGKHQY82hLlNwVVE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147260/92bad0.jpg" ch-number="58", [19:10 WIB] - Sprint - FIA Formula 2 Championship Austria Grand Prix 2026
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=6299&type=dash&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=6299&type=drm&token=YlXL7z2i7rEmXPEgWjRxFBFJLz4rRx14
