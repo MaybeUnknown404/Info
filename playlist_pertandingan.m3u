@@ -1,12 +1,12 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21701&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0f71LLSvBW3yqMPVOBPXM5NEOV4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150427/55ad02.jpg" ch-number="1", Men: Belgium vs Germany - Volleyball Nations League
-https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21701&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21702&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9YRhflZS01a0f9ky7fi90KYun68=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150428/605117.jpg" ch-number="2", Men: Brazil vs Italy - Volleyball Nations League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9YRhflZS01a0f9ky7fi90KYun68=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150428/605117.jpg" ch-number="1", Men: Brazil vs Italy - Volleyball Nations League
 https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21702&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21701&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0f71LLSvBW3yqMPVOBPXM5NEOV4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150427/55ad02.jpg" ch-number="2", Men: Belgium vs Germany - Volleyball Nations League
+https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21701&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21703&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3vENpgBtNI61vDaziltV17WFzDE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150429/7b2ba2.jpg" ch-number="3", Men: Serbia vs Cuba - Volleyball Nations League
@@ -131,14 +131,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21654&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=6299&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X32F_NNiYH-JGKHQY82hLlNwVVE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147260/92bad0.jpg" ch-number="28", [19:10 WIB] - Sprint - FIA Formula 2 Championship Austria Grand Prix 2026
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=6299&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=19388&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_KQfCmpg6m9cP5fyyFLKVJGl7Uk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147918/cb7f3a.jpg" ch-number="28", [19:10 WIB] - RWS 200 Super Fights
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=19388&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=19388&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_KQfCmpg6m9cP5fyyFLKVJGl7Uk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147918/cb7f3a.jpg" ch-number="29", [19:10 WIB] - RWS 200 Super Fights
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=19388&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=6299&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X32F_NNiYH-JGKHQY82hLlNwVVE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147260/92bad0.jpg" ch-number="29", [19:10 WIB] - Sprint - FIA Formula 2 Championship Austria Grand Prix 2026
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=6299&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=17140&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
@@ -156,14 +156,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=6299&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=17140&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lWpdUbxcSNZ0-CR3ewECIERbjec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5149182/ff7a8b.jpg" ch-number="33", [21:00 WIB] - Race 1 - Harley Davidson Bagger World Cup 2026: Round 3 Netherlands
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=17140&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18190&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FW_0xAYGC10xHuXKvPuhNCxvfxg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5149260/bfe23d.jpg" ch-number="33", [21:00 WIB] - Round 3 - KPMG Womens PGA Championship 2026
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18190&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=18190&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FW_0xAYGC10xHuXKvPuhNCxvfxg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5149260/bfe23d.jpg" ch-number="34", [21:00 WIB] - Round 3 - KPMG Womens PGA Championship 2026
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18190&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=17140&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lWpdUbxcSNZ0-CR3ewECIERbjec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5149182/ff7a8b.jpg" ch-number="34", [21:00 WIB] - Race 1 - Harley Davidson Bagger World Cup 2026: Round 3 Netherlands
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=17140&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21702&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
@@ -186,14 +186,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=17140&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=6317&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XN6fEI91AWVkWq120cqMsfSMWqM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153139/3e785b.jpg" ch-number="39", [23:00 WIB] - Rally Greece SS13 Menalo Mt 2 - WRC EKO Acropolis Greece 2026
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=6317&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20216&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UCMitBNKGa05WSmVbAE_2jtlSxE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150457/91dd13.jpg" ch-number="39", [23:00 WIB] - Abus Magomedov vs Michal Oleksiejczuk - Middleweight | UFC Fight Night
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20216&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20216&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UCMitBNKGa05WSmVbAE_2jtlSxE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150457/91dd13.jpg" ch-number="40", [23:00 WIB] - Abus Magomedov vs Michal Oleksiejczuk - Middleweight | UFC Fight Night
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20216&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=6317&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XN6fEI91AWVkWq120cqMsfSMWqM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153139/3e785b.jpg" ch-number="40", [23:00 WIB] - Rally Greece SS13 Menalo Mt 2 - WRC EKO Acropolis Greece 2026
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=6317&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20216&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
@@ -211,9 +211,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20216&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21701&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CnH5debl2bI6Ap-PN4uxjWaNjm0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150664/95ae4e.jpg" ch-number="44", [01:15 WIB] - Men: Turkey vs Argentina - Volleyball Nations League
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21701&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21702&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hrEJyAMvrD5L73jo6ryBvb_0kV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150668/57ba22.jpg" ch-number="44", [01:15 WIB] - Men: Slovenia vs Brazil - Volleyball Nations League
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21702&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=20216&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
@@ -221,9 +221,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=20216&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21702&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hrEJyAMvrD5L73jo6ryBvb_0kV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150668/57ba22.jpg" ch-number="46", [01:15 WIB] - Men: Slovenia vs Brazil - Volleyball Nations League
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21702&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21701&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CnH5debl2bI6Ap-PN4uxjWaNjm0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150664/95ae4e.jpg" ch-number="46", [01:15 WIB] - Men: Turkey vs Argentina - Volleyball Nations League
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21701&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21703&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
@@ -291,14 +291,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=17875&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=17140&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hLlwSHO3UTezXh6eudah7Lga9Uc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153224/b37149.jpg" ch-number="60", [18:15 WIB] - MotoGP Race: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=17140&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21703&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/N6QK18DQzYLNFVd55zEKxD6byuo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150791/8b196e.jpg" ch-number="60", [18:15 WIB] - Men: Iran vs Cuba - Volleyball Nations League
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21703&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21703&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/N6QK18DQzYLNFVd55zEKxD6byuo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150791/8b196e.jpg" ch-number="61", [18:15 WIB] - Men: Iran vs Cuba - Volleyball Nations League
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21703&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=17140&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hLlwSHO3UTezXh6eudah7Lga9Uc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153224/b37149.jpg" ch-number="61", [18:15 WIB] - MotoGP Race: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=17140&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=6299&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
@@ -316,14 +316,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=18190&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21701&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iq0LjZRGuAntJIDKeS8HxlkZQro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150666/280fc1.jpg" ch-number="65", [21:15 WIB] - Men: Belgium vs Turkey - Volleyball Nations League
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21701&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21702&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DtB47WJJIc9UIfPFTnRJp7N0pHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150673/dc4fc9.jpg" ch-number="65", [21:15 WIB] - Men: Canada vs Brazil - Volleyball Nations League
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21702&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21702&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DtB47WJJIc9UIfPFTnRJp7N0pHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150673/dc4fc9.jpg" ch-number="66", [21:15 WIB] - Men: Canada vs Brazil - Volleyball Nations League
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21702&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21701&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iq0LjZRGuAntJIDKeS8HxlkZQro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150666/280fc1.jpg" ch-number="66", [21:15 WIB] - Men: Belgium vs Turkey - Volleyball Nations League
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21701&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21703&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
@@ -341,14 +341,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21701&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21702&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ozLQX5lvCq1ZDmfbPEdoGwRgyyg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153230/e9f82e.jpg" ch-number="70", [01:15 WIB] - Men: Slovenia vs Italy - Volleyball Nations League
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21702&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21703&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NVs6dKTBzJUyJu0Dy9mEaeWNStA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153231/3a4220.jpg" ch-number="70", [01:15 WIB] - Men: Serbia vs United States - Volleyball Nations League
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21703&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21703&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NVs6dKTBzJUyJu0Dy9mEaeWNStA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153231/3a4220.jpg" ch-number="71", [01:15 WIB] - Men: Serbia vs United States - Volleyball Nations League
-#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21703&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21702&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ozLQX5lvCq1ZDmfbPEdoGwRgyyg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153230/e9f82e.jpg" ch-number="71", [01:15 WIB] - Men: Slovenia vs Italy - Volleyball Nations League
+#https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21702&type=dash&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21735&type=drm&token=6xvifg3KJgjTvjIRzy645phVnrbJzMXC
