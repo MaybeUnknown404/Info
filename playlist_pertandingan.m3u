@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=21654&type=drm&token=autoftTjDbaDxfFIwRUZJ1bteuYJfI9f
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4hxjwKKSCrxrfWccu59QLiMEX_M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147676/0d4cf7.jpg" ch-number="1", Dwi vs Vicky - Super Lightweight | Garuda Fight Championship Series 2 Clan KK vs Everyone
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/34aaqCOknBz-RjabLEVrPwkQiag=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147676/cc8297.jpg" ch-number="1", Danil vs Peter - Welterweight | Garuda Fight Championship Series 2 Clan KK vs Everyone
 https://asukoe.ariv.biz.id/atraksi/mlngktl.mpd?id=21654&type=dash&token=autoftTjDbaDxfFIwRUZJ1bteuYJfI9f|User-Agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://asukoe.ariv.biz.id/atraksi/nyuk.kt?id=19388&type=drm&token=autoftTjDbaDxfFIwRUZJ1bteuYJfI9f
