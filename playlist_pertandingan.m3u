@@ -1,148 +1,143 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tAWOHodUdwA-XA_xOjPuZjzfNdg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5149185/4f2889.jpg" ch-number="1", Race 2 - Red Bull MotoGP Rookies Cup 2026 Round 4: Assen
-https://tvratu.my.id/vid/index.mpd?id=17140
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=6299
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Juu_-NYqt56Lr1B7ivPRIbWk0KY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147262/3de2fa.jpg" ch-number="2", Race - FIA Formula 3 Championship Austria Grand Prix 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Juu_-NYqt56Lr1B7ivPRIbWk0KY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147262/3de2fa.jpg" ch-number="1", Race - FIA Formula 3 Championship Austria Grand Prix 2026
 https://tvratu.my.id/vid/index.mpd?id=6299
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21714
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kgs3kh0Twepf2IoV4Xd4xYMSyFw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158525/5cc1dc.jpg" ch-number="3", Ranking 5-6: Kazakhstan vs Thailand - AVC Mens Cup 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kgs3kh0Twepf2IoV4Xd4xYMSyFw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158525/5cc1dc.jpg" ch-number="2", Ranking 5-6: Kazakhstan vs Thailand - AVC Mens Cup 2026
 https://tvratu.my.id/vid/index.mpd?id=21714
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QXhD3OanwbmRaVJ62at-b2GUXYU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153212/a914ae.jpg" ch-number="4", [14:35 WIB] - MotoGP Warm Up & Riders Parade: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
-#https://tvratu.my.id/vid/index.mpd?id=17140
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/QXhD3OanwbmRaVJ62at-b2GUXYU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153212/a914ae.jpg" ch-number="3", MotoGP Warm Up & Riders Parade: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
+https://tvratu.my.id/vid/index.mpd?id=17140
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=6299
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/y3b1m4s6-LbfTWQeoXKNTosul3Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147264/15245e.jpg" ch-number="5", [14:55 WIB] - Race - FIA Formula 2 Championship Austria Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/y3b1m4s6-LbfTWQeoXKNTosul3Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147264/15245e.jpg" ch-number="4", [14:55 WIB] - Race - FIA Formula 2 Championship Austria Grand Prix 2026
 #https://tvratu.my.id/vid/index.mpd?id=6299
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Cpci3d5w0l5Q93KQkfDpF6daVqg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153213/6a9808.jpg" ch-number="6", [15:45 WIB] - Moto3 Race: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Cpci3d5w0l5Q93KQkfDpF6daVqg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153213/6a9808.jpg" ch-number="5", [15:45 WIB] - Moto3 Race: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
 #https://tvratu.my.id/vid/index.mpd?id=17140
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21725
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HslhwNvVRdHrqDRzcs0gg2u2bgs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158523/8a2922.jpg" ch-number="7", [15:50 WIB] - 3rd Place: Indonesia vs Philippines - Princess Cup
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HslhwNvVRdHrqDRzcs0gg2u2bgs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158523/8a2922.jpg" ch-number="6", [15:50 WIB] - 3rd Place: Indonesia vs Philippines - Princess Cup
 #https://tvratu.my.id/vid/index.mpd?id=21725
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21714
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EsZ_w_wHXAfGU9hGjPzdVsYIqak=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158526/4f8a34.jpg" ch-number="8", [16:45 WIB] - 3rd Place: Bahrain vs India - AVC Mens Cup 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EsZ_w_wHXAfGU9hGjPzdVsYIqak=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158526/4f8a34.jpg" ch-number="7", [16:45 WIB] - 3rd Place: Bahrain vs India - AVC Mens Cup 2026
 #https://tvratu.my.id/vid/index.mpd?id=21714
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fW3DkrGfkO4HJpm_nYzZz9h6Ezg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153214/7b22a9.jpg" ch-number="9", [17:00 WIB] - Moto2 Race: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fW3DkrGfkO4HJpm_nYzZz9h6Ezg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153214/7b22a9.jpg" ch-number="8", [17:00 WIB] - Moto2 Race: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
 #https://tvratu.my.id/vid/index.mpd?id=17140
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=20886
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7OF0ow9mhoJKmpdqfMAFVO_fM0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158551/72df71.jpg" ch-number="10", [17:00 WIB] - Zizou Bergs vs Ugo Humbert - Final | ATP 250: Lexus Eastbourne Open 2026 (Resumption after Rain Suspended)
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7OF0ow9mhoJKmpdqfMAFVO_fM0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158551/72df71.jpg" ch-number="9", [17:00 WIB] - Zizou Bergs vs Ugo Humbert - Final | ATP 250: Lexus Eastbourne Open 2026 (Resumption after Rain Suspended)
 #https://tvratu.my.id/vid/index.mpd?id=20886
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21702
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kkW41MIZgV2JLjcxM9YaW6DlWaE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150669/cf9e59.jpg" ch-number="11", [17:45 WIB] - Men: Bulgaria vs Ukraine - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kkW41MIZgV2JLjcxM9YaW6DlWaE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150669/cf9e59.jpg" ch-number="10", [17:45 WIB] - Men: Bulgaria vs Ukraine - Volleyball Nations League
 #https://tvratu.my.id/vid/index.mpd?id=21702
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21701
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QwieeksVukMhNVSLMQcHLQoOx-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150665/4217a8.jpg" ch-number="12", [17:45 WIB] - Men: China vs Germany - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QwieeksVukMhNVSLMQcHLQoOx-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150665/4217a8.jpg" ch-number="11", [17:45 WIB] - Men: China vs Germany - Volleyball Nations League
 #https://tvratu.my.id/vid/index.mpd?id=21701
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17875
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fjb0yaIe8gI64KfhNzgDvmk6gLc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153245/14e6e4.jpg" ch-number="13", [18:00 WIB] - Rally Greece SS17 Loutraki 2 - Wolf PS - WRC EKO Acropolis Greece 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fjb0yaIe8gI64KfhNzgDvmk6gLc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153245/14e6e4.jpg" ch-number="12", [18:00 WIB] - Rally Greece SS17 Loutraki 2 - Wolf PS - WRC EKO Acropolis Greece 2026
 #https://tvratu.my.id/vid/index.mpd?id=17875
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hLlwSHO3UTezXh6eudah7Lga9Uc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153224/b37149.jpg" ch-number="14", [18:15 WIB] - MotoGP Race: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hLlwSHO3UTezXh6eudah7Lga9Uc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153224/b37149.jpg" ch-number="13", [18:15 WIB] - MotoGP Race: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
 #https://tvratu.my.id/vid/index.mpd?id=17140
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21703
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/N6QK18DQzYLNFVd55zEKxD6byuo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150791/8b196e.jpg" ch-number="15", [18:15 WIB] - Men: Iran vs Cuba - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/N6QK18DQzYLNFVd55zEKxD6byuo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150791/8b196e.jpg" ch-number="14", [18:15 WIB] - Men: Iran vs Cuba - Volleyball Nations League
 #https://tvratu.my.id/vid/index.mpd?id=21703
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21714
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/T5aHezvvDmNZzpRwhx8HXaLp6Sk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158527/630fa7.jpg" ch-number="16", [19:45 WIB] - Final: South Korea vs Indonesia - AVC Mens Cup 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/T5aHezvvDmNZzpRwhx8HXaLp6Sk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158527/630fa7.jpg" ch-number="15", [19:45 WIB] - Final: South Korea vs Indonesia - AVC Mens Cup 2026
 #https://tvratu.my.id/vid/index.mpd?id=21714
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=6299
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TRXIg3o8c1rCKte7Qr8GUSdrhQU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147265/e7d6cc.jpg" ch-number="17", [19:55 WIB] - Race - Formula 1 Lenovo Austrian Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TRXIg3o8c1rCKte7Qr8GUSdrhQU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147265/e7d6cc.jpg" ch-number="16", [19:55 WIB] - Race - Formula 1 Lenovo Austrian Grand Prix 2026
 #https://tvratu.my.id/vid/index.mpd?id=6299
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/h4UatgchiZR9rwPZ9skKYTaNX9k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153216/5ba643.jpg" ch-number="18", [20:30 WIB] - Race 2 - Harley Davidson Bagger World Cup 2026: Round 3 Netherlands
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/h4UatgchiZR9rwPZ9skKYTaNX9k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153216/5ba643.jpg" ch-number="17", [20:30 WIB] - Race 2 - Harley Davidson Bagger World Cup 2026: Round 3 Netherlands
 #https://tvratu.my.id/vid/index.mpd?id=17140
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18190
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/471tEslNlsl2pN_ySOkF6B_p3gg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5149261/d85b1c.jpg" ch-number="19", [21:00 WIB] - Round 4 - KPMG Womens PGA Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/471tEslNlsl2pN_ySOkF6B_p3gg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5149261/d85b1c.jpg" ch-number="18", [21:00 WIB] - Round 4 - KPMG Womens PGA Championship 2026
 #https://tvratu.my.id/vid/index.mpd?id=18190
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21702
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DtB47WJJIc9UIfPFTnRJp7N0pHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150673/dc4fc9.jpg" ch-number="20", [21:15 WIB] - Men: Canada vs Brazil - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DtB47WJJIc9UIfPFTnRJp7N0pHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150673/dc4fc9.jpg" ch-number="19", [21:15 WIB] - Men: Canada vs Brazil - Volleyball Nations League
 #https://tvratu.my.id/vid/index.mpd?id=21702
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21701
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iq0LjZRGuAntJIDKeS8HxlkZQro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150666/280fc1.jpg" ch-number="21", [21:15 WIB] - Men: Belgium vs Turkey - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iq0LjZRGuAntJIDKeS8HxlkZQro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150666/280fc1.jpg" ch-number="20", [21:15 WIB] - Men: Belgium vs Turkey - Volleyball Nations League
 #https://tvratu.my.id/vid/index.mpd?id=21701
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21703
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UZlr6rposqHI5hkx3msnTw5wgz4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150792/cfe1b3.jpg" ch-number="22", [21:45 WIB] - Men: France vs Japan - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UZlr6rposqHI5hkx3msnTw5wgz4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150792/cfe1b3.jpg" ch-number="21", [21:45 WIB] - Men: France vs Japan - Volleyball Nations League
 #https://tvratu.my.id/vid/index.mpd?id=21703
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17875
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/y8tJrjwGpFcB2gCgLVniT1GcLHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5152547/03cf92.jpg" ch-number="23", [22:00 WIB] - Valladolid P2 Premier Padel - Final
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/y8tJrjwGpFcB2gCgLVniT1GcLHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5152547/03cf92.jpg" ch-number="22", [22:00 WIB] - Valladolid P2 Premier Padel - Final
 #https://tvratu.my.id/vid/index.mpd?id=17875
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21701
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WzRLWEwNCIrvZpwHfw3GC5o72IA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153229/5f1b26.jpg" ch-number="24", [00:45 WIB] - Men: Poland vs Argentina - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WzRLWEwNCIrvZpwHfw3GC5o72IA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153229/5f1b26.jpg" ch-number="23", [00:45 WIB] - Men: Poland vs Argentina - Volleyball Nations League
 #https://tvratu.my.id/vid/index.mpd?id=21701
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21702
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ozLQX5lvCq1ZDmfbPEdoGwRgyyg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153230/e9f82e.jpg" ch-number="25", [01:15 WIB] - Men: Slovenia vs Italy - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ozLQX5lvCq1ZDmfbPEdoGwRgyyg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153230/e9f82e.jpg" ch-number="24", [01:15 WIB] - Men: Slovenia vs Italy - Volleyball Nations League
 #https://tvratu.my.id/vid/index.mpd?id=21702
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21703
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NVs6dKTBzJUyJu0Dy9mEaeWNStA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153231/3a4220.jpg" ch-number="26", [01:15 WIB] - Men: Serbia vs United States - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NVs6dKTBzJUyJu0Dy9mEaeWNStA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153231/3a4220.jpg" ch-number="25", [01:15 WIB] - Men: Serbia vs United States - Volleyball Nations League
 #https://tvratu.my.id/vid/index.mpd?id=21703
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17875
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/l4oKcczNlfpc1OQAyy9k0NQHmjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158587/8ef0f1.jpg" ch-number="27", [22:00 WIB] - Bordeaux P2 Premier Padel - Day 1
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/l4oKcczNlfpc1OQAyy9k0NQHmjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158587/8ef0f1.jpg" ch-number="26", [22:00 WIB] - Bordeaux P2 Premier Padel - Day 1
 #https://tvratu.my.id/vid/index.mpd?id=17875
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17875
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ez2njy3CjeUMELOcz3pQZnF9H4k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158588/6dfdb9.jpg" ch-number="28", [15:00 WIB] - Bordeaux P2 Premier Padel - Day 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ez2njy3CjeUMELOcz3pQZnF9H4k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158588/6dfdb9.jpg" ch-number="27", [15:00 WIB] - Bordeaux P2 Premier Padel - Day 2
 #https://tvratu.my.id/vid/index.mpd?id=17875
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17875
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L17xBVI2S-Lx00hV-u0Gz8UcMHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158589/87b8a6.jpg" ch-number="29", [22:00 WIB] - Bordeaux P2 Premier Padel - Day 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L17xBVI2S-Lx00hV-u0Gz8UcMHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158589/87b8a6.jpg" ch-number="28", [22:00 WIB] - Bordeaux P2 Premier Padel - Day 2
 #https://tvratu.my.id/vid/index.mpd?id=17875
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21735
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ts65NFV6h2q3Ev5XofIntxSUm6k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21735/nex-road-to-champion-vol-5-7043ee.jpg" ch-number="30", [15:30 WIB] - nex Road to Champion Vol. 5
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ts65NFV6h2q3Ev5XofIntxSUm6k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21735/nex-road-to-champion-vol-5-7043ee.jpg" ch-number="29", [15:30 WIB] - nex Road to Champion Vol. 5
 #https://tvratu.my.id/vid/index.mpd?id=21735
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
