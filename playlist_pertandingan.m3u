@@ -1,9 +1,8 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21714
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AunTLVpBheGm8w46mfxTMGvX-3M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158524/26f174.jpg" ch-number="1", [10:30 WIB] - Ranking 7-8: Chinese Taipei vs Qatar - AVC Mens Cup 2026
-#https://tvratu.my.id/vid/index.mpd?id=21714
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/AunTLVpBheGm8w46mfxTMGvX-3M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158524/26f174.jpg" ch-number="1", Ranking 7-8: Chinese Taipei vs Qatar - AVC Mens Cup 2026
+https://tvratu.my.id/vid/index.mpd?id=21714
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=6299
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Juu_-NYqt56Lr1B7ivPRIbWk0KY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147262/3de2fa.jpg" ch-number="2", [13:25 WIB] - Race - FIA Formula 3 Championship Austria Grand Prix 2026
