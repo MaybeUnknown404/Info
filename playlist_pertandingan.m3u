@@ -21,9 +21,8 @@ https://tvratu.my.id/vid/index.mpd?id=21701
 https://tvratu.my.id/vid/index.mpd?id=21702
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21703
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UZlr6rposqHI5hkx3msnTw5wgz4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150792/cfe1b3.jpg" ch-number="6", [21:45 WIB] - Men: France vs Japan - Volleyball Nations League
-#https://tvratu.my.id/vid/index.mpd?id=21703
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UZlr6rposqHI5hkx3msnTw5wgz4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150792/cfe1b3.jpg" ch-number="6", Men: France vs Japan - Volleyball Nations League
+https://tvratu.my.id/vid/index.mpd?id=21703
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17875
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/y8tJrjwGpFcB2gCgLVniT1GcLHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5152547/03cf92.jpg" ch-number="7", [22:30 WIB] - Valladolid P2 Premier Padel - Final
