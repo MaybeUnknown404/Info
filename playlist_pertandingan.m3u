@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18249
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tp8T3WP3ylEn2BN7wHiWTlY2GzI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158655/0c503e.jpg" ch-number="1", Liu Kuang Heng/Hsu Yin-Hui (TPE) vs Wu Hsuan-Yi/Yang Chu Yun (TPE) - Mixed Doubles Final | Yonex US Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1CX1a3nqx3zEg08rP0NRmqyncC0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158656/f65d60.jpg" ch-number="1", Kaloyana Nalbantova (BUL) vs Line Christophersen (DEN) - Womens Singles Final | Yonex US Open 2026
 https://tvratu.my.id/vid/index.mpd?id=18249
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18190
