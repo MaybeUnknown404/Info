@@ -17,14 +17,12 @@ https://tvratu.my.id/vid/index.mpd?id=21701
 https://tvratu.my.id/vid/index.mpd?id=18189
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21703
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NVs6dKTBzJUyJu0Dy9mEaeWNStA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153231/3a4220.jpg" ch-number="5", [01:15 WIB] - Men: Serbia vs United States - Volleyball Nations League
-#https://tvratu.my.id/vid/index.mpd?id=21703
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/NVs6dKTBzJUyJu0Dy9mEaeWNStA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153231/3a4220.jpg" ch-number="5", Men: Serbia vs United States - Volleyball Nations League
+https://tvratu.my.id/vid/index.mpd?id=21703
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21702
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ozLQX5lvCq1ZDmfbPEdoGwRgyyg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153230/e9f82e.jpg" ch-number="6", [01:15 WIB] - Men: Slovenia vs Italy - Volleyball Nations League
-#https://tvratu.my.id/vid/index.mpd?id=21702
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ozLQX5lvCq1ZDmfbPEdoGwRgyyg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153230/e9f82e.jpg" ch-number="6", Men: Slovenia vs Italy - Volleyball Nations League
+https://tvratu.my.id/vid/index.mpd?id=21702
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18249
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Gs97Cbl-Rekhe_u4kKtUC03NM-c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2026-finals-ba0fef.jpg" ch-number="7", [02:00 WIB] - Liu Kuang Heng/Hsu Yin-Hui (TPE) vs Wu Hsuan-Yi/Yang Chu Yun (TPE) - Mixed Doubles Final | Yonex US Open 2026
