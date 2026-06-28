@@ -4,25 +4,25 @@
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/T5aHezvvDmNZzpRwhx8HXaLp6Sk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158527/630fa7.jpg" ch-number="1", Final: South Korea vs Indonesia - AVC Mens Cup 2026
 https://tvratu.my.id/vid/index.mpd?id=21714
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21703
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UZlr6rposqHI5hkx3msnTw5wgz4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150792/cfe1b3.jpg" ch-number="2", Men: France vs Japan - Volleyball Nations League
-https://tvratu.my.id/vid/index.mpd?id=21703
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21702
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DtB47WJJIc9UIfPFTnRJp7N0pHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150673/dc4fc9.jpg" ch-number="3", Men: Canada vs Brazil - Volleyball Nations League
-https://tvratu.my.id/vid/index.mpd?id=21702
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=6299
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TRXIg3o8c1rCKte7Qr8GUSdrhQU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147265/e7d6cc.jpg" ch-number="4", Race - Formula 1 Lenovo Austrian Grand Prix 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TRXIg3o8c1rCKte7Qr8GUSdrhQU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5147265/e7d6cc.jpg" ch-number="2", Race - Formula 1 Lenovo Austrian Grand Prix 2026
 https://tvratu.my.id/vid/index.mpd?id=6299
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18190
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/471tEslNlsl2pN_ySOkF6B_p3gg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5149261/d85b1c.jpg" ch-number="5", Round 4 - KPMG Womens PGA Championship 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/471tEslNlsl2pN_ySOkF6B_p3gg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5149261/d85b1c.jpg" ch-number="3", Round 4 - KPMG Womens PGA Championship 2026
 https://tvratu.my.id/vid/index.mpd?id=18190
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21701
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iq0LjZRGuAntJIDKeS8HxlkZQro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150666/280fc1.jpg" ch-number="6", Men: Belgium vs Turkey - Volleyball Nations League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iq0LjZRGuAntJIDKeS8HxlkZQro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150666/280fc1.jpg" ch-number="4", Men: Belgium vs Turkey - Volleyball Nations League
 https://tvratu.my.id/vid/index.mpd?id=21701
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21702
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DtB47WJJIc9UIfPFTnRJp7N0pHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150673/dc4fc9.jpg" ch-number="5", Men: Canada vs Brazil - Volleyball Nations League
+https://tvratu.my.id/vid/index.mpd?id=21702
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21703
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UZlr6rposqHI5hkx3msnTw5wgz4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5150792/cfe1b3.jpg" ch-number="6", Men: France vs Japan - Volleyball Nations League
+https://tvratu.my.id/vid/index.mpd?id=21703
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17875
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/y8tJrjwGpFcB2gCgLVniT1GcLHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5152547/03cf92.jpg" ch-number="7", [22:30 WIB] - Valladolid P2 Premier Padel - Final
