@@ -9,9 +9,8 @@ https://tvratu.my.id/vid/index.mpd?id=17140
 https://tvratu.my.id/vid/index.mpd?id=21725
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21714
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EsZ_w_wHXAfGU9hGjPzdVsYIqak=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158526/4f8a34.jpg" ch-number="3", [16:45 WIB] - 3rd Place: Bahrain vs India - AVC Mens Cup 2026
-#https://tvratu.my.id/vid/index.mpd?id=21714
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EsZ_w_wHXAfGU9hGjPzdVsYIqak=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158526/4f8a34.jpg" ch-number="3", 3rd Place: Bahrain vs India - AVC Mens Cup 2026
+https://tvratu.my.id/vid/index.mpd?id=21714
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fW3DkrGfkO4HJpm_nYzZz9h6Ezg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5153214/7b22a9.jpg" ch-number="4", [17:00 WIB] - Moto2 Race: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
