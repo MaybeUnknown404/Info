@@ -1,24 +1,24 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rQVmkfD0XQLDO5BVGSB41l5b_2g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163397/8bbed2.jpg" ch-number="1", Taylor Fritz vs Dusan Lajovic - Gentlemens Singles First Round | Wimbledon 2026
-https://tvratu.my.id/vid/index.mpd?id=17140
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17139
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/INtEk2vEjc46ZUCMhxLaEhry3cA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163400/cc626f.jpg" ch-number="2", Taylor Townsend vs Iga Swiatek - Ladies Singles First Round | Wimbledon 2026
-https://tvratu.my.id/vid/index.mpd?id=17139
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18249
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/y7ZTXNrFvfKTUvYuSRF_kE9PM_o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2026-qualifiers-round-of-32-court-1-2107e6.jpg" ch-number="3", Cheam June Wei (MAS) vs Yanqing Wang (CAN) - Mens Singles Qualification Round of 16 | Yonex Canada Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zzEBsBSUTCpCo8RlOmCrGuiyvaw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5167176/64f855.jpg" ch-number="1", Cheam June Wei (MAS) vs Yanqing Wang (CAN) - Mens Singles Qualification Round of 16 | Yonex Canada Open 2026
 https://tvratu.my.id/vid/index.mpd?id=18249
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18250
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pN5iIKlHwA7KFSiSK7EKnU7oMjs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2026-qualifiers-round-of-32-court-2-e0d9c3.jpg" ch-number="4", Fabio Caponio (ITA) vs Huan Kai Hern (MAS) - Mens Singles Qualification Round of 16 | Yonex Canada Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2056EfKLdwyW5otzuJOr4H5T8Iw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5167188/15e7e8.jpg" ch-number="2", Fabio Caponio (ITA) vs Huan Kai Hern (MAS) - Mens Singles Qualification Round of 16 | Yonex Canada Open 2026
 https://tvratu.my.id/vid/index.mpd?id=18250
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18252
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GzUEMs5RLwLn3lipQyOR1fMJqp0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2026-qualifiers-round-of-32-court-3-668977.jpg" ch-number="5", Lap Kan Kern Pong/Catherine Choi (CAN) vs Wong Yan Kit/Johnna Rymes (CAN) - Mixed Doubles Qualification Quarter Finals | YONEX Canada Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wbtN8kF_9tqIDuk4ahLidme0Gq4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5167195/afa300.jpg" ch-number="3", Lap Kan Kern Pong/Catherine Choi (CAN) vs Wong Yan Kit/Johnna Rymes (CAN) - Mixed Doubles Qualification Quarter Finals | YONEX Canada Open 2026
 https://tvratu.my.id/vid/index.mpd?id=18252
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rQVmkfD0XQLDO5BVGSB41l5b_2g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163397/8bbed2.jpg" ch-number="4", Taylor Fritz vs Dusan Lajovic - Gentlemens Singles First Round | Wimbledon 2026
+https://tvratu.my.id/vid/index.mpd?id=17140
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17139
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/INtEk2vEjc46ZUCMhxLaEhry3cA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163400/cc626f.jpg" ch-number="5", Taylor Townsend vs Iga Swiatek - Ladies Singles First Round | Wimbledon 2026
+https://tvratu.my.id/vid/index.mpd?id=17139
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18253
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xpHYu29HI6G2LXyHwodgno7yji8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2026-qualifiers-round-of-32-court-4-1180ef.jpg" ch-number="6", [20:10 WIB] - Zicheng Xu/Jasmine Yeung (USA) vs Tian Qi Zhang/Audrey Chang (USA) - Mixed Doubles Qualification | Yonex Canada Open 2026
