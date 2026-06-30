@@ -21,9 +21,8 @@ https://tvratu.my.id/vid/index.mpd?id=17140
 https://tvratu.my.id/vid/index.mpd?id=17139
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18253
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xpHYu29HI6G2LXyHwodgno7yji8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2026-qualifiers-round-of-32-court-4-1180ef.jpg" ch-number="6", [20:10 WIB] - Zicheng Xu/Jasmine Yeung (USA) vs Tian Qi Zhang/Audrey Chang (USA) - Mixed Doubles Qualification | Yonex Canada Open 2026
-#https://tvratu.my.id/vid/index.mpd?id=18253
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xpHYu29HI6G2LXyHwodgno7yji8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2026-qualifiers-round-of-32-court-4-1180ef.jpg" ch-number="6", Zicheng Xu/Jasmine Yeung (USA) vs Tian Qi Zhang/Audrey Chang (USA) - Mixed Doubles Qualification | Yonex Canada Open 2026
+https://tvratu.my.id/vid/index.mpd?id=18253
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2bnB_mIQTKmegytMg8phhJr2bwc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163398/6a3338.jpg" ch-number="7", [21:30 WIB] - Lois Boisson vs Elena Rybakina - Ladies Singles First Round | Wimbledon 2026
