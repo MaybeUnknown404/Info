@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18249
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VjwLgPpkcOdvIRywv1fvOzeD7_0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5167183/c25a9a.jpg" ch-number="1", Hinata Suzuki/Nao Yamakita (JPN) vs Eyota Kwan/Johnna Rymes (CAN) - Womens Doubles Round of 32 | Yonex Canada Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1UWIg73woDaC0TdKD--q0_8OIOE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5167184/882aba.jpg" ch-number="1", Daniel Leung/Nyl Yakura (CAN) vs Julien Maio/William Villeger (FRA) - Mens Doubles Round of 32 | Yonex Canada Open 2026
 https://tvratu.my.id/vid/index.mpd?id=18249
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18250
@@ -25,7 +25,7 @@ https://tvratu.my.id/vid/index.mpd?id=17140
 https://tvratu.my.id/vid/index.mpd?id=17139
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18253
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/d4v4ujCp3KJqo-TefyPlE3nCvR8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5167214/0d8ff7.jpg" ch-number="7", [04:40 WIB] - Serena Kani/Agnes Korosi (INA/HUN) vs Kaho Osawa/Mai Tanabe (JPN) - Womens Doubles Round of 32 | Yonex Canada Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/d4v4ujCp3KJqo-TefyPlE3nCvR8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5167214/0d8ff7.jpg" ch-number="7", [06:00 WIB] - Serena Kani/Agnes Korosi (INA/HUN) vs Kaho Osawa/Mai Tanabe (JPN) - Womens Doubles Round of 32 | Yonex Canada Open 2026
 #https://tvratu.my.id/vid/index.mpd?id=18253
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
