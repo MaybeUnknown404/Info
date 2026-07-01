@@ -4,63 +4,64 @@
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/RXOOw7SD4Bm-4G4qAKj7CHSG2p0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163324/9447f9.jpg" ch-number="1", Uzbekistan vs Australia - AVC Girls U18 Volleyball Championship
 https://tvratu.my.id/vid/index.mpd?id=21748
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21747
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KqYPJxi-3cDclz9mSmkKlpWt_tM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163320/a4b98e.jpg" ch-number="2", Korea vs India - AVC Girls U18 Volleyball Championship
-https://tvratu.my.id/vid/index.mpd?id=21747
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21752
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/o_lnY8Fef_g7lmAI1d3-oCxiM8U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21752/kapolri-cup-basketball-2026-a56036.jpg" ch-number="3", [14:30 WIB] - Jasa Raharja vs Pemprov DKI Jakarta (Grup G | Instansi) - Kapolri Cup Basketball 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/o_lnY8Fef_g7lmAI1d3-oCxiM8U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21752/kapolri-cup-basketball-2026-a56036.jpg" ch-number="2", [14:40 WIB] - Jasa Raharja vs Pemprov DKI Jakarta (Grup G | Instansi) - Kapolri Cup Basketball 2026
 #https://tvratu.my.id/vid/index.mpd?id=21752
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17875
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ez2njy3CjeUMELOcz3pQZnF9H4k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158588/6dfdb9.jpg" ch-number="4", [15:00 WIB] - Bordeaux P2 Premier Padel - Day 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ez2njy3CjeUMELOcz3pQZnF9H4k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158588/6dfdb9.jpg" ch-number="3", [15:00 WIB] - Bordeaux P2 Premier Padel - Day 2
 #https://tvratu.my.id/vid/index.mpd?id=17875
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21748
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S3PD4LI96NSvIffhCI-Lm2Sc44k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163325/d62c42.jpg" ch-number="4", [15:45 WIB] - Japan vs Indonesia - AVC Girls U18 Volleyball Championship
+#https://tvratu.my.id/vid/index.mpd?id=21748
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21747
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2p3J6boFMqvTeYlAhuZZvg8XMqw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163321/d4c25a.jpg" ch-number="5", [15:45 WIB] - China vs Kyrgyzstan - AVC Girls U18 Volleyball Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2p3J6boFMqvTeYlAhuZZvg8XMqw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163321/d4c25a.jpg" ch-number="5", [15:55 WIB] - China vs Kyrgyzstan - AVC Girls U18 Volleyball Championship
 #https://tvratu.my.id/vid/index.mpd?id=21747
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21748
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S3PD4LI96NSvIffhCI-Lm2Sc44k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163325/d62c42.jpg" ch-number="6", [15:45 WIB] - Japan vs Indonesia - AVC Girls U18 Volleyball Championship
-#https://tvratu.my.id/vid/index.mpd?id=21748
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21748
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YLpy3Ka24XChlBy6LMsyinR06Ug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163326/909ad8.jpg" ch-number="7", [18:45 WIB] - Thailand vs Mongolia - AVC Girls U18 Volleyball Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YLpy3Ka24XChlBy6LMsyinR06Ug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163326/909ad8.jpg" ch-number="6", [18:45 WIB] - Thailand vs Mongolia - AVC Girls U18 Volleyball Championship
 #https://tvratu.my.id/vid/index.mpd?id=21748
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21747
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5bbPBNNZCyVSrho5HcqvzSI2B3Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163322/3941e3.jpg" ch-number="8", [18:45 WIB] - Chinese Taipei vs Vietnam - AVC Girls U18 Volleyball Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5bbPBNNZCyVSrho5HcqvzSI2B3Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163322/3941e3.jpg" ch-number="7", [18:55 WIB] - Chinese Taipei vs Vietnam - AVC Girls U18 Volleyball Championship
 #https://tvratu.my.id/vid/index.mpd?id=21747
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XJ-WOfCxaximYZFMTTQdrQ6Dx6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5176869/4c4870.jpg" ch-number="9", [19:00 WIB] - Aryna Sabalenka vs McCartney Kessler - Ladies Singles Second Round | Wimbledon 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XJ-WOfCxaximYZFMTTQdrQ6Dx6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5176869/4c4870.jpg" ch-number="8", [19:00 WIB] - Aryna Sabalenka vs McCartney Kessler - Ladies Singles Second Round | Wimbledon 2026
 #https://tvratu.my.id/vid/index.mpd?id=17140
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17139
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/keE3clRFgC4y-PSXdmqFCDwnmxI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5176872/e80758.jpg" ch-number="10", [19:25 WIB] - Jannik Sinner vs Nuno Borges - Gentlemens Singles Second Round | Wimbledon 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/keE3clRFgC4y-PSXdmqFCDwnmxI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5176872/e80758.jpg" ch-number="9", [19:25 WIB] - Jannik Sinner vs Nuno Borges - Gentlemens Singles Second Round | Wimbledon 2026
 #https://tvratu.my.id/vid/index.mpd?id=17139
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18249
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UesJNQNQnBj6caMidiRTn4DUc6U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2026-round-of-32-court-1-7129ec.jpg" ch-number="11", [20:00 WIB] - Kathrine Vang/Mette Werge (DEN) vs Lin Chih-Chun/Yang Chu Yun (TPE) - Womens Doubles Round of 32 | Yonex Canada Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UesJNQNQnBj6caMidiRTn4DUc6U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2026-round-of-32-court-1-7129ec.jpg" ch-number="10", [20:00 WIB] - Kathrine Vang/Mette Werge (DEN) vs Lin Chih-Chun/Yang Chu Yun (TPE) - Womens Doubles Round of 32 | Yonex Canada Open 2026
 #https://tvratu.my.id/vid/index.mpd?id=18249
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18250
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4pVNnS4zaLx0cd1eA5o34xGe1hw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2026-round-of-32-court-2-495eba.jpg" ch-number="12", [20:00 WIB] - Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Sumire Nakade/Miyu Takahashi (JPN) - Womens Doubles Round of 32 | YONEX Canada Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4pVNnS4zaLx0cd1eA5o34xGe1hw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2026-round-of-32-court-2-495eba.jpg" ch-number="11", [20:00 WIB] - Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Sumire Nakade/Miyu Takahashi (JPN) - Womens Doubles Round of 32 | YONEX Canada Open 2026
 #https://tvratu.my.id/vid/index.mpd?id=18250
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18252
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/u3Anpf3pWw5jfwoCxabTAp2Xp_8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2026-round-of-32-court-3-9a8d64.jpg" ch-number="13", [20:10 WIB] - Chen Cheng Kuan/Liu Kuang Heng (TPE) vs Alex Green/Zach Russ (ENG) - Mens Doubles Round of 32 | Yonex Canada Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/u3Anpf3pWw5jfwoCxabTAp2Xp_8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2026-round-of-32-court-3-9a8d64.jpg" ch-number="12", [20:10 WIB] - Chen Cheng Kuan/Liu Kuang Heng (TPE) vs Alex Green/Zach Russ (ENG) - Mens Doubles Round of 32 | Yonex Canada Open 2026
 #https://tvratu.my.id/vid/index.mpd?id=18252
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18253
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nnna1AnrhnVPt75HT_NSVz6-ECA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2026-round-of-32-court-4-5f716f.jpg" ch-number="13", [20:10 WIB] - Yonex Canada Open 2026 - Round of 32 (Court 4)
+#https://tvratu.my.id/vid/index.mpd?id=18253
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
