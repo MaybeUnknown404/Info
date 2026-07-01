@@ -1,9 +1,8 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21752
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_SJV8hEECTScJURpfah7HnRUlKk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5168621/cbd710.jpg" ch-number="1", [14:40 WIB] - Mahkamah Agung vs Bhayangkara (Grup B | Instansi) - Kapolri Cup Basketball 2026
-#https://tvratu.my.id/vid/index.mpd?id=21752
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_SJV8hEECTScJURpfah7HnRUlKk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5168621/cbd710.jpg" ch-number="1", Mahkamah Agung vs Bhayangkara (Grup B | Instansi) - Kapolri Cup Basketball 2026
+https://tvratu.my.id/vid/index.mpd?id=21752
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17875
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ez2njy3CjeUMELOcz3pQZnF9H4k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158588/6dfdb9.jpg" ch-number="2", [15:00 WIB] - Bordeaux P2 Premier Padel - Day 2
@@ -66,7 +65,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18249
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UesJNQNQnBj6caMidiRTn4DUc6U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2026-round-of-32-court-1-7129ec.jpg" ch-number="14", [21:28 WIB] - Takuto Goto/Tsubasa Yoshida (JPN) vs Andre Timotius Tololiu/Gabriel Christopher Wintan Wijaya (INA) - Mens Doubles Round of 32 | Yonex Canada Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kV1yY9D4Brq0-n0XbN8J-00aYUk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5177595/f80e5b.jpg" ch-number="14", [21:28 WIB] - Takuto Goto/Tsubasa Yoshida (JPN) vs Andre Timotius Tololiu/Gabriel Christopher Wintan Wijaya (INA) - Mens Doubles Round of 32 | Yonex Canada Open 2026
 #https://tvratu.my.id/vid/index.mpd?id=18249
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -91,7 +90,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=18250
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4pVNnS4zaLx0cd1eA5o34xGe1hw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2026-round-of-32-court-2-495eba.jpg" ch-number="19", [06:00 WIB] - Liu Kuang Heng/Hsu Yin-Hui (TPE) vs Andre Timotius Tololiu/Serena Kani (INA) - Mixed Doubles Round of 32 | YONEX Canada Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/n0pjRLougA-JLcFoXksPCp9bKSA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5177619/d95f34.jpg" ch-number="19", [06:00 WIB] - Liu Kuang Heng/Hsu Yin-Hui (TPE) vs Andre Timotius Tololiu/Serena Kani (INA) - Mixed Doubles Round of 32 | YONEX Canada Open 2026
 #https://tvratu.my.id/vid/index.mpd?id=18250
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
