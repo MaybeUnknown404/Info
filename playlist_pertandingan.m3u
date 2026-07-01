@@ -1,24 +1,24 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XJ-WOfCxaximYZFMTTQdrQ6Dx6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5176869/4c4870.jpg" ch-number="1", Aryna Sabalenka vs McCartney Kessler - Ladies Singles Second Round | Wimbledon 2026
-https://tvratu.my.id/vid/index.mpd?id=17140
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21752
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GkbzLnM6f0vpOFBP5Rq8uP1efh0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5168623/74af62.jpg" ch-number="2", Imipas vs Kemenkes (Grup D | Instansi) - Kapolri Cup Basketball 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GkbzLnM6f0vpOFBP5Rq8uP1efh0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5168623/74af62.jpg" ch-number="1", Imipas vs Kemenkes (Grup D | Instansi) - Kapolri Cup Basketball 2026
 https://tvratu.my.id/vid/index.mpd?id=21752
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17875
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Ez2njy3CjeUMELOcz3pQZnF9H4k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158588/6dfdb9.jpg" ch-number="3", Bordeaux P2 Premier Padel - Day 2
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Ez2njy3CjeUMELOcz3pQZnF9H4k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5158588/6dfdb9.jpg" ch-number="2", Bordeaux P2 Premier Padel - Day 2
 https://tvratu.my.id/vid/index.mpd?id=17875
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21748
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YLpy3Ka24XChlBy6LMsyinR06Ug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163326/909ad8.jpg" ch-number="4", Thailand vs Mongolia - AVC Girls U18 Volleyball Championship
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YLpy3Ka24XChlBy6LMsyinR06Ug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163326/909ad8.jpg" ch-number="3", Thailand vs Mongolia - AVC Girls U18 Volleyball Championship
 https://tvratu.my.id/vid/index.mpd?id=21748
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21747
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5bbPBNNZCyVSrho5HcqvzSI2B3Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163322/3941e3.jpg" ch-number="5", Chinese Taipei vs Vietnam - AVC Girls U18 Volleyball Championship
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5bbPBNNZCyVSrho5HcqvzSI2B3Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5163322/3941e3.jpg" ch-number="4", Chinese Taipei vs Vietnam - AVC Girls U18 Volleyball Championship
 https://tvratu.my.id/vid/index.mpd?id=21747
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17140
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XJ-WOfCxaximYZFMTTQdrQ6Dx6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5176869/4c4870.jpg" ch-number="5", Aryna Sabalenka vs McCartney Kessler - Ladies Singles Second Round | Wimbledon 2026
+https://tvratu.my.id/vid/index.mpd?id=17140
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17139
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/keE3clRFgC4y-PSXdmqFCDwnmxI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5176872/e80758.jpg" ch-number="6", [19:25 WIB] - Jannik Sinner vs Nuno Borges - Gentlemens Singles Second Round | Wimbledon 2026
