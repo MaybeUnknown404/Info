@@ -9,9 +9,8 @@ https://tvratu.my.id/vid/index.mpd?id=21752
 https://tvratu.my.id/vid/index.mpd?id=21748
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=17875
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MjzFfQ62WcW49yhhfkMmZLP3q2Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5160224/d5e16f.jpg" ch-number="3", [15:00 WIB] - Bordeaux P2 Premier Padel - Day 3
-#https://tvratu.my.id/vid/index.mpd?id=17875
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MjzFfQ62WcW49yhhfkMmZLP3q2Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5160224/d5e16f.jpg" ch-number="3", Bordeaux P2 Premier Padel - Day 3
+https://tvratu.my.id/vid/index.mpd?id=17875
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=21748
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/H7qK8MeeihN__qQVG6T_GfDJXBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5178884/e11480.jpg" ch-number="4", [15:45 WIB] - Indonesia vs Iran - AVC Girls U18 Volleyball Championship
